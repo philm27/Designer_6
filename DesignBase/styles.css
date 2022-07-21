@@ -1,0 +1,343 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+BODY {
+	font-family: Verdana;
+	font-size: 9.0pt;
+	background-attachment: fixed;
+	background-color: #ffffff;
+	background-image: url(CAD_help.jpg);
+	color: #000000;
+}
+H1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 24.0pt;
+	background-color: #374373;
+	text-align: center;
+	color: #ffffff;
+	border: solid #ffffff 0.5pt;
+}
+H2 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 18.0pt;
+	text-align: center;
+	color: #000000;
+}
+H3 {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14.0pt;
+	color: #000000;
+}
+H4 {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12.0pt;
+	color: #000000;
+}
+H5 {
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12.0pt;
+	color: #000000;
+}
+H6 {
+	font-family: Arial;
+	font-size: 12.0pt;
+	color: #000000;
+}
+P {
+	font-family: Verdana;
+	font-size: 9.0pt;
+	background-attachment: fixed;
+	background-image: url("apso logo.jpg");
+	color: #000000;
+	margin-bottom: 7pt;
+}
+XMP {
+	font-family: "Courier New";
+	font-size: 12.0pt;
+	color: #000000;
+}
+P.Preformatted {
+	line-height: normal;
+	margin-bottom: 14pt;
+	margin-top: 14pt;
+	x-text-tab-stops: repeat 1in;
+	white-space: nowrap;
+	color: #000000;
+	font-size: 12.0pt;
+	font-family: "Courier New";
+}
+P.Listing {
+	margin-top: -5.0pt;
+	line-height: normal;
+	color: #000000;
+	list-style-type: none;
+	font-size: 9.0pt;
+	font-family: Verdana;
+}
+P.Address {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #000000;
+	font-size: 8.0pt;
+	font-style: normal;
+	font-family: Verdana;
+}
+A.expandspot {
+	cursor: hand;
+	color: #008000;
+	font-style: normal;
+}
+SPAN.expandtext {
+	color: #ff0000;
+	font-weight: normal;
+	font-style: italic;
+}
+A.dropspot {
+	font-style: italic;
+	cursor: hand;
+	color: #008000;
+}
+A.glossterm {
+	cursor: hand;
+	color: #800000;
+	font-style: normal;
+}
+SPAN.glosstext {
+	color: #0000ff;
+	font-weight: normal;
+	font-style: italic;
+}
+table.SimpleGridBlack {
+	padding: 0px;
+	border-top: Solid 1px #000000;
+	border-left: Solid 1px #000000;
+	x-border-spacing: 0px;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+}
+table.SimpleGridBlack td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+table.SimpleGridBlack tr.t1Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+}
+table.SimpleGridBlack tr.t2Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+}
+rh-list.Bullets {
+	x-lvl-1-type: disc;
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-margin: 20px;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: diamond;
+	x-lvl-4-format: "<x>";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-type: disc;
+	x-lvl-5-format: "<x>";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: square;
+	x-lvl-6-format: "<x>";
+	x-lvl-6-margin: 100px;
+	x-lvl-7-type: circle;
+	x-lvl-7-format: "<x>";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-type: diamond;
+	x-lvl-8-format: "<x>";
+	x-lvl-8-margin: 140px;
+	x-level-count: 9;
+	x-lvl-9-type: disc;
+	x-lvl-9-format: "<x>";
+	x-lvl-9-margin: 160px;
+	x-lvl-9-pfx-class: rls-9-Bullets;
+	x-lvl-1-pfx-class: rls-1-Bullets;
+	x-lvl-2-pfx-class: rls-2-Bullets;
+	x-lvl-3-pfx-class: rls-3-Bullets;
+	x-lvl-4-pfx-class: rls-4-Bullets;
+	x-lvl-5-pfx-class: rls-5-Bullets;
+	x-lvl-6-pfx-class: rls-6-Bullets;
+	x-lvl-7-pfx-class: rls-7-Bullets;
+	x-lvl-8-pfx-class: rls-8-Bullets;
+}
+span.rls-9-Bullets {
+	font-size: 8pt;
+}
+span.rls-1-Bullets {
+	font-size: 12pt;
+}
+span.rls-2-Bullets {
+	font-size: 12pt;
+}
+span.rls-3-Bullets {
+	font-size: 12pt;
+}
+span.rls-4-Bullets {
+	font-size: 12pt;
+}
+span.rls-5-Bullets {
+	font-size: 10pt;
+}
+span.rls-6-Bullets {
+	font-size: 10pt;
+}
+span.rls-7-Bullets {
+	font-size: 10pt;
+}
+span.rls-8-Bullets {
+	font-size: 10pt;
+}
+table.BlueShadedAlternateColor {
+	x-border-spacing: 0px;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #4F81BD;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #4F81BD;
+	x-last-row: 1;
+	x-last-row-name: last;
+	x-last-col: 1;
+	x-last-col-name: last;
+}
+table.BlueShadedAlternateColor td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+table.BlueShadedAlternateColor tr.t1Row td {
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #4F81BD;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #4F81BD;
+	background-color: #a5bcdd;
+}
+table.BlueShadedAlternateColor tr.t2Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #4F81BD;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #4F81BD;
+	background-color: #D3DFEE;
+}
+table.BlueShadedAlternateColor tr.last td {
+	background-color: #1e477c;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: 4f81bd;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: 4f81bd;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	color: #d3dded;
+	font-weight: bold;
+}
+table.BlueShadedAlternateColor tr.t1Row td.last {
+	background-color: #1e477c;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: 4f81bd;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: 4f81bd;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	color: #d3dded;
+	font-weight: bold;
+}
+table.BlueShadedAlternateColor tr.t2Row td.last {
+	background-color: #1e477c;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: 4f81bd;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: 4f81bd;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	color: #d3dded;
+	font-weight: bold;
+}
+table.BlueShadedAlternateColor td.last {
+	background-color: #1e477c;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: 4f81bd;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: 4f81bd;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	color: #d3dded;
+	font-weight: bold;
+}
+table.SimpleGridBlack2 {
+	padding: 0px;
+	border-top: Solid 1px #000000;
+	border-left: Solid 1px #000000;
+	x-border-spacing: 0px;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+}
+table.SimpleGridBlack2 td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+table.SimpleGridBlack2 tr.t1Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	font-family: "Times New Roman";
+	font-size: 12pt;
+}
+table.SimpleGridBlack2 tr.t2Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+}

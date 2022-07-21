@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Random Balance</title>
+<link rel="StyleSheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+<h1>Random Balance</h1>
+<p>This pair of functions (Horizontal and Vertical) allow the user to force 
+ a design to be balanced in one or other axis.</p>
+<p>If a design is nearly balanced anyway it will be very quick but will 
+ be slower if a design is very unbalanced.</p>
+<p>A Vertical Random Balance will make each END in the design contain the 
+ same amount of color as every other end (or as near as is possible). Any 
+ colors that occur less than once in every end (e.g. 24 times in a width 
+ of 252) will be evenly spread across the design.</p>
+<p>Similarly a Horizontal Random Balance will make each ROW in the design 
+ contain the same amount of color as every other row.</p>
+<p>These functions will <span style="font-style: italic;">not</span> move 
+ whole shapes around in order to balance a design. Instead, individual 
+ pixels will be moved in order to balance the image, thus an image that 
+ is very &quot;unbalanced&quot; will be substantially modified by this 
+ process.</p>
+<p style="font-weight: bold;"><span style="font-weight: bold;">Stencil 
+ and Protected Areas</span></p>
+<p style="font-weight: normal;">Note that these operations <span style="font-style: italic;">do</span> 
+ <span style="font-style: italic;">not</span> use the current stencil and 
+ Protected areas mask and will always act on the full design.</p>
+<p style="font-weight: bold;">Examples</p>
+<p style="font-weight: bold;">&#160;</p>
+<table class="SimpleGridBlack2" style="margin-left: 5px; margin-right: 5px; 
+		 margin-top: 5px; margin-bottom: 5px;" cellspacing="0" width="75.221%" 
+		 align="center">
+	<col style="width: 7.06%;" />
+	<col style="width: 44.536%;" />
+	<col style="width: 45.398%;" />
+	<tr class="t1Row" style="height: 17px;">
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;" 
+			 bgcolor="#D3D3D3"><p style="text-align: center;">&#160;</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;" 
+			 bgcolor="#D3D3D3"><p style="text-align: center;">Before</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;" 
+			 bgcolor="#D3D3D3"><p style="text-align: center;"><span style="font-family: Verdana, sans-serif; 
+		 font-size: 9pt;">After</span></p></td>
+	</tr>
+	<tr class="t2Row" style="height: 296px;">
+		<td style="vertical-align: Top;"><p style="text-align: center;">Example 
+		 1</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_001.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center;"><span style="text-align: center; 
+											 font-family: Verdana, sans-serif; 
+											 font-size: 8pt;">Note each 
+		 end contains the same number of blue and yellow points</span></p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_001.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center;"><span style="text-align: center; 
+											 font-size: 8pt;">...so the 
+		 image is exactly the same after balancing</span></p></td>
+	</tr>
+	<tr class="t1Row" style="height: 296px;">
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;">Example 2</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_002B.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center; font-size: 8pt;">This design is not 
+		 balanced </p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_002A.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center;"><span style="text-align: center; 
+											 font-size: 8pt;">.. so after 
+		 a Vertical Random Balance - this will be a possible result - each 
+		 end now contains 12 points of blue.</span></p></td>
+	</tr>
+	<tr class="t2Row" style="height: 296px;">
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;">Example 3</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_002A.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center; font-size: 8pt;">This is the same 
+		 image as above after the Vertical Random Balance</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_003A.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center; font-size: 8pt;">...and this is after 
+		 a Horizontal Random Balance - each row now contains 12 points 
+		 of blue</p></td>
+	</tr>
+	<tr class="t1Row" style="height: 296px;">
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;">Example 4</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_004B.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center; font-size: 8pt;">An ornamental design 
+		 like this that is very unbalanced in terms of color usage in each 
+		 end..</p></td>
+		<td style="border-right-width: 1px; border-bottom-width: 1px; vertical-align: Top;"><p 
+			 style="text-align: center;"><img src="RandomBalance_004a.png" 
+												 alt="" style="border: none;" 
+												 border="0" /></p>
+		<p style="text-align: center; font-size: 8pt;">...will be transformed 
+		 into something in the same colors but unrecognisable when compared 
+		 with the original. (Both Horizontal and Vertical Random Balance 
+		 performed)</p></td>
+	</tr>
+</table>
+<p style="font-weight: bold;">&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+</body>
+</html>

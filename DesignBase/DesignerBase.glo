@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary version="1.0">
+	<glossentry>
+		<glossterm>Aspect Correct</glossterm>
+		<glossdef>To view your designs at their correct quality, you must ensure that the aspect correct function is on. Without it, your work will be displayed as a ‘square’ quality (7 x 7, 8 x 8 etc.)</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Background</glossterm>
+		<glossdef>Your background colour is the colour that is ‘live’ in the right-hand mouse button.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>BMP</glossterm>
+		<glossdef>BMP is the file extension for Bitmap files.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Brush Handle</glossterm>
+		<glossdef>The brush handle controls the point at which a custom brush is held when placing it in a design. It is an important facility as it will help you to place brushes easily and accurately.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CADVTEXTURES</glossterm>
+		<glossdef>This contains the cut and loop textures that you use to texture the design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Circular Borders</glossterm>
+		<glossdef>It is possible to take an element from a design and create a circular border with it.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Click and Drag</glossterm>
+		<glossdef>'Click and Drag' is a term commonly used with reference to computers. To Click and Drag - hold down the left-hand mouse button (unless specifically told to use the right button) and move your mouse away from the start-point, whilst continuing to keep pressure on the mouse button and mouse pad. This will drag your shape out - when it reaches the required size, release the mouse button.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Custom Brush</glossterm>
+		<glossdef>A custom brush is any brush other than the standard ones which can be selected from the Toolbox. They are generally "cut" from the design or selected from the shelf.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Custom Colour Palette</glossterm>
+		<glossdef>For most of your design work you will want to create a customised palette. This can be done by using the CHANGE PALETTE feature.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Custom Working Area</glossterm>
+		<glossdef>It is possible to ‘protect’ areas within the normal working area , thereby creating a custom working area. Once an area of your design is protected, any work you do will not affect the protected area. For instance, if you draw or spray on your design, any colour that lands on your protected area will not ‘stick’ as it is masked off.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Default Colour Palette</glossterm>
+		<glossdef>This is the colour palette seen every time you start a new design or open up the Carpet Designer application</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Digitiser Pressure Settings</glossterm>
+		<glossdef>If you work with a pen and digitizer rather than a mouse, you can use Pen Pressure Control in drawing functions. By applying greater or less pressure with the pen on the digitizer, your brush thickness will increase or decrease - rather like using a paintbrush. You are unlikely to want to have this facility selected as a default – but will just use it for certain styles of design-work.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Dot Removal</glossterm>
+		<glossdef>Dot removal can be useful if you have been creating spray effects and want to edit out any stray dots. For instance, to stop a design looking bitty, you may not want to have any single shots of colour in a background spray effect.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Duplicate End and Rows</glossterm>
+		<glossdef>Use duplicate to copy a repeating horizontal or vertical section of a design a specified number of times. For example, if you are designing a 6’ x 12’ rug with a 6” x 6” repeating border, 6” x 6” corner pieces and a 6” x 6” repeating field, you can use the duplicating application to quickly and accurately build your rug using the following procedure:-</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Elliptical Borders</glossterm>
+		<glossdef>To access the Elliptical Borders window, select BORDER from the POWER TOOLS drop-down menu , and then select ELLIPTICAL from the sub-menu.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Elliptical Cut</glossterm>
+		<glossdef>Use this tool to cut circular or elliptical brushes!</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Files</glossterm>
+		<glossdef>Designs, projects, palettes and frame plant guides are all saved as FILES within FOLDERS.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Fill</glossterm>
+		<glossdef>You can fill an area in one of two ways - either fill with a single colour or with a brush.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Folders</glossterm>
+		<glossdef>Designs, projects, palettes and frame plant guides are all saved as FILES within FOLDERS. Folders are a simple way of storing your designs and files in an ordered way.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Foreground</glossterm>
+		<glossdef>Your foreground colour is the colour that is ‘live’ in the left-hand mouse button.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Freehand Cut</glossterm>
+		<glossdef>There are five different ways to cut a custom brush. Freehand cut is used to cut roughly around simple shapes. If you want to cut a brush of a motif that has different top colours to the design’s background colours, then this tool is ideal.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Freehand Draw</glossterm>
+		<glossdef>Freehand Draw’ enables you to draw as if you were using a pencil. Choose the brush shape and size that you want to draw with from the toolbox , or alternatively you can draw with a custom brush.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Global Fill</glossterm>
+		<glossdef>This feature allows you to change a colour throughout you design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Grid</glossterm>
+		<glossdef>It is possible to place a grid over your design - to separate it into individual design points, with bold lines at intervals set in the specification window .</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>History List</glossterm>
+		<glossdef>The History List can be found at the bottom of the FILE drop-down menu. It is a list of the last four designs or projects that you have either saved to a folder or opened from a folder. The list also tells you which folders the designs are saved in.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Horizontal Repeat</glossterm>
+		<glossdef>Here your design will only repeat side to side. Choose this if you are designing a horizontal border or runner.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>IFF</glossterm>
+		<glossdef>If you want to save your main design, together with all palette, frame plan, weave and threading information (where applicable), you should save it as a file with a .IFF file extension. This will NOT save any associated shelf items.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Importing</glossterm>
+		<glossdef>Import is another way of saying "LOADING". A file can either be imported to a shelf box for use as a brush, or it can be imported as the main design whilst leaving a copy of it in an allocated shelf box.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Information Panel</glossterm>
+		<glossdef>The Information Panel is a small window that follows the cursor about the screen - giving you information about the position of the cursor.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Keyboard Shortcuts</glossterm>
+		<glossdef>Many of the functions accessed via the drop-down menus , toolbox and toolbar can be quickly activated using the keyboard. Some people don’t like to bother with the keyboard whilst they’re designing, but others find the shortcuts very useful - usually remembering a few at a time. Where possible, the key selected to activate a function has been chosen so that it is easy to remember - usually by using the first letter of the word.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Line Removal</glossterm>
+		<glossdef>In much the same way as you can remove dots from a design, you can also break horizontal and vertical lines up. For instance, if you didn’t want to have any vertical lines greater than 6 shots in length in your design, you could request for them to be split into smaller lengths.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Match</glossterm>
+		<glossdef>How do your repeats match? There are four standard match types to select from - straight, quarter, third and half. Additionally, you can create your own match type.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Menu Bar</glossterm>
+		<glossdef>The drop-down menus provide a comprehensive choice of tools to use whilst creating your design. In order to select an application from a drop-down menu, simply float your cursor over the desired heading in the menu-bar (this will display the required menu) and then click on the application required. If there is an arrow to the right of an application, this means that there is a sub-menu to select from.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Mirror</glossterm>
+		<glossdef>It is possible to mirror a design or brush - either mirroring half of the design into the other half, or alternatively mirroring the whole design to create a revised design twice the size.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Normal Repeat</glossterm>
+		<glossdef>Here your design will repeat vertically and horizontally. This is the repeat type chosen for most design work.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Normal Working Area</glossterm>
+		<glossdef>The normal working area is specified by the edges of the design. Within this area you can use any designing tools. Once you go beyond the boundary of the design area the cursor changes from a cross-hair to an arrow – ready for you to select an application from the toolbox , toolbar , drop-down menus , palette or shelf .</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Numeric Cut</glossterm>
+		<glossdef>This facility cuts rectangular or square brushes numerically (i.e. by specifying the co-ordinates at which to cut it). This can be useful if you are cutting a brush from a large design to ensure that it is cut accurately.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Numeric Keypad</glossterm>
+		<glossdef>The numeric keypad (found on the right-hand side of your keyboard) contains a group of shortcut keys that can scroll around your design. They are particularly useful if you are working on a large design or are working at a high zoom level , as they enable you to move quickly to different areas of your design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Numeric Paste</glossterm>
+		<glossdef>It is possible to place a brush numerically (i.e. by specifying the co-ordinates in which to place it). This can be useful if you are placing a brush into a large design (for example a rug within a room plan) – to ensure that it is placed accurately. Multile repeats can be pasted if required.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Outline Wizard</glossterm>
+		<glossdef>This is a useful, versatile outlining tool. It basically outlines one ormore colorus with an outline of a specified thickness and colour. However, it can also be used to create ‘relief’ effects using highlights and shadows.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>PAL</glossterm>
+		<glossdef>Palette are saved and loaded using the file extension "PAL"</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Palette</glossterm>
+		<glossdef>The palette window contains the colours that are currently in your design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Palette Change</glossterm>
+		<glossdef>Use the Palette Change window in order to customise your palette.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Polygon</glossterm>
+		<glossdef>A line or series of lines forming a figure. In this sofwtare the polygons are held as a separate layer that can be rendered into the main design but can also be moved, re-sized etc.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Polygon Cut</glossterm>
+		<glossdef>There are five different ways to cut a custom brush. Use this tool to cut around large, detailed shapes. If you need to cut accurately around a shape this is the tool to use!</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>PRJ</glossterm>
+		<glossdef>If you want to save a project - your main design together with all its associated shelves, palette and frame plant information (where applicable), you should save it as a file with a .PRJ file extension.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Projects</glossterm>
+		<glossdef>A project consists of your design and all its shelves . The method of working with projects has been developed to allow you to have up to 5 different design projects on the go at once, with each project having up to 99 shelves saved within it. This enables you to switch from one design to another without having to open the designs each time from a folder .</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Protected Areas</glossterm>
+		<glossdef>It is possible to ‘protect’ areas within the normal working area , thereby creating a custom working area. Once an area of your design is protected, any work you do will not affect the protected area. For instance, if you draw or spray on your design, any colour that lands on your protected area will not ‘stick’ as it is masked off.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Quality</glossterm>
+		<glossdef>Quality is the word used to describe the ends and row settings of the design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Rectangle Cut</glossterm>
+		<glossdef>If you want to cut out a sample from a design for developmental or display purposes, then use Rectangular Cut.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Redo</glossterm>
+		<glossdef>Use Redo to cancel any Undo's that you may have performed</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Redraft</glossterm>
+		<glossdef>Use redraft to change the quality of your design whilst keeping the artwork proportionally correct.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Rotate</glossterm>
+		<glossdef>You can use the ROTATE function to rotate a whole design or a brush at any angle, and at any direction that you wish.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Rotating a Brush</glossterm>
+		<glossdef>There are two ways to rotate a custom brush – one for 90 degree rotation of ‘square’ carpet qualities (i.e. 7x7, 8x8), and a more complex application for rotating brushes of any quality at any angle, where the brush can be redrafted.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Rotating a Design</glossterm>
+		<glossdef>To rotate your whole design, select ROTATE from the DESIGN drop-down menu . This will bring up the ‘Rotate Design Options’ window. There are six options available – flick between the options by clicking on the current option in the window.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Rug Repeat</glossterm>
+		<glossdef>Here, your design will not repeat. Choose this if you are designing a rug!</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Save as</glossterm>
+		<glossdef>The SAVE AS option allows you to change the name of a file when you save it. This is recommended in case you overwrite anything you wanted to keep.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Scrolling</glossterm>
+		<glossdef>To reach different areas of your design - particularly if you are working on a very large design or are working at a high zoom level - you scroll from one area to another.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Shelf</glossterm>
+		<glossdef>For every design project that you start, there are 99 shelves available to you for keeping custom brushes associated with the project. They run down the right-hand side of the screen.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Shelf Box</glossterm>
+		<glossdef>The design currently on your screen as the main design is constantly updated as the ‘edit box’ in your shelves. The ‘edit box’ is characterised by its broad red outline. It is the only shelf that updates as you work. Any shelf can be nominated as the edit box, although it will always default to box 1 until you change it.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Special Insert</glossterm>
+		<glossdef>This function lets you alter your design size without spoiling motifs within the design. It allows you to choose the path across your design, in which to insert or delete ends/rows, which will cause the least damage to your artwork.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Specification Dialog</glossterm>
+		<glossdef>This window displays the specifications of your design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Status Bar</glossterm>
+		<glossdef>The status bar runs along the bottom of the screen. It enables you to view, at a glance, your current set-up.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Tape Measure</glossterm>
+		<glossdef>The Tape Measure can be found in the POWER TOOLS drop-down menu . On selecting it, the ‘Tape Measure’ window will appear on screen and your cursor will be accompanied by a picture of a tape measure! This facility will stay selected until you deselect it from the POWER TOOLS drop-down menu. To take a measurement within your design, click with the mouse on your start point for the measurement and then drag the cursor to the finish point. As you drag the cursor the Tape Measure window will display the distance from the start point.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Texture</glossterm>
+		<glossdef>It is possible to view a section of your design at actual size with textured cut or loop simulation. It is displayed in a secondary window that you can leave on your screen whilst you continue to work in your main design area. The texture window shows a ‘snapshot’ of your design at the time you request it – it does not update as you alter your design. If you want to update the image, you have to reselect it.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Toolbar</glossterm>
+		<glossdef>The toolbar is situated in the top left-hand corner of the screen. It contains shortcut icons to fourteen commonly used tools, which are also found in the drop-down menus.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Toolbox</glossterm>
+		<glossdef>The toolbox is a box of buttons which allows you to have easy access to the most commonly used functions whilst you’re designing.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Transparency</glossterm>
+		<glossdef>The transparency facility is for use with custom brushes. By selecting colours to be transparent before creating a brush, they will not be ‘picked up’ with the brush. Alternatively, if you have already cut your brush, you can alter the transparencies whilst the brush is on screen and see the effect it makes.(This is often the best way to work.) The most common situation in which to use transparencies is for picking up foreground elements of a design without the background. For example, if you have designed a floral on a cloud ground and want to pick up a floral group for use in another part of the design, you simply make the ground colours transparent so that they are not picked up with the brush.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Undo</glossterm>
+		<glossdef>Use the ‘Undo’ facility to retrace your steps in a design. If you make an alteration to your design that you’re not happy with, you can ‘undo’ it, and get back to the stage you were at before the alteration.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Vertical Repeat</glossterm>
+		<glossdef>Here your design will only repeat top to bottom. Choose this if you are designing a vertical border or runner.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Wheel</glossterm>
+		<glossdef>It is possible to ‘wheel’ a design through 180 degrees – either wheeling within the boundaries of your design, or wheeling the whole design to create a revised design twice the size.</glossdef>
+	</glossentry>
+</glossary>

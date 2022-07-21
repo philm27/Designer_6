@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Shade Library Preferences</title>
+<link rel="StyleSheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+<h1>Shade Library Preferences</h1>
+<p>&#160;</p>
+<p>Shade IDs (or codes) can be checked against the shade library when the 
+ design is loaded. The action that is taken if a discrepancy (or conflict) 
+ arises is specified in these preferences.</p>
+<p>This allows shade details in the design to be updated which may be important 
+ if some RGB values have been changed.</p>
+<p style="text-align: center;"><img src="PrefsShadeLib.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="401" height="510" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic;">Example 
+ Shade Library Preferences</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Database</p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">You can use the data base directly, 
+		 or, your can use a separate text file - a shadefile. Taking the 
+		 former option avoids the need to &quot;export shade file&quot; 
+		 from C+Y. It is thus recommended that you select &quot;Use C+Y 
+		 database direct&quot;. * <span style="font-style: italic;">(See 
+		 below for more information)</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Replace Missing Shades</p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">In order to aid setting up a new 
+		 C+Y data base, this option was introduced. It forces the software 
+		 to write shades found in a design file to the C+Y database if 
+		 they are &quot;missing&quot;. At present this applies only to 
+		 .DES design files. For more information see the topic <a href="Replace_Missing_Shades.htm">Replace 
+		 Missing Shades</a>.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">Do 
+		 not check palette against the shade file</span></p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If selected the program will not 
+		 update shade information in the palette on opening a design. Existing 
+		 shade names and RGB values in the palette will be retained.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">Discard 
+		 conflicting shades</span></p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If selected the program will remove 
+		 any shade numbers from the palette where there is a conflict with 
+		 the shade file. A conflict is any shade now missing from the shade 
+		 file or where the RGB value is different. Note that only the shade 
+		 numbers and names are removed from the palette. The colour itself 
+		 will be retained.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Resolve differences</p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If selected the program will resolve 
+		 any differences between the design palette and the shade file 
+		 by using one of the following methods.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Always trust the shade library</p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If selected, then in the event of 
+		 a conflict, the RGB value from the shade library will be used 
+		 automatically.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Always trust the design file</p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If selected, then in the event of 
+		 a conflict, the RGB value from the design file will be used automatically.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 34%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Always ask the user</p></td>
+		<td style="vertical-align: TOP; width: 66%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If selected, then in the event of 
+		 a conflict, a dialog will be displayed allowing the user to choose 
+		 whether to use the the RGB value from the design file or the shade 
+		 file (see below)</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">* Using C+Y 
+ Database Direct</span></p>
+<p style="text-align: left;">Select this option in order to get plain shades 
+ from the Colors and Yarns database direct without going through an external 
+ &quot;shade file&quot;. This should be a simpler option for most users 
+ as it does not involve &quot;exporting&quot; a shade file from C + Y and 
+ it is recommended that all users select this option as soon as this version 
+ of the software is installed.</p>
+<p style="text-align: left;">Note that after an update to the Colors and 
+ Yarns database you should select the button &quot;Update database for 
+ other applications&quot; in C + Y. This will send a message to the design 
+ program (and other APSO software) instructing it to update designs and 
+ shade lists. The update will include designs and palettes in print layouts 
+ in all projects.</p>
+<p style="text-align: left;">Note that if the software cannot open the 
+ database you will be offered the option of trying to load the text file 
+ version.</p>
+<p style="text-align: left;"><span style="font-style: italic;">(Applies 
+ only to plain shades at present).</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Resolving 
+ Differences</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">If you 
+ have selected &quot;Resolve Differences&quot; together with &quot;Always 
+ Ask the User&quot; then the following dialog will be displayed if a conflict 
+ arises when opening a design file.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Normally 
+ there will be two lines shown, the second line being taken from the shade 
+ file. In the unlikely even that there are two or more versions of the 
+ shade in the shade file, they will both (or all) be listed.</span></p>
+<p style="text-align: center;"><img src="ShadeConflictDlg1.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="435" height="262" border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal;">Example 
+ of the Select Shade dialog. Notice that the second line shows a slightly 
+ different RGB value meaning that the shade file has been changed since 
+ the design was last saved. The user has selected that line so that the 
+ new RGB value will be substituted.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Colour editing 
+ Preferences</span></p>
+<p style="text-align: left;">The software allows you to edit RGB values 
+ in a design, even if that RGB value has been taken from the shade file. 
+ This preference allows you to specify whether or not to retain the shade 
+ number and description in that case.</p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 49%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">Clear 
+		 the shade code and description</span></p></td>
+		<td style="vertical-align: TOP; width: 51%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If an RGB value is edited when a 
+		 shade code is present then the shade code and description are 
+		 cleared.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 49%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">Preserve 
+		 the shade code and Description</span></p></td>
+		<td style="vertical-align: TOP; width: 51%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">If an RGB value is edited when a 
+		 shade code is present then the shade code and description are 
+		 retained.</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: italic;">The second 
+ of these options will cause a conflict if in fact a change is made to 
+ a shade in the design and it is then saved and subsequently reloaded.</span></p>
+<p style="text-align: left; margin-bottom: 0;">&#160;</p>
+</body>
+</html>

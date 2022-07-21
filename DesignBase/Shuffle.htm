@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Shuffle</title>
+<link rel="StyleSheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+<h1>Shuffle</h1>
+<p>This feature allows you to slide ends up or down randomly by a set maximum 
+ number of rows, or, alternatively, rows can be moved left or right randomly 
+ by a set maximum number of ends.</p>
+<p>To use this feature select he menu option Power Tools-&gt;Shuffle. The 
+ following dialog will be displayed.</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="shuffle_001.png" alt="" style="border: none;" 
+									 border="0" /></p>
+<p style="text-align: center; font-style: italic;">An example of the Shuffle 
+ Dialog. The shift will be vertical with a maximum shift of+/- 4 rows. 
+ The ends will be shifted in 2's (grouped in 2's) and any points lost at 
+ the top or bottom will wrap around to the other end. There will also be 
+ a wave effect with an amplitude of 8 rows, a wavelength of 84 ends and 
+ a further random deviation in amplitude of +- 6 rows.</p>
+<p style="font-weight: bold;">Horizontal or Vertical</p>
+<p style="font-weight: normal;">Select the direction - only horizontal 
+ or vertical shift is allowed</p>
+<p style="font-weight: bold;"><span style="font-weight: bold;">Group Together</span></p>
+<p style="font-weight: normal;">Using this value a user can specify that, 
+ for example, ends are to be grouped in 2's and shifted together. A value 
+ of 1 indicates that ends or rows are to be randomly moved individually.</p>
+<p style="font-weight: bold;"><span style="font-weight: bold;">Allow Warp 
+ Around</span></p>
+<p style="font-weight: normal;">This indicates, if checked, &#160;that 
+ any points lost at one edge of the design are to be moved to the opposite 
+ edge into the vacated space. If this is not selected then any vacated 
+ points are replaced with the current background colour.</p>
+<p style="font-weight: bold;">Do Random Shift</p>
+<p style="font-weight: normal;">Check this box to cause a random movement 
+ in the specified direction. This will be added to to the wave effect if 
+ any.</p>
+<p style="font-weight: bold;">Maximum Shift</p>
+<p style="font-weight: normal;">This indicates the maximum shift in rows 
+ for a vertical shuffle, and similarly the maximum shift in ends for a 
+ horizontal shuffle.</p>
+<table cellspacing="0" width="85.147%">
+	<col style="width: 51.693%;" />
+	<col style="width: 48.307%;" />
+	<tr>
+		<td><p style="text-align: center; font-style: italic; font-size: 8pt;"><img 
+		 src="shuffle_002.png" alt="" style="border: none;" width="320" 
+		 height="371" border="0" /></p>
+		<p style="text-align: center; font-style: italic; font-size: 8pt;">Example 
+		 before using shuffle</p></td>
+		<td><p style="text-align: center; font-style: italic; font-size: 8pt;"><img 
+		 src="shuffle_003.png" alt="" style="border: none;" width="320" 
+		 height="374" border="0" /></p>
+		<p style="text-align: center; font-style: italic; font-size: 8pt;">Same 
+		 design after shuffle using the above parameters (but without any 
+		 wave effect)</p></td>
+	</tr>
+</table>
+<p style="font-weight: bold; font-style: normal;">&#160;</p>
+<p style="font-weight: bold; font-style: normal;">Wave</p>
+<p style="font-style: normal;">Check this to cause a wave effect in addition 
+ to any random shuffle as specified above.</p>
+<p style="font-style: normal; font-weight: bold;">Amplitude</p>
+<p style="font-style: normal; font-weight: normal;">This is the height 
+ of the wave (if shuffle is vertical). Columns (or rows if horizontal shuffle) 
+ will be shifted by this amount at the peak of the wave. Similarly a shift 
+ of the same amount will occur in the opposite direction to form the low 
+ point of the wave. The figure in the dialog is design rows for a vertical 
+ shift and design ends for a horizontal shift.</p>
+<p style="font-style: normal; font-weight: bold;">Wavelength</p>
+<p style="font-style: normal; font-weight: normal;">This is the length 
+ of one complete wave cycle from any point to the same point in the next 
+ cycle so it can be thought of as the distance from one peak to the next. 
+ The figure in the dialog is design ends for a vertical shift and design 
+ rows for a horizontal shift.</p>
+<p style="font-style: normal; font-weight: bold;">Maximum Deviation</p>
+<p style="font-style: normal; font-weight: normal;">The Deviation is a 
+ random figure that will be added to (or subtracted from) the amplitude 
+ in each half of the wave cycle, so the peak height may be different to 
+ the trough depth in a single cycle. And, of course, all peaks and troughs 
+ may be different height or depth. This can be set to zero for a regular 
+ sine wave.</p>
+<p style="font-style: normal; font-weight: normal;">&#160;</p>
+<table style="border-collapse: separate;" cellspacing="0" width="81.719%" 
+		 border="1">
+	<col style="width: 49.971%;" />
+	<col style="width: 50.029%;" />
+	<tr>
+		<td><p style="text-align: center; font-size: 8pt;"><img src="shuffle_010.png" 
+		 alt="" style="border: none;" border="0" /></p>
+		<p style="text-align: center; font-style: italic; font-size: 8pt;">Before 
+		 shuffle</p></td>
+		<td><p style="text-align: center; font-size: 8pt;"><img src="shuffle_011.png" 
+		 alt="" style="border: none;" border="0" /></p>
+		<p style="text-align: center; font-size: 8pt;"><span style="font-style: italic;">After 
+		 shuffle using a random shift and a wave effect as defined in the 
+		 above dialog</span> </p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p>&#160;</p>
+<p style="font-style: normal; font-weight: normal;">&#160;</p>
+</body>
+</html>

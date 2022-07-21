@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Undo-Buffer Default</title>
+<link rel="StyleSheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+<h1><span><span style="font-weight: normal;">Undo Size Warnings</span></span></h1>
+<p>&#160;</p>
+<p>You will find the <a href="CarpetUsing_UndoRedo.htm">Undo</a> Size Warning 
+ option in Undo Preferences (menu option Edit-&gt;Undo Preferences-&gt;Warnings) 
+ on the Warnings tab.</p>
+<p>A drawing operation such as a short line or short freehand operation 
+ with a small brush does not take up very much memory in the undo buffer. 
+ However, if the design is very large, some actions such as fill, global 
+ colour change or large circles for example, can use up large amounts of 
+ memory.</p>
+<p>For this reason, the undo buffer warning gives you the opportunity not 
+ to commit a design alteration to the undo memory and you can set the design 
+ section size that will cause a warning to appear.</p>
+<p><span style="font-style: italic;">Note that you may obviate this problem 
+ to a large extent by requesting that undo history items are compressed 
+ - see the</span> <a href="Undo_Preferences_-_Advanced.htm"><span style="font-style: italic;">Advanced</span></a> 
+ <span style="font-style: italic;">tab in undo preferences.</span></p>
+<p>In the Undo tab, select a default Undo Buffer Warning Size  the options 
+ are</p>
+<ul>
+	<li class="p"><p>No warnings  not normally recommended as you may 
+	 run out of undo memory without prior warning</p></li>
+	<li class="p"><p>Large (20MB)  display a warning if the operation 
+	 would use 20MB or more of memory.</p></li>
+	<li class="p"><p>Medium (10MB)  display a warning if the operation 
+	 would use 10MB or more of memory.</p></li>
+	<li class="p"><p>Small (5MB) - display a warning if the operation would 
+	 use 5MB or more of memory.</p></li>
+</ul>
+<p>&#160;</p>
+<p>If a warning does appear whilst you are working, it means that the alteration 
+ you have just made to the design will take up more undo memory than your 
+ default selection.</p>
+<p style="text-align: center;"><img src="MSG_WouldYouLike.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="312" height="119" 
+									 border="0" /></p>
+<p>&#160;</p>
+<ul>
+	<li class="p"><p>YES - If you want to be able to undo the operation 
+	 - click on Yes.</p></li>
+	<li class="p"><p>NO - If you do NOT want to be able to undo the operation, 
+	 thereby saving memory - select No.</p></li>
+	<li class="p"><p>CANCEL - If you would rather abandon the drawing operation 
+	 - select Cancel.</p></li>
+</ul>
+<p>&#160;</p>
+<p><span style="font-style: italic;">The CANCEL option is useful if you 
+ would like to save the design to disk before performing the drawing operation.</span></p>
+<p style="margin-bottom: 0;">&#160;</p>
+</body>
+</html>

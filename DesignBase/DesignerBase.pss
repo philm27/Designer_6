@@ -1,0 +1,107 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\DesignerBase.htm
+SSLayoutType=32
+ServerProjectName=DesignerBase
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\DesignerBase.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\DesignerBase.chm
+SSLayoutType=1
+CreateProjectTime=20:29, June 15, 2022
+CreateProjectUser=philm4
+SupportMas_MPJ=1
+Enable Result Dialog=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\DesignerBase.chm
+ResultStatus=0
+BuildTimeHi=30965998
+BuildTimeLow=1166586378
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\DesignerBase.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\DesignerBase.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\DesignerBase.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\DesignerBase.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\DesignerBase.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\DesignerBase.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\DesignerBase.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\DesignerBase.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\DesignerBase.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[PreSingleSource]
+Html Help Project=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.hhp
+Table Of Content=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.hhc
+Index=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.hhk
+Topic Index=c:\Apso_CAD\Help\DesignBase_6.1\RHTopicKeyword$.hhk
+See Also Index=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.hha
+Browse Sequence=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.brs
+Glossary=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.glo
+Topic Properties=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trs
+Active Folders=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trf
+Baggage Files=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trb
+Skin List=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trk
+Active Layout Names=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trl
+Template Files=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trt
+Project TOC List=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trtocl
+Project Index List=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.tridxl
+Project Glossary List=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trglol
+Project CSS List=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trcss
+Project Variable Set List=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.trvset
+External URL Settings=c:\Apso_CAD\Help\DesignBase_6.1\SearchOptions.xml
+Screen Template File Details=c:\Apso_CAD\Help\DesignBase_6.1\DesignerBase.sctfdl
+CPSwfToHTML5Map=c:\Apso_CAD\Help\DesignBase_6.1\__cpSwf2HTML5ZipMap
+Default Topic=c:\Apso_CAD\Help\DesignBase_6.1\Textile_Designer_Introduction.htm
+Build Tags0=9970;
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=c:\Apso_CAD\Help\DesignBase_6.1\!Language!\en_US\RoboHHRE.lng
+Stop List=c:\Apso_CAD\Help\DesignBase_6.1\!Language!\en_US\DesignerBase.stp
+[Layout Settings]
+MRULayoutCount=1
+MRULayout0=Microsoft HTML Help]05/28/19]4

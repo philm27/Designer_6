@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Auto Save</title>
+<link rel="StyleSheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+<h1>Auto Save - Features</h1>
+<p>Auto Save is controlled by a new set of <a href="Undo_Preferences_-_Auto_Save.htm">Undo 
+ Preferences</a> and by two menu options on the File Menu.</p>
+<p style="text-align: center;"><img src="AutoSaveMenuItems.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="226" height="136" border="0" /></p>
+<p>The main features of the Auto Save system are:</p>
+<p><span style="font-weight: bold;">Timed Auto Save</span></p>
+<p><span style="font-weight: normal;">You can specify that the software 
+ should save the project at specified intervals, for example every 10 minutes.</span></p>
+<p><span style="font-weight: normal;">The software will only do an Auto 
+ Save, however, if a change has been made to the design (including an undo). 
+ In this way you will keep a selection of different designs if you are 
+ away from your desk for a protracted period.</span></p>
+<p><span style="font-weight: normal;">The software will wait until a drawing 
+ operation is complete before doing an auto save. This also applies to 
+ all menu operations such as Circular Borders, Mirrors etc which can take 
+ several minutes in some cases.</span></p>
+<p><span style="font-weight: normal;">Also, the software will restart the 
+ timer if you do a manual Auto Save. For example you can force an Auto 
+ Save after a particularly complex set of design modifications. The software 
+ will then re-start the timer.</span></p>
+<p><span style="font-weight: bold;">Forced Auto Save</span></p>
+<p><span style="font-weight: normal;">You can force an Auto Save at any 
+ time, even if you are not using the timed Auto Save feature by selecting 
+ menu option Auto Save as shown in the illustration above. Alternatively 
+ you can use keyboard shortcut &lt;Ctrl&gt;+\ which on most keyboards is 
+ 2 keys very close together at the bottom left of the keyboard.</span></p>
+<p><span style="font-weight: normal;">This latter method provides a fast 
+ and easy way to save your work. You do not need to worry about a folder 
+ or a unique name for the file.</span></p>
+<p><span style="font-weight: bold;">Auto Save Folder</span></p>
+<p><span style="font-weight: normal;">This is nominated in <a href="Undo_Preferences_-_Auto_Save.htm">Undo 
+ Preferences (Auto Save Page)</a> and it is recommended that a very simple 
+ path is used such as c:\autosaves.</span></p>
+<p><span style="font-weight: normal;">All auto saves are made to this folder 
+ but you will normally not need to navigate to it as its content can be 
+ listed using the menu option &quot;Auto Save Files List&quot; as shown 
+ in the illustration above. This displays a list of all current Auto Save 
+ files. More details of this dialog can be found in the topic <a href="Auto_Save_List.htm">Auto 
+ Save List</a>.</span></p>
+<p><span style="font-weight: bold;">File Format .prjasf</span></p>
+<p><span style="font-weight: normal;">The auto save files themselves will 
+ have file extension .prjasf and are a variation on the prj file. Like 
+ the prj file, they hold all the project information. The prjasf format 
+ is designed as a fast and economical (on memory requirements) file save 
+ method.</span></p>
+<p><span style="font-weight: normal;">These files can in fact be loaded 
+ using any Open File dialog but it is recommended that they are only loaded 
+ using the Auto Save file list.</span></p>
+<p><span style="font-weight: normal;">These files are obviously not intended 
+ for long term storage and cannot be loaded by previous versions of the 
+ software.</span></p>
+<p><span style="font-weight: bold;">Auto Save File Names</span></p>
+<p><span style="font-weight: normal;">Auto Save file names are automatically 
+ generated and are in the following form:</span></p>
+<p><span style="font-weight: normal;">904562Red_34.prjasf</span></p>
+<p><span style="font-weight: normal;">The software simply takes the file 
+ name (904562Red in this case being the file name without the .prj extension) 
+ and adds a project version number and file extension (_34.prj).</span></p>
+<p><span style="font-weight: bold;">Version Number</span></p>
+<p><span style="font-weight: normal;">As far as possible, projects will 
+ keep the version number sequence for the whole of their life and it will 
+ be incremented every time the project is saved whether by a normal save 
+ or an Auto Save.</span></p>
+<p><span style="font-weight: normal;">This version number may restart at 
+ 1 in certain circumstances such as when &quot;Save As&quot; is used.</span></p>
+<p><span style="font-weight: bold;">History</span></p>
+<p><span style="font-weight: normal;">The preferences allow you to specify 
+ the number of Auto Save files which you wish to retain. A useful number 
+ to use is 3 although you could keep 6 10 or even more.</span></p>
+<p><span style="font-weight: normal;">After creating an Auto Save file, 
+ the software will retain the most recent 3 files (if 3 is the number to 
+ retain) and delete any older ones, thus, in this case, you will always 
+ have the most recent 3 Auto Save files.</span></p>
+<p><span style="font-weight: normal;">Keeping more files does not affect 
+ the performance of the software in any way other than a little more disk 
+ space will be used.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="AutoSaveListMsg.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="378" height="119" border="0" /></span></p>
+<p><span style="font-weight: bold;">Auto Save List on Start up</span></p>
+<p><span style="font-weight: normal;">Every time you start the software, 
+ it will check if there are any auto save files in the nominated folder. 
+ If there aren't any, the software will simply start up normally, otherwise 
+ the software will ask if you want to see the list.</span></p>
+<p><span style="font-weight: normal;">The reason for this is that the software 
+ does not know if there was a problem when the software was last used and 
+ thus does not automatically delete them when it is started up or closed 
+ down. You may want to access these files via the <a href="Auto_Save_List.htm">Auto 
+ Save List</a> and, if there were no problems, you may wish to tidy up 
+ the old files which are not now required. This &quot;Tidying up&quot; 
+ can be done at any time by accessing the Auto Save List.</span></p>
+<p><span style="font-weight: normal;">Deleting all Auto Save files is a 
+ simple, one click, operation. Alternatively you can easily select all 
+ files in a project or individual files. See the topic <a href="Auto_Save_List.htm">Auto 
+ Save List</a> for more information.</span></p>
+<p><span style="font-weight: bold;">Adopted History</span></p>
+<p><span style="font-weight: normal;">Note that if you are continuing to 
+ work on the same project or projects when starting up the software, you 
+ can leave the Auto Save files there as they will be &quot;adopted&quot; 
+ as part of the history when you load a project normally.</span></p>
+<p><span style="font-weight: normal;">This means that the software will 
+ automatically delete the oldest file even if that is from a previous session 
+ when a new file is saved.</span></p>
+<p><span style="font-weight: normal;">The project version number sequence 
+ will also be continued.</span></p>
+<p><span style="font-weight: bold;">Opening an Auto Save File</span></p>
+<p><span style="font-weight: normal;">To load a .prjasf file simply switch 
+ to the required project, display the Auto Save File list, select the required 
+ file and click on Open. If you wish to develop this design further, you 
+ should immediately do a Save As to a normal directory with a new name 
+ as the current name will contain the serial number.</span></p>
+<p><span style="font-weight: normal;">If you try to do a save with the 
+ same name or to the Auto Save Folder, the software will display a message 
+ advising against it.</span></p>
+<p><span style="font-weight: normal;">You cannot save a .prjasf file using 
+ normal Save or Save As etc.</span></p>
+<p>&#160;</p>
+<p style="margin-bottom: 0;">&#160;</p>
+</body>
+</html>

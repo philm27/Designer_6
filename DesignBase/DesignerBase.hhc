@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties windowname="NewWindow1" font="Verdana,8,0" imagewidth="16" windowstyles="8389638" exwindowstyles="8448">
+	</properties>
+	<item name="Designer Base - Introduction" link="Textile_Designer_Introduction.htm">
+	</item>
+	<item name="Starting a New Design">
+		<item name="Starting a New Design" link="CarpetStarting_a_New_Design.htm">
+		</item>
+		<item name="Scanners and Other Devices" link="Scanners_and_Other_Devices.htm">
+		</item>
+	</item>
+	<item name="Design Specifications">
+		<item name="The Specification Window">
+			<item name="The Specification Window" link="Specification_Dialog.htm">
+			</item>
+		</item>
+		<item name="Design Size">
+			<item name="Increasing/Decreasing Design Size" link="CarpetIncreasingDecreasing_Design_Size.htm">
+			</item>
+			<item name="Setting the Size of a New Design" link="CarpetSetting_the_Size_of_a_New_Design.htm">
+			</item>
+			<item name="Inserting and Deleting Ends/Rows" link="CarpetInserting_and_Deleting_EndsRows.htm">
+			</item>
+			<item name="Special Inserting/Deleting" link="CarpetSpecial_InsertingDeleting.htm">
+			</item>
+			<item name="Duplicating Ends/Rows" link="CarpetDuplicating_EndsRows.htm">
+			</item>
+			<item name="Re-size" link="CarpetResizing.htm">
+			</item>
+			<item name="Image Size Limit" link="CarpetImage_Size_Limit.htm">
+			</item>
+			<item name="Large Designs" link="Large_Designs.htm">
+			</item>
+		</item>
+		<item name="Repeat Type">
+			<item name="Selecting a Repeat Type" link="CarpetSelecting_a_Repeat_Type.htm">
+			</item>
+		</item>
+		<item name="Match Type">
+			<item name="Selecting a Match Type" link="CarpetSelecting_a_Match_Type.htm">
+			</item>
+			<item name="Creating a Self-Match" link="CarpetCreating_a_SelfMatch.htm">
+			</item>
+		</item>
+		<item name="Quality or Sett">
+			<item name="Setting the Quality" link="CarpetSetting_the_Quality.htm">
+			</item>
+			<item name="Redrafting" link="CarpetRedrafting.htm">
+			</item>
+			<item name="Viewing Designs at the Correct Quality" link="CarpetViewing_Designs_at_the_Correct_Q.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Screen Layout">
+		<item name="Working Area">
+			<item name="Normal Working Area" link="CarpetNormal_Working_Area.htm">
+			</item>
+		</item>
+		<item name="Toolbox">
+			<item name="Using the Toolbox" link="CarpetUsing_the_Toolbox.htm">
+			</item>
+		</item>
+		<item name="Drop-Down Menus">
+			<item name="Using the Drop-Down Menus" link="CarpetUsing_the_DropDown_Menus.htm">
+			</item>
+		</item>
+		<item name="Toolbar">
+			<item name="Using the Toolbar" link="CarpetUsing_the_Toolbar.htm">
+			</item>
+		</item>
+		<item name="Status Bar">
+			<item name="Understanding the Status Bar" link="CarpetUnderstanding_the_Status_Bar.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Shelf">
+		<item name="Working with the Shelf" link="CarpetWorking_with_Shelves.htm">
+		</item>
+		<item name="Storing Brushes on the shelf" link="CarpetStoring_Brushes_in_Shelves.htm">
+		</item>
+		<item name="Saving a Shelf Item" link="Saving_a_Shelf_Item.htm">
+		</item>
+		<item name="Importing to Shelf" link="Shelf_Import_Designs.htm">
+		</item>
+		<item name="Shelf Notes" link="Shelf_Notes.htm">
+		</item>
+		<item name="Managing" link="Shelf_managing.htm">
+		</item>
+		<item name="Moving Shelf items to another Project" link="CarpetCarrying_Shelves_between_Project.htm">
+		</item>
+		<item name="Edit Shelf Item" link="CarpetTurning_a_Shelf_in_to_the_Main_D.htm">
+		</item>
+		<item name="Creating New Shelf Item" link="CarpetStarting_a_New_Design_from_a_She.htm">
+		</item>
+		<item name="Shelf Items and Undo" link="Shelf_Items_and_Undo.htm">
+		</item>
+		<item name="Shelf Properties" link="CarpetShelf_Properties.htm">
+		</item>
+	</item>
+	<item name="Folders and Files">
+		<item name="Creating Folders">
+			<item name="Understanding the Concept of Folders" link="CarpetUnderstanding_the_Concept_of_Fol.htm">
+			</item>
+			<item name="Creating Folders" link="CarpetCreating_Folders.htm">
+			</item>
+		</item>
+		<item name="Design Files">
+			<item name="Open Design" link="CarpetFinding_a_Design_to_Open.htm">
+			</item>
+			<item name="File Types" link="CarpetTypes_of_File_that_can_be_Opened.htm">
+			</item>
+		</item>
+		<item name="The History List">
+			<item name="Understanding and Using the History List" link="CarpetUnderstanding_and_Using_the_Hist.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Tools for Designing">
+		<item name="Drawing Tools">
+			<item name="Drawing in Freehand" link="CarpetDrawing_in_Freehand.htm">
+			</item>
+			<item name="Drawing Straight Lines" link="CarpetDrawing_Straight_Lines.htm">
+			</item>
+			<item name="Drawing Curved Lines" link="CarpetDrawing_Curved_Lines.htm">
+			</item>
+			<item name="Tracing Artwork using the Digitiser" link="CarpetTracing_Artwork_using_the_Digiti.htm">
+			</item>
+			<item name="Using Spray Effects" link="CarpetUsing_Spray_Effects.htm">
+			</item>
+			<item name="Drawing Circles" link="CarpetDrawing_Circles.htm">
+			</item>
+			<item name="Drawing Ellipses" link="CarpetDrawing_Ellipses.htm">
+			</item>
+			<item name="Drawing Squares" link="CarpetDrawing_Squares.htm">
+			</item>
+			<item name="Drawing Rectangles" link="CarpetDrawing_Rectangles.htm">
+			</item>
+			<item name="Quick Outline" link="Quick_Outline.htm">
+			</item>
+			<item name="Standard Brushes" link="CarpetUsing_Different_Brushes.htm">
+			</item>
+			<item name="Catch Cords &amp; Running Cords" link="Drawing_Catch_Cords_And_Running_Cords.htm">
+			</item>
+			<item name="Line Thickness" link="Line_Thickness.htm">
+			</item>
+			<item name="Line Properties" link="Line_Properties.htm">
+			</item>
+			<item name="Spacebar Toggle" link="Spacebar_Toggle.htm">
+			</item>
+			<item name="Numeric Draw" link="Numeric_Draw.htm">
+			</item>
+		</item>
+		<item name="Fill and Global Change">
+			<item name="Fill Properties" link="Fill_Properties.htm">
+			</item>
+			<item name="Filling with a Single Color" link="CarpetFilling_with_a_Single_Colour.htm">
+			</item>
+			<item name="Filling with a Brush" link="CarpetFilling_with_a_Brush.htm">
+			</item>
+			<item name="Global Change" link="CarpetChanging_a_Colour_Throughout_a_D.htm">
+			</item>
+		</item>
+		<item name="Custom Brushes">
+			<item name="Creating Custom Brushes">
+				<item name="Custom Brushes" link="CarpetCustom_Brushes.htm">
+				</item>
+				<item name="Cutting a Freehand (Any Shape) Brush" link="CarpetCutting_a_Freehand_Brush.htm">
+				</item>
+				<item name="Cutting a Polygon Brush" link="CarpetCutting_a_Polygon_Brush.htm">
+				</item>
+				<item name="Cutting a Rectangular Brush" link="CarpetCutting_a_Rectangular_Brush.htm">
+				</item>
+				<item name="Cutting an Elliptical Brush" link="CarpetCutting_an_Elliptical_Brush.htm">
+				</item>
+				<item name="Cutting a Brush Numerically" link="CarpetCutting_a_Brush_Numerically.htm">
+				</item>
+				<item name="Resizing a Custom Brush" link="CarpetResizing_a_Custom_Brush.htm">
+				</item>
+			</item>
+			<item name="Saving Brushes to Folders">
+				<item name="Saving Brushes as .iff files" link="CarpetSaving_Brushes_as_iff_files.htm">
+				</item>
+			</item>
+			<item name="Placing Brushes in a Design">
+				<item name="The Importance of Brush Handles" link="CarpetThe_Importance_of_Brush_Handles.htm">
+				</item>
+				<item name="Brush Repeat" link="Brush_Repeat.htm">
+				</item>
+				<item name="Placing a Brush Numerically" link="CarpetPlacing_a_Brush_Numerically.htm">
+				</item>
+				<item name="Placing a Brush using the Mouse" link="CarpetPlacing_a_Brush_using_the_Mouse.htm">
+				</item>
+			</item>
+			<item name="Copy Brush ">
+				<item name="Copy Brush to Shelf" link="Copy_Brush_to_Shelf.htm">
+				</item>
+				<item name="Copy Brush to Another Project" link="Cut_Copy_Paste.htm">
+				</item>
+			</item>
+		</item>
+		<item name="Protected Areas">
+			<item name="Protected Areas" link="CarpetCustom_Working_Area.htm">
+			</item>
+		</item>
+		<item name="Transformation Tools">
+			<item name="Design Transforms">
+				<item name="Mirroring a Design" link="CarpetMirroring_a_Design.htm">
+				</item>
+				<item name="Wheeling a Design" link="CarpetWheeling_a_Design.htm">
+				</item>
+				<item name="Rotating a Design" link="CarpetRotating_a_Design.htm">
+				</item>
+				<item name="Mirroring a Design Diagonally (Mitring)" link="CarpetMirroring_a_Design_Diagonally_Mi.htm">
+				</item>
+			</item>
+			<item name="Brush Transforms">
+				<item name="Mirroring a Brush" link="CarpetMirroring_a_Brush.htm">
+				</item>
+				<item name="Rotating a Brush" link="CarpetRotating_a_Brush.htm">
+				</item>
+				<item name="Mitring a Brush" link="CarpetMitring_a_Brush.htm">
+				</item>
+			</item>
+		</item>
+		<item name="Text">
+			<item name="Inserting Text in to a Design" link="CarpetInserting_Text_in_to_a_Design.htm">
+			</item>
+		</item>
+		<item name="Editing Tools">
+			<item name="Removing Dots" link="CarpetRemoving_Dots.htm">
+			</item>
+			<item name="Removing Lines" link="CarpetRemoving_Lines.htm">
+			</item>
+			<item name="Outlining Colors in a Design" link="CarpetOutlining_Colours_in_a_Design.htm">
+			</item>
+		</item>
+		<item name="Color Search">
+			<item name="Color Search" link="Color_Search.htm">
+			</item>
+			<item name="Region Highlights" link="Region_Highlights.htm">
+			</item>
+		</item>
+		<item name="Creating Borders">
+			<item name="Borders" link="Borders.htm">
+			</item>
+			<item name="Creating Horizontal/Vertical Borders" link="CarpetCreating_HorizontalVertical_Bord.htm">
+			</item>
+			<item name="Creating Circular Borders" link="Circular_Borders.htm">
+			</item>
+			<item name="Creating Elliptical Borders" link="CarpetCreating_Elliptical_Borders.htm">
+			</item>
+			<item name="Quick Borders" link="Quick_Borders.htm">
+			</item>
+		</item>
+		<item name="Crop, Re-Centre, Add Borders">
+			<item name="Crop" link="Cropping.htm">
+			</item>
+			<item name="Re-Centre" link="ReCentering.htm">
+			</item>
+			<item name="Add Borders" link="Add_Borders.htm">
+			</item>
+		</item>
+		<item name="Power Tools">
+			<item name="Shuffle" link="Shuffle.htm">
+			</item>
+			<item name="Tape Measure" link="CarpetUsing_the_Tape_Measure.htm">
+			</item>
+			<item name="Random Balance" link="Random_Balance.htm">
+			</item>
+			<item name="Generate Random Pattern 2 Color" link="Generate_Random_Pattern.htm">
+			</item>
+			<item name="Generate Random Pattern Multi Color" link="Generate_Random_Pattern_Multi_Color.htm">
+			</item>
+			<item name="Randomize" link="Randomize.htm">
+			</item>
+			<item name="Image Merge" link="Image_Merge.htm">
+			</item>
+		</item>
+		<item name="Information Panel">
+			<item name="Using the Information Panel" link="CarpetUsing_the_Information_Panel.htm">
+			</item>
+		</item>
+		<item name="Grid">
+			<item name="Working with a Grid On/Off" link="CarpetWorking_with_a_Grid_OnOff.htm">
+			</item>
+			<item name="Setting the Grid Quality" link="CarpetSetting_the_Grid_Quality.htm">
+			</item>
+		</item>
+		<item name="Keyboard Shortcuts">
+			<item name="Using Keyboard Shortcuts" link="CarpetUsing_Keyboard_Shortcuts.htm">
+			</item>
+			<item name="Using the Numeric Keypad" link="Numeric_Keypad.htm">
+			</item>
+			<item name="&lt;Home&gt; and &lt;End&gt;" link="Home_and_End.htm">
+			</item>
+			<item name="Customised Keyboard Shortcuts" link="Customise_Keyboard_Shortcuts.htm">
+			</item>
+		</item>
+		<item name="Saving">
+			<item name="Saving Projects" link="CarpetSaving_Projects.htm">
+			</item>
+			<item name="Saving Designs" link="CarpetSaving_Designs.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Palette">
+		<item name="Create Edit and Display Tools">
+			<item name="Palette Window" link="CarpetDisplaying_the_Colour_Palette_on.htm">
+			</item>
+			<item name="Creating/Editing Palette" link="CarpetCreatingEditing_a_Custom_Colour_.htm">
+			</item>
+			<item name="Multi-Color Palette Changes" link="Multi-Color_Palette_Changes.htm">
+			</item>
+			<item name="RGB and HSV Colour Values" link="RGB_and_HSV_Colour_Values.htm">
+			</item>
+			<item name="RGB Color Picker" link="RGB_Color_Picker.htm">
+			</item>
+			<item name="Color Range" link="Colour_Range.htm">
+			</item>
+			<item name="Palette Information Window" link="CarpetDisplaying_Palette_Information_o.htm">
+			</item>
+			<item name="Sorting Palette Colors in to Percentage Order" link="CarpetSorting_Palette_Colours_in_to_Pe.htm">
+			</item>
+			<item name="Saving/Loading Palettes as .PAL Files" link="CarpetSavingLoading_Palettes_as_PAL_Fi.htm">
+			</item>
+			<item name="Zero Color" link="Zero_Colour.htm">
+			</item>
+			<item name="Removing/Clearing Unused Colors" link="Removing_Clearing_Unused_Colors.htm">
+			</item>
+		</item>
+		<item name="Stencil and Transparency">
+			<item name="Stencil" link="CarpetUsing_Stencils_to_Protect_Colour.htm">
+			</item>
+			<item name="Transparency" link="CarpetMaking_Colours_Transparent.htm">
+			</item>
+		</item>
+		<item name="Currently Used Colors">
+			<item name="Selecting a Foreground Color" link="CarpetSelecting_a_Foreground_Colour.htm">
+			</item>
+			<item name="Selecting a Background Color" link="CarpetSelecting_a_Background_Colour.htm">
+			</item>
+			<item name="Pipette" link="CarpetPipette.htm">
+			</item>
+		</item>
+		<item name="Reducing Colors">
+			<item name="Color Reduce" link="Color_Reduce.htm">
+			</item>
+			<item name="Reduce To Palette" link="Reduce_To_Palette.htm">
+			</item>
+			<item name="Convert to 24 Bit" link="Convert_to_24_Bit.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Shade Library">
+		<item name="Shade Library Introduction" link="Shade_Library_Introduction.htm">
+		</item>
+		<item name="Shade Library Start Page" link="Shade_Library_Library_Tab.htm">
+		</item>
+		<item name="Text File List" link="Shade_File_Location.htm">
+		</item>
+		<item name="Color Tab" link="Shade_Library_-_Color_Tab.htm">
+		</item>
+		<item name="Ranges and Colorways for Carpet Designers" link="Ranges_and_Colorways.htm">
+		</item>
+		<item name="Ranges and Color Sets for Jacquard Designers" link="Ranges_and_Colorways_for_Jacquard_Designers.htm">
+		</item>
+		<item name="Colorways Update" link="Colorways_Update.htm">
+		</item>
+		<item name="Matching to Shade Library" link="Match_to_Shade_Library.htm">
+		</item>
+	</item>
+	<item name="Undo/Redo">
+		<item name="Using Undo/Redo" link="CarpetUsing_UndoRedo.htm">
+		</item>
+		<item name="Undo Types" link="Undo_Types.htm">
+		</item>
+		<item name="Undo and Auto Save" link="Undo_and_Auto_Save.htm">
+		</item>
+		<item name="Preferences">
+			<item name="Undo" link="Undo_Preferences.htm">
+			</item>
+			<item name="Undo Preferences - General" link="Undo_Preferences_-_General.htm">
+			</item>
+			<item name="Undo Preferences - Advanced" link="Undo_Preferences_-_Advanced.htm">
+			</item>
+			<item name="Undo Preferences - Auto Save" link="Undo_Preferences_-_Auto_Save.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Auto Save">
+		<item name="Auto Save - Features" link="Auto_Save.htm">
+		</item>
+		<item name="Auto Save List" link="Auto_Save_List.htm">
+		</item>
+	</item>
+	<item name="Viewing a Design">
+		<item name="Viewing Single/Many Design Repeats" link="CarpetViewing_SingleMany_Design_Repeat.htm">
+		</item>
+		<item name="Zooming In and Out" link="CarpetZooming_In_and_Out.htm">
+		</item>
+		<item name="Zoom To Cursor" link="Zoom_To_Cursor.htm">
+		</item>
+		<item name="Scrolling around the Design" link="CarpetScrolling_around_the_Design.htm">
+		</item>
+		<item name="Viewing With Texture" link="CarpetViewing_With_Texture.htm">
+		</item>
+		<item name="Design Preview" link="CarpetViewing_a_Design_Preview.htm">
+		</item>
+		<item name="Recentering a Design Repeat" link="CarpetRecentring_a_Design_Repeat.htm">
+		</item>
+		<item name="Removing all Windows to View a Design" link="CarpetRemoving_all_Windows_to_View_a_D.htm">
+		</item>
+	</item>
+	<item name="Polygons">
+		<item name="Polygons Introduction" link="Polygons_-_Introduction.htm">
+		</item>
+		<item name="Drawing Polygons" link="Drawing_Polygons.htm">
+		</item>
+		<item name="Editing" link="Polygons_-_Editing.htm">
+		</item>
+		<item name="Guide Lines" link="Guide_Lines.htm">
+		</item>
+		<item name="Polygon List" link="Polygon_List.htm">
+		</item>
+		<item name="Polygon Properties">
+			<item name="Polygons - Properties - General" link="Polygons_-_Properties_-_General.htm">
+			</item>
+			<item name="Polygons - Properties - Rendering" link="Polygons_-_Properties_-_Rendering.htm">
+			</item>
+			<item name="Color Selector" link="Color_Selector.htm">
+			</item>
+			<item name="Design Color Selector" link="Design_Color_Selector.htm">
+			</item>
+		</item>
+		<item name="Create Standard Shape">
+			<item name="Standard Shapes" link="Polygons_-_Standard_Shapes.htm">
+			</item>
+			<item name="General" link="Polygons_-_Create_new_Shapes_-_General.htm">
+			</item>
+			<item name="Colors" link="Polygons_-_Create_new_Shapes_-_Colors.htm">
+			</item>
+			<item name="Shape" link="Polygons_-_Create_new_Shapes_-_Shapes.htm">
+			</item>
+			<item name="Size" link="Polygons_-_Create_new_Shapes_-_Size.htm">
+			</item>
+			<item name="Text" link="Polygons_-_Create_Text.htm">
+			</item>
+			<item name="Borders" link="Polygons_-_Create_new_Shapes_-_Borders.htm">
+			</item>
+			<item name="Location" link="Polygons_-_Create_new_Shapes_-_Location.htm">
+			</item>
+			<item name="Rotation" link="Polygons_-_Create_new_Shapes_-_Rotation.htm">
+			</item>
+			<item name="Arc/Chord" link="Polygons_-_Create_new_Shapes_-_Arc_Chord.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Projects">
+		<item name="Working with Projects" link="CarpetWorking_with_Projects.htm">
+		</item>
+	</item>
+	<item name="Pegboard Sections">
+		<item name="Creating a Peg Section" link="CarpetCreating_a_Peg_Section.htm">
+		</item>
+	</item>
+	<item name="Preference Settings">
+		<item name="Preferences" link="Preferences.htm">
+		</item>
+		<item name="Design Size Default" link="CarpetDesign_Size_Default.htm">
+		</item>
+		<item name="Cursor" link="CarpetCursorType_Default.htm">
+		</item>
+		<item name="Display Preferences" link="Display_Preferences.htm">
+		</item>
+		<item name="File Preferences" link="Files_Preferences.htm">
+		</item>
+		<item name="Frame Options" link="Frame_Options.htm">
+		</item>
+		<item name="General Preferences" link="General_Preferences_topic.htm">
+		</item>
+		<item name="Brush-Handle Default" link="CarpetBrushHandle_Default.htm">
+		</item>
+		<item name="Palette Preferences" link="CarpetPalette_Default.htm">
+		</item>
+		<item name="Peg Section" link="Peg_Section.htm">
+		</item>
+		<item name="Shade Library Preferences" link="Shade_Library_Preferences.htm">
+		</item>
+		<item name="Default Directories" link="CarpetDefault_Directories.htm">
+		</item>
+		<item name="Replace Missing Shades" link="Replace_Missing_Shades.htm">
+		</item>
+		<item name="Automatic Refresh Options" link="Automatic_Refresh_Options.htm">
+		</item>
+		<item name="Digitizer Pressure Settings" link="CarpetDigitizer_Pressure_Settings.htm">
+		</item>
+		<item name="Jacquard Preferences" link="Jacquard_Preferences_A.htm">
+		</item>
+	</item>
+	<item name="Interacting With Other Software">
+		<item name="Export Image" link="Export_Image.htm">
+		</item>
+		<item name="Sending Designs to E-Mail Addresses" link="CarpetSending_Designs_to_EMail_Address.htm">
+		</item>
+	</item>
+	<item name="Problem Solving">
+		<item name="Easily Resolved Problems" link="CarpetEasily_Resolved_Problems.htm">
+		</item>
+		<item name="Getting in Touch" link="Getting_In_Touch.htm">
+		</item>
+	</item>
+	<item name="For more Information..." link="Getting_In_Touch.htm">
+		<item name="Apso website" link="http://www.apso.com" imagenumber="13">
+		</item>
+		<item name="Email the Sales Department" link="mailto:sales@apso.com" imagenumber="17">
+		</item>
+		<item name="Email the Support Department" link="mailto:support@apso.com" imagenumber="17">
+		</item>
+	</item>
+</toc>

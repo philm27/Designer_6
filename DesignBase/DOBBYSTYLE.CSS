@@ -1,0 +1,75 @@
+
+ /* $MVD$:fontset("Arial","Arial") */
+ /* $MVD$:fontset("Verdana","Verdana") */
+ BODY { font-family : "Arial";
+        font-size : 12.0pt;
+        background-attachment : fixed;
+        background-image : url("ideadesignreality.jpg");}
+ .mvd-BODY { font-family : "Arial";
+             font-size : 12.0pt;
+             background-attachment : fixed;
+             background-image : url("ideadesignreality.jpg");}
+ P { font-family : "Verdana";
+     font-size : 9.0pt;}
+ .mvd-P { font-family : "Verdana";
+          font-size : 9.0pt;}
+ H1 { font-family : "Verdana";
+      font-weight : normal;
+      font-size : 22.0pt;
+      background-color : navy;
+      text-align : center;
+      color : white;}
+ .mvd-H1 { font-family : "Verdana";
+           font-weight : normal;
+           font-size : 22.0pt;
+           background-color : navy;
+           text-align : center;
+           color : white;}
+ BIG { font-family : "Verdana";
+       font-size : 10.0pt;}
+ .mvd-BIG { font-family : "Verdana";
+            font-size : 10.0pt;}
+  CITE.expandspot { font-style : normal;
+		color : green;
+		cursor: hand;}
+ .mvd-CITE-expandspot { font-style : normal;
+		color : green;
+		cursor: hand;}
+ DFN.collapsed { font-style : italic;
+		font-weight : normal;
+		display : 'none';
+		color : red;}
+ .mvd-DFN-collapsed { font-style : italic;
+		font-weight : normal;
+		display : 'none';
+		color : red;}
+ DFN.expanded { font-style : italic;
+		font-weight : normal;
+		color : red;}
+ .mvd-DFN-expanded { font-style : italic;
+		font-weight : normal;
+		color : red;}
+ EM.dropspot { cursor : hand;
+		color : green;}
+ .mvd-EM-dropspot { cursor : hand;
+		color : green;}
+ CITE.glossterm { font-style : normal;
+		color : maroon;
+		cursor : hand;}
+ .mvd-CITE-glossterm { font-style : normal;
+		color : maroon;
+		cursor : hand;}
+ DFN.glosscollapsed { font-style : italic;
+		font-weight : normal;
+		display : 'none';
+		color : blue;}
+ .mvd-DFN-glosscollapsed { font-style : italic;
+		font-weight : normal;
+		display : 'none';
+		color : blue;}
+ DFN.glossexpanded { font-style : italic;
+		font-weight : normal;
+		color : blue;}
+ .mvd-DFN-glossexpanded { font-style : italic;
+		font-weight : normal;
+		color : blue;}
