@@ -1,0 +1,102 @@
+﻿[OPTIONS]
+Compiled File=JacquardDesigner.chm
+Title=Jacquard Designer
+Contents File=JacquardDesigner.hhc
+Index File=JacquardDesigner.hhk
+Default topic=Welcome.htm
+Default Window=NewWindow1
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced decompilation=No
+Binary TOC=No
+Flat=No
+LANG_ID=0
+LANG_NAME=English (US)
+Custom tab="&Glossary", HHActiveX.GlossaryPane
+
+[WINDOWS]
+NewWindow1="Jacquard Designer Help","JacquardDesigner.hhc","JacquardDesigner.hhk","","",,,,,0x81420,0,0x300e,[82,78,967,684],0x0,0x0,,0,1,0,[Glossary,HHActiveX.GlossaryPane]
+
+[FILES]
+Reset_Schema.htm
+Denting_Display.htm
+Link_Example.htm
+Schema_-_Treble_Cloth.htm
+Add_Schema_Entry.htm
+Reverse_Cloth.htm
+Copying_a_Schema.htm
+Selectors.htm
+Cramming_and_Extras.htm
+Tutorials_Introduction.htm
+Edit_Layer.htm
+Weave_Alignment_Preference.htm
+Control_Panel.htm
+Large_Display.htm
+Denting_Reset.htm
+Schema_-_Double_Cloth.htm
+Open_Weave.htm
+Texture.htm
+Apply_Weaves_to_Selected_Schema_Entries.htm
+Jacquard_Mode.htm
+Double_Cloths_and_Treble_Cloths.htm
+Printing_Help_Topics.htm
+Warp_Threading.htm
+Using_XL_to_create_a_Threading_Sequence.htm
+Weave_Window.htm
+Display_Composite.htm
+Denting_Plans.htm
+Schemas_-_General.htm
+Editing_the_Design_in_Merge_View.htm
+Mill_Ticket.htm
+Tutorial_3.htm
+Jacquard_Preferences.htm
+CarpetCustomer_Care.htm
+Using_Help_Files.htm
+Weave_Toolbar.htm
+Reload_Weaves.htm
+Printing_a_Cloth_Image.htm
+Warp_Bar.htm
+Schema_-_Weft_Figuring.htm
+Weave_Edit.htm
+Weft_Controls.htm
+Apply_Weaves_Simple.htm
+Merge_View.htm
+Composite_Weave_Generator.htm
+Tutorial_2.htm
+Float_Check.htm
+Export_for_Carpet_and_Pile_Fabric_Users.htm
+Welcome.htm
+Weave_Browser.htm
+Edge_Protection.htm
+Cloth_Image_Introduction.htm
+Weft_Bar.htm
+Schema_-_2_3_Ratio.htm
+Apply_Weaves_Composite.htm
+Weave_Editor_Introduction.htm
+Apply_Weaves.htm
+1_2_and_1_3_Ratios.htm
+Tutorial_1.htm
+Threading_Incomplete.htm
+Weave_Adjustments.htm
+CAD_help.jpg
+HelpFilesJacquard.exe
+
+JacquardDesigner.glo
+JacquardDesigner.brs
+[ALIAS]
+#include JacquardDesigner.ali
+
+[MAP]
+#include BSSCDefault.h
+
+[TEXT POPUPS]
+BSSCDefault.h
+
+[MERGE FILES]
+DesignerBase.chm
+DesignerExport.chm
+

@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0">
+	<properties windowname="NewWindow1">
+	</properties>
+	<item name="Undo Apply Weaves">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Selectors Tool bar">
+		<section name="Editing the Design in Merge View" link="Editing_the_Design_in_Merge_View.htm">
+		</section>
+	</item>
+	<item name="Merge View">
+		<section name="Merge View" link="Merge_View.htm">
+		</section>
+		<item name="Editing Design in Merge View">
+			<section name="Editing the Design in Merge View" link="Editing_the_Design_in_Merge_View.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Weave Tool Bar">
+		<section name="The Weave Toolbar" link="Weave_Toolbar.htm">
+		</section>
+	</item>
+	<item name="Weave Browser">
+		<section name="Weave Browser" link="Weave_Browser.htm">
+		</section>
+	</item>
+	<item name="2:3 Ratio">
+		<section name="Schema - 2:3 Ratio" link="Schema_-_2_3_Ratio.htm">
+		</section>
+	</item>
+	<item name="1:2 and 1:3 Ratios">
+		<section name="1:2 and 1:3 Ratios" link="1_2_and_1_3_Ratios.htm">
+		</section>
+	</item>
+	<item name="Schema - 2:3 Ratio">
+		<section name="Schema - 2:3 Ratio" link="Schema_-_2_3_Ratio.htm">
+		</section>
+	</item>
+	<item name="Denting Plans">
+		<section name="Denting Plans" link="Denting_Plans.htm">
+		</section>
+	</item>
+	<item name="Denting Reset">
+		<section name="Denting Reset" link="Denting_Reset.htm">
+		</section>
+	</item>
+	<item name="Denting Display">
+		<section name="Denting Display" link="Denting_Display.htm">
+		</section>
+	</item>
+	<item name="Weft Controls">
+		<section name="Weft Controls" link="Weft_Controls.htm">
+		</section>
+	</item>
+	<item name="Layer mode">
+		<section name="Edit Layer" link="Edit_Layer.htm">
+		</section>
+	</item>
+	<item name="merged plan">
+		<section name="Edit Layer" link="Edit_Layer.htm">
+		</section>
+	</item>
+	<item name="Layer Edit">
+		<section name="Edit Layer" link="Edit_Layer.htm">
+		</section>
+	</item>
+	<item name="Edit Layer">
+		<section name="Edit Layer" link="Edit_Layer.htm">
+		</section>
+	</item>
+	<item name="Weave Mode and Undo/Redo">
+		<section name="Jacquard Mode" link="Jacquard_Mode.htm">
+		</section>
+	</item>
+	<item name="Weave Path">
+		<section name="Reload Weaves" link="Reload_Weaves.htm">
+		</section>
+	</item>
+	<item name="Weaves in Design Files">
+		<section name="Reload Weaves" link="Reload_Weaves.htm">
+		</section>
+	</item>
+	<item name="Reload Weaves">
+		<section name="Reload Weaves" link="Reload_Weaves.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Bracket Levels">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+		<item name="Maximum">
+			<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+			</section>
+		</item>
+		<item name="Preferences">
+			<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+			</section>
+		</item>
+		<item name="Visible">
+			<section name="Threading Sequence#Bracket_Levels" link="Warp_Threading.htm#Bracket_Levels">
+			</section>
+		</item>
+	</item>
+	<item name="Schema Pop-up Menu">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="New Designs Threading">
+		<section name="Threading Incomplete" link="Threading_Incomplete.htm">
+		</section>
+	</item>
+	<item name="Threading Incomplete">
+		<section name="Threading Incomplete" link="Threading_Incomplete.htm">
+		</section>
+	</item>
+	<item name="Edge Protection">
+		<section name="Edge Protection" link="Edge_Protection.htm">
+		</section>
+	</item>
+	<item name="Vertical Flip">
+		<section name="Reverse Cloth" link="Reverse_Cloth.htm">
+		</section>
+	</item>
+	<item name="Reverse Cloth">
+		<section name="Reverse Cloth" link="Reverse_Cloth.htm">
+		</section>
+	</item>
+	<item name="Printing Help Topics">
+		<section name="Printing Help Topics" link="Printing_Help_Topics.htm">
+		</section>
+	</item>
+	<item name="Weave Search Directory">
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+	</item>
+	<item name="Weave Alignment">
+		<section name="Weave Alignment Preference" link="Weave_Alignment_Preference.htm">
+		</section>
+	</item>
+	<item name="Weave Adjustments">
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="Tutorials">
+		<section name="Tutorials Introduction" link="Tutorials_Introduction.htm">
+		</section>
+	</item>
+	<item name="Tutorial 3">
+		<section name="Tutorial 3" link="Tutorial_3.htm">
+		</section>
+	</item>
+	<item name="Tutorial 2">
+		<section name="Tutorial 2" link="Tutorial_2.htm">
+		</section>
+	</item>
+	<item name="Tutorial 1">
+		<section name="Tutorial 1" link="Tutorial_1.htm">
+		</section>
+	</item>
+	<item name="punch machines">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Van de Wiele">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Card Format">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Adjust Weave">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="dent">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="multiplier">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Keep over 2 wires">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Through to Back">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name=".ep">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name=".bin">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Export">
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Contact">
+		<section name="Customer Care" link="CarpetCustomer_Care.htm">
+		</section>
+	</item>
+	<item name="Texture">
+		<section name="Texture" link="Texture.htm">
+		</section>
+	</item>
+	<item name="Mode">
+		<section name="Jacquard Mode" link="Jacquard_Mode.htm">
+		</section>
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<item name="ArtWork">
+			<section name="Jacquard Mode" link="Jacquard_Mode.htm">
+			</section>
+		</item>
+		<item name="Weave">
+			<section name="Jacquard Mode" link="Jacquard_Mode.htm">
+			</section>
+		</item>
+		<item name="Cloth">
+			<section name="Jacquard Mode" link="Jacquard_Mode.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Crammed Picks">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+	</item>
+	<item name="Assign Colors">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+	</item>
+	<item name="Weft Figuring">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Schema - Weft Figuring" link="Schema_-_Weft_Figuring.htm">
+		</section>
+	</item>
+	<item name="Warp Extras">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Backbinding">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Back Weaves">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Apply Weaves">
+		<section name="Apply Weaves" link="Apply_Weaves.htm">
+		</section>
+		<item name="Composite">
+			<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+			</section>
+		</item>
+		<item name="Simple">
+			<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+			</section>
+		</item>
+		<item name="Composite Weave Generator">
+			<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+			</section>
+		</item>
+		<item name="Cramming and Extras">
+			<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+			</section>
+		</item>
+		<item name="Large Display">
+			<section name="Large Display" link="Large_Display.htm">
+			</section>
+		</item>
+		<item name="Weave Edit">
+			<section name="Weave Edit" link="Weave_Edit.htm">
+			</section>
+		</item>
+		<item name="To Selected">
+			<section name="Apply Weaves to Selected Schema Entries" link="Apply_Weaves_to_Selected_Schema_Entries.htm">
+			</section>
+		</item>
+		<item name="Copy Schema">
+			<section name="Copying a Schema" link="Copying_a_Schema.htm">
+			</section>
+		</item>
+		<item name="Undo/Redo">
+			<section name="Apply Weaves Simple#Undo_Apply_Weaves" link="Apply_Weaves_Simple.htm#Undo_Apply_Weaves">
+			</section>
+		</item>
+		<item name="Add Entry">
+			<section name="Add Schema Entry" link="Add_Schema_Entry.htm">
+			</section>
+		</item>
+		<item name="Remove Entry">
+			<section name="Add Schema Entry#Removing_an_Additional_Entry" link="Add_Schema_Entry.htm#Removing_an_Additional_Entry">
+			</section>
+		</item>
+	</item>
+	<item name="Full Levels">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Backweaves">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+	</item>
+	<item name="DobbyDesigner">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Weft Selectors">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Weft Cramming">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="FACE">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Face Weaves">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="BONAS">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Weave Invert">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Warp Selectors">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Extras">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Schema">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Apply Weaves" link="Apply_Weaves.htm">
+		</section>
+		<item name="Reset">
+			<section name="Reset Schema" link="Reset_Schema.htm">
+			</section>
+		</item>
+		<item name="Add Entry">
+			<section name="Add Schema Entry" link="Add_Schema_Entry.htm">
+			</section>
+			<item name="In Schema Pop-up menu">
+				<section name="Apply Weaves Simple#Schema_Popup_Menu" link="Apply_Weaves_Simple.htm#Schema_Popup_Menu">
+				</section>
+			</item>
+		</item>
+		<item name="Properties">
+			<section name="Apply Weaves Simple#Schema_Properties" link="Apply_Weaves_Simple.htm#Schema_Properties">
+			</section>
+		</item>
+		<item name="Sort">
+			<section name="Apply Weaves Simple#Schema_Sort" link="Apply_Weaves_Simple.htm#Schema_Sort">
+			</section>
+		</item>
+		<item name="Item Select">
+			<section name="Apply Weaves Simple#Select_Item" link="Apply_Weaves_Simple.htm#Select_Item">
+			</section>
+		</item>
+		<item name="Buttons">
+			<section name="Apply Weaves Simple#Buttons" link="Apply_Weaves_Simple.htm#Buttons">
+			</section>
+		</item>
+		<item name="Copy">
+			<section name="Copying a Schema" link="Copying_a_Schema.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Composite Weave">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Reset Schema">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Stitching Point">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="1:2 and 1:3 Ratios" link="1_2_and_1_3_Ratios.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Composite Weave Generator">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+	</item>
+	<item name="Composite">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+	</item>
+	<item name="Points">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<item name="Stitching">
+			<section name="Display Composite" link="Display_Composite.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Lifters">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+	</item>
+	<item name="Weave Display">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Stitching">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<item name="Points">
+			<section name="Display Composite" link="Display_Composite.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Composite Weave Size">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+	</item>
+	<item name="Display Composite">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Save Composite Weave">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+	</item>
+	<item name="Large Display">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Save As">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Composite Display">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+	</item>
+	<item name="Composite Weave Display">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+	</item>
+	<item name="Weave Edit Tools">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+	</item>
+	<item name="St">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Sati5">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+	</item>
+	<item name="STAUBLI">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+		</section>
+	</item>
+	<item name="Single Line Weaves">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<item name="Loading">
+			<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Multi-Line Selection">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+	</item>
+	<item name="Shift Ends">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="PRJ file">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Open file dialog">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+	</item>
+	<item name="Shift">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Loom Interface">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Pop-up menu">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+	</item>
+	<item name="Loom File">
+		<section name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Ratios">
+		<section name="1:2 and 1:3 Ratios" link="1_2_and_1_3_Ratios.htm">
+		</section>
+	</item>
+	<item name="Apply Simple Weaves">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<item name="Composite Weave Generator">
+			<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+			</section>
+		</item>
+		<item name="Reset Schema">
+			<section name="Reset Schema" link="Reset_Schema.htm">
+			</section>
+		</item>
+		<item name="Partial">
+			<section name="Apply Weaves to Selected Schema Entries" link="Apply_Weaves_to_Selected_Schema_Entries.htm">
+			</section>
+		</item>
+		<item name="To Selected Entries">
+			<section name="Apply Weaves to Selected Schema Entries" link="Apply_Weaves_to_Selected_Schema_Entries.htm">
+			</section>
+		</item>
+	</item>
+	<item name="IFF">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Warp">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Properties">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="New">
+		<section name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="End/Pick">
+		<section name="Display Composite" link="Display_Composite.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Sequence Grid">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Threading">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Delete Empty Columns">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Warp Threading">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Move Up">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Mirror Columns">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Include First Stripe">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Editing">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<item name="Values">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+		<item name="Weave">
+			<section name="Large Display" link="Large_Display.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Delete">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Clear All">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Bracket">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Delete">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Optimise">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Figure">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Deleting">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Threading">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Sequence">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+		<item name="Sequence Grid">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+		<item name="Undo/Redo">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+		<item name="XL - Using">
+			<section name="Using XL to create a Threading Sequence" link="Using_XL_to_create_a_Threading_Sequence.htm">
+			</section>
+		</item>
+		<item name="New Design">
+			<section name="Threading Incomplete" link="Threading_Incomplete.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Jacquard Preference">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+	</item>
+	<item name="Entering">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Values">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Clear Selection">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Include Last Stripe">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Duplicate">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Times Values">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="New Bracket">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Create">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Extend">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Clear">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Thread Counts">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Create">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<item name="New Bracket">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+		<item name="New Weave">
+			<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Tartan">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Sequence">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<item name="Threading">
+			<section name="Threading Sequence" link="Warp_Threading.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Weft Threading">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Row Sub-Menu">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Column Sub-Menu">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Selectors Re-Ordering">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Move Down">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Mirror">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Reverse All">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Multi-Select">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Compress">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Delete Empty Rows">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Add Column">
+		<section name="Threading Sequence" link="Warp_Threading.htm">
+		</section>
+	</item>
+	<item name="Multi Line">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Treble Cloths">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+		<section name="Schema - Treble Cloth" link="Schema_-_Treble_Cloth.htm">
+		</section>
+	</item>
+	<item name="Float Check">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Float Check" link="Float_Check.htm">
+		</section>
+	</item>
+	<item name="Warp Threading Sequence">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Invert">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Weft Threading Sequence">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Open">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Open Weave">
+		<section name="Open Weave" link="Open_Weave.htm">
+		</section>
+	</item>
+	<item name="No Weave">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+	</item>
+	<item name="Extra Ends">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+	</item>
+	<item name="Check Floats">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="A/B paring">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Weft">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Cramming">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<item name="Example">
+			<section name="Schemas - General" link="Schemas_-_General.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Double Cloths">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Schema - Double Cloth" link="Schema_-_Double_Cloth.htm">
+		</section>
+	</item>
+	<item name="Warp/Weft Pairings">
+		<section name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</section>
+	</item>
+	<item name="Re-Size">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Weave">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<item name="Editing">
+			<section name="Large Display" link="Large_Display.htm">
+			</section>
+		</item>
+		<item name="Open Weave">
+			<section name="Open Weave" link="Open_Weave.htm">
+			</section>
+		</item>
+		<item name="Shift Ends/Picks">
+			<section name="Apply Weaves Simple#Shift_Ends_Picks" link="Apply_Weaves_Simple.htm#Shift_Ends_Picks">
+			</section>
+		</item>
+		<item name="Flip">
+			<section name="Apply Weaves Simple#Horizontal_Flip" link="Apply_Weaves_Simple.htm#Horizontal_Flip">
+			</section>
+		</item>
+		<item name="Invert">
+			<section name="Apply Weaves Simple#Invert" link="Apply_Weaves_Simple.htm#Invert">
+			</section>
+		</item>
+	</item>
+	<item name="Edit Weave">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Horizontal Flip">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+		<section name="Reverse Cloth" link="Reverse_Cloth.htm">
+		</section>
+	</item>
+	<item name="Zoom, Scroll">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Weave Information">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Scottish">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Title Bar">
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Levels/selectors">
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+	</item>
+	<item name="Colours">
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+	</item>
+	<item name="Artwork Colors">
+		<section name="Reset Schema" link="Reset_Schema.htm">
+		</section>
+	</item>
+	<item name="Single Cloth">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+	</item>
+	<item name="Semi Double Cloth">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+	</item>
+	<item name="Check">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+		<section name="Float Check" link="Float_Check.htm">
+		</section>
+	</item>
+	<item name="Apply Composite Weaves">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+	</item>
+	<item name="Clear Weaves">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Across Edges">
+		<section name="Float Check" link="Float_Check.htm">
+		</section>
+	</item>
+	<item name="Float Check dialog">
+		<section name="Float Check" link="Float_Check.htm">
+		</section>
+	</item>
+	<item name="Move">
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<item name="colours">
+			<section name="Selectors" link="Selectors.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Selectors">
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+	</item>
+	<item name="Selector List">
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+	</item>
+	<item name="Selector dialog">
+		<section name="Selectors" link="Selectors.htm">
+		</section>
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Threading Sequence dialog">
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+	</item>
+	<item name="Scottish System">
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+		<section name="Large Display" link="Large_Display.htm">
+		</section>
+	</item>
+	<item name="Mill Ticket">
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+		<section name="Mill Ticket" link="Mill_Ticket.htm">
+		</section>
+	</item>
+	<item name="Warp Threading dialog">
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+	</item>
+	<item name="Threading dialog">
+		<section name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</section>
+		<section name="1:2 and 1:3 Ratios" link="1_2_and_1_3_Ratios.htm">
+		</section>
+	</item>
+	<item name="Pairings">
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Schema List">
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Warp Letter">
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Weft Letter">
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Selector Column">
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+	</item>
+	<item name="Artwork Color">
+		<section name="Schemas - General" link="Schemas_-_General.htm">
+		</section>
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Invert Selection">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Change Warp/Weft">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="New Weave">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+		<item name="Create">
+			<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Palette Colour">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Shift Picks">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Schema Sort">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Float">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Schema Properties">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Make Same">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Flip Horizontal">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Save">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Selector Number">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Crammed Weft">
+		<section name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+		</section>
+	</item>
+	<item name="Float crossing">
+		<section name="Float Check" link="Float_Check.htm">
+		</section>
+	</item>
+	<item name="Remove All Edits">
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Flip">
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Edit Tools">
+		<section name="Weave Edit" link="Weave_Edit.htm">
+		</section>
+	</item>
+	<item name="Weave Options">
+		<section name="Edge Protection#Weave_Options" link="Edge_Protection.htm#Weave_Options">
+		</section>
+	</item>
+	<item name="Options Weave">
+		<section name="Edge Protection#Weave_Options" link="Edge_Protection.htm#Weave_Options">
+		</section>
+	</item>
+	<item name="Undo in Weave Mode">
+		<section name="Jacquard Mode#Weave_Mode_and_Undo_Redo" link="Jacquard_Mode.htm#Weave_Mode_and_Undo_Redo">
+		</section>
+	</item>
+	<item name="Cloth Image">
+		<section name="Cloth Image Introduction" link="Cloth_Image_Introduction.htm">
+		</section>
+		<item name="Printing">
+			<section name="Printing a Cloth Image" link="Printing_a_Cloth_Image.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Cloth mode">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+	</item>
+	<item name="Cloth Type">
+		<section name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+		</section>
+	</item>
+</index>

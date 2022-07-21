@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Apply Weaves Composite</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+</head>
+
+<body>
+<h1>Apply Composite Weaves</h1>
+<p style="font-weight: bold;">&#160;</p>
+<p style="font-weight: bold;">Introduction</p>
+<p><span style="font-weight: normal;">This dialog replaces the &quot;Apply 
+ Weaves&quot; in previous versions of Jacquard Designer. Therefore you 
+ can use it to modify any existing designs and you can use the same weaves. 
+ In fact if you load an old design, all the same weave names should appear.</span></p>
+<p><span style="font-weight: normal;">The dialog has all the facilities 
+ of the &quot;Apply Weaves Simple&quot; dialog except that there is always 
+ one line in the Schema for each palette colour.</span></p>
+<p><span style="font-weight: normal;">Only used palette colours are shown 
+ and if you change the design by adding a new colour, it will automatically 
+ be added to the list.</span></p>
+<p><span style="font-weight: normal;">As the name suggests, this dialog 
+ only uses composite weaves. For a single cloth this makes no difference 
+ whatsoever. However, if you use this dialog to produce a multi-level cloth, 
+ you must combine the weaves together. See the double cloth example procedure 
+ <a href="Apply_Weaves_Composite.htm#Double_Cloth_Example_using_Composite_Weaves">below</a>.</span></p>
+<p><span style="font-weight: normal;">Note that you cannot use this dialog 
+ to produce cloths having Warp Extras or Weft Cramming.</span></p>
+<p><span style="font-weight: normal;">The following is an example of the 
+ &quot;Apply Composite Weaves&quot; dialog.</span></p>
+<p style="text-align: center;"><img src="ApplyWeavesCompositee_001.png" 
+									 alt="" style="border: none;" border="0" /></p>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Composite 
+ Weave versus Simple Weave</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You should 
+ always use the <a href="Apply_Weaves_Simple.htm">Apply Simple Weaves</a> 
+ dialog in preference to the Composite Weaves dialog. However, there may 
+ be certain circumstances, for example an existing design produced using 
+ an older version of Jacquard Designer for which the weaves already exist, 
+ when it is easier to use composite weaves.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">For information 
+ about editing weaves see the topic <a href="Weave_Edit.htm">Weave Edit</a>.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">For information 
+ about the sort buttons (Artwork, Selectors, Weave Name) <a href="Apply_Weaves_Simple.htm#Schema_Sort">click 
+ here</a>.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">For information 
+ about the Schema Pop-up menu <a href="Apply_Weaves_Simple.htm#Schema_Popup_Menu">click 
+ here.</a></span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">For information 
+ about the Clear Weaves and Exit button <a href="Apply_Weaves_Simple.htm#Buttons">click 
+ here</a>.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The following 
+ are the main differences between the two dialogs.</span></p>
+<ul>
+	<li class="p"><p style="text-align: left;">The following buttons on 
+	 the Composite dialog are not applicable and are disabled: Reset Schema, 
+	 Move Up, Move Down.</p></li>
+	<li class="p"><p style="text-align: left;">When you select Apply Weaves 
+	 on the Composite dialog you will be asked to confirm the &quot;Ends/Art 
+	 Ends&quot; and &quot;Picks/Art picks&quot; i.e. the conversion factor 
+	 from artwork to weave. For example both values are 1 for a single 
+	 cloth, 2 for a double cloth. See <a href="Apply_Weaves_Composite.htm#Apply_Weaves_Button">below</a> 
+	 for more details.</p></li>
+	<li class="p"><p style="text-align: left;">Although you can insert 
+	 stitching points when using composite weaves they only serve as a 
+	 visual reminder, they do not change the weave in any way.</p></li>
+	<li class="p"><p style="text-align: left;">Certain Pop-up menu options 
+	 are not applicable and are disabled as shown below:</p></li>
+</ul>
+<p style="text-align: center;"><img src="ApplyWeaveCompPopup.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="141" height="229" border="0" /></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Apply_Weaves_Button" 
+	 id="Apply_Weaves_Button"></a>Apply Weaves Button</span></p>
+<p style="text-align: center;"><span style="font-weight: bold;"><img src="ApplyWeaveCompRatio.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="285" height="203" border="0" /></span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The Apply 
+ Weaves button will display the dialog above in order that you can confirm 
+ the following two values:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Ends/Art 
+		 Ends</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">The 
+		 number of warp threads in the cloth for each &quot;end&quot; in 
+		 the artwork.</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Picks/Art 
+		 Picks</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">The 
+		 number of weft threads in the cloth for each &quot;pick&quot; 
+		 in the artwork.</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-weight: normal;">The following 
+ table gives some of the possible combinations of these values:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Ends/Art 
+		 Ends</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Picks/Art 
+		 Picks</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Cloth 
+		 Type</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Single Cloth</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">2</p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">2</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Double Cloth</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">3</p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">3</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Treble Cloth</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">2</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Semi Double Cloth (double in weft 
+		 but single in warp)</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">2</p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Semi Double Cloth (double in warp 
+		 but single in weft)</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-weight: normal;">Other special 
+ combinations may be used such as 2/3 if required.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Note that 
+ the above all assume that the Artwork contains only the same number of 
+ Ends and Picks as the FACE OF THE CLOTH. This will then in turn mean that 
+ the Cloth mode will be representative of the appearance of the woven product 
+ since it will show the same number of ends and picks as the artwork i.e. 
+ the same number as are in the face of the cloth.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Double_Cloth_Example_using_Composite_Weaves" 
+	 id="Double_Cloth_Example_using_Composite_Weaves"></a>Double Cloth 
+ Example Procedure using Composite Weaves</span></p>
+<p style="text-align: left;"><span style="font-style: italic; font-weight: normal;">Before 
+ you can complete the procedure below, the composite weaves should be designed 
+ and saved to disk if they have not already been created. You can do this 
+ using the &quot;Simple Weave&quot; dialog even if you intend to use the 
+ Composite Weave dialog to apply weaves to the main design. See the topic</span> 
+ <span style="font-weight: normal;"><a href="Composite_Weave_Generator.htm"><span 
+	 style="font-style: italic;">Composite Weave Generator</span></a></span> 
+ <span style="font-style: italic; font-weight: normal;">for a description 
+ of how to do this.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The procedure 
+ is:</span></p>
+<ol>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: normal;">Complete 
+	 the Artwork making it the same size in ends and picks as the FACE 
+	 OF THE CLOTH i.e. half the total number of ends and picks in a repeat 
+	 (for a double cloth).</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: normal;">Select 
+	 Apply Weaves Composite on the menu (Jacquard-&gt;Apply Weaves-&gt;Composite).</span></p></li>
+	<li class="p"><p style="text-align: left;">Double click each line in 
+	 turn and select the weave from disk to be applied to that colour OR.</p></li>
+	<li class="p"><p style="text-align: left;">You can draw the weaves 
+	 interactively if you wish though this may be time consuming for double 
+	 cloths.</p></li>
+	<li class="p"><p style="text-align: left;">Click on Apply Weaves</p></li>
+	<li class="p"><p style="text-align: left;">Enter the values <span style="font-weight: bold;">Ends/Art 
+	 Ends</span> <span style="font-weight: normal;">= 2</span> <span style="font-weight: bold;">and 
+	 Picks/Art Picks</span> <span style="font-weight: normal;">= 2 (for 
+	 a double cloth).</span></p></li>
+	<li class="p"><p style="text-align: left;">Click on OK.</p></li>
+	<li class="p"><p style="text-align: left;">The weaves will be applied, 
+	 the dialog closed and the weave for the main design displayed.</p></li>
+	<li class="p"><p style="text-align: left;">Enter the Threading sequence 
+	 if necessary for warp and weft.</p></li>
+	<li class="p"><p style="text-align: left;">Check floats using the &quot;Check&quot; 
+	 menu option.</p></li>
+	<li class="p"><p style="text-align: left;">View the Cloth to confirm 
+	 that weaves and selectors are correct.</p></li>
+	<li class="p"><p style="text-align: left;">Save the design.</p></li>
+</ol>
+<p style="text-align: left; margin-bottom: 0;">&#160;</p>
+</body>
+</html>

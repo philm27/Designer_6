@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!--Printed Documentation Layout-->
+<printdoclayout version="3">
+  <temphistory/>
+ <stylemapping>
+   <templatefile type="msword" filename="Style Mapping.dot"/>
+   <maps/>
+ </stylemapping>
+ <tocstructure>
+  <chapter name="Welcome">
+    <page name="Welcome" topic="Welcome.htm" flags="0" topicid="-1"/>
+    <page name="Using Help Files" topic="Using_Help_Files.htm" flags="0" topicid="-1"/>
+    <page name="Printing Help Topics" topic="Printing_Help_Topics.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Tutorials">
+    <page name="Tutorials Introduction" topic="Tutorials_Introduction.htm" flags="0" topicid="-1"/>
+    <page name="Tutorial 1" topic="Tutorial_1.htm" flags="0" topicid="-1"/>
+    <page name="Tutorial 2" topic="Tutorial_2.htm" flags="0" topicid="-1"/>
+    <page name="Tutorial 3" topic="Tutorial_3.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Jacquard Designer Help">
+    <page name="Jacquard Mode" topic="Jacquard_Mode.htm" flags="0" topicid="-1"/>
+    <page name="Selectors" topic="Selectors.htm" flags="0" topicid="-1"/>
+   <chapter name="Apply Weaves">
+     <page name="Apply Weaves" topic="Apply_Weaves.htm" flags="0" topicid="-1"/>
+     <page name="Apply Weaves Simple" topic="Apply_Weaves_Simple.htm" flags="0" topicid="-1"/>
+     <page name="Schemas - General" topic="Schemas_-_General.htm" flags="0" topicid="-1"/>
+     <page name="Open Weave" topic="Open_Weave.htm" flags="0" topicid="-1"/>
+     <page name="Add Schema Entry" topic="Add_Schema_Entry.htm" flags="0" topicid="-1"/>
+     <page name="Apply Weaves Composite" topic="Apply_Weaves_Composite.htm" flags="0" topicid="-1"/>
+     <page name="Weave Edit" topic="Weave_Edit.htm" flags="0" topicid="-1"/>
+     <page name="Display Composite" topic="Display_Composite.htm" flags="0" topicid="-1"/>
+     <page name="Large Display" topic="Large_Display.htm" flags="0" topicid="-1"/>
+     <page name="Reset Schema" topic="Reset_Schema.htm" flags="0" topicid="-1"/>
+     <page name="Edge Protection" topic="Edge_Protection.htm" flags="0" topicid="-1"/>
+     <page name="Reload Weaves" topic="Reload_Weaves.htm" flags="0" topicid="-1"/>
+   </chapter>
+    <page name="Threading Sequence" topic="Warp_Threading.htm" flags="0" topicid="-1"/>
+    <page name="Edit Layer" topic="Edit_Layer.htm" flags="0" topicid="-1"/>
+    <page name="Threading Incomplete" topic="Threading_Incomplete.htm" flags="0" topicid="-1"/>
+    <page name="Float Check" topic="Float_Check.htm" flags="0" topicid="-1"/>
+    <page name="Jacquard Preferences" topic="Jacquard_Preferences.htm" flags="0" topicid="-1"/>
+    <page name="Double Cloths and Treble Cloths" topic="Double_Cloths_and_Treble_Cloths.htm" flags="0" topicid="-1"/>
+    <page name="Cramming and Extras" topic="Cramming_and_Extras.htm" flags="0" topicid="-1"/>
+    <page name="1:2 and 1:3 Ratios" topic="1_2_and_1_3_Ratios.htm" flags="0" topicid="-1"/>
+    <page name="Composite Weave Generator" topic="Composite_Weave_Generator.htm" flags="0" topicid="-1"/>
+    <page name="Mill Ticket" topic="Mill_Ticket.htm" flags="0" topicid="-1"/>
+    <page name="Texture" topic="Texture.htm" flags="0" topicid="-1"/>
+    <page name="Reverse Cloth" topic="Reverse_Cloth.htm" flags="0" topicid="-1"/>
+   <chapter name="Advanced">
+     <page name="Using XL to create a Threading Sequence" topic="Using_XL_to_create_a_Threading_Sequence.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Wilton Carpet Design">
+     <page name="Weave Alignment Preference" topic="Weave_Alignment_Preference.htm" flags="0" topicid="-1"/>
+     <page name="Weave Adjustments" topic="Weave_Adjustments.htm" flags="0" topicid="-1"/>
+     <page name="Export for Carpet and Pile Fabric Users" topic="Export_for_Carpet_and_Pile_Fabric_Users.htm" flags="0" topicid="-1"/>
+   </chapter>
+  </chapter>
+  <chapter name="Getting in Touch">
+    <page name="Customer Care" topic="CarpetCustomer_Care.htm" flags="0" topicid="-1"/>
+  </chapter>
+ </tocstructure>
+  <sectionhistory/>
+ <sectionlist>
+   <section type="defaulttitlepage" name="&lt;Default Title Page&gt;" url="" flags="0" topicid="-1"/>
+   <section type="toc" name="TOC" url="" flags="0" topicid="-1"/>
+   <section type="topics" name="Chapter Layout" url="" flags="0" topicid="-1"/>
+   <section type="glossary" name="Glossary" url="" flags="0" topicid="-1"/>
+   <section type="index" name="Index" url="" flags="0" topicid="-1"/>
+ </sectionlist>
+  <robopdfgeneratorsettings data="resIndex=3&amp;jpegImageQuality=75&amp;imageDPI=96&amp;quiet=0&amp;Quality=3&amp;resolution=96&amp;customResolution=300&amp;customImageDPI=96&amp;customJpegImageQuality=75&amp;pdfTemplateEnable=0&amp;pdfTemplateOnTop=0&amp;pdfTemplate=&amp;watermark=&amp;watermarkText=&amp;watermarkFontName=Arial&amp;watermarkFontSize=48&amp;watermarkStyle=0&amp;watermarkColor=90&amp;sd_permissionFlags=-64&amp;sd_enabled=0&amp;sd_keyLen=16&amp;sd_up=&amp;sd_op=&amp;"/>
+ <headerfootermapping>
+   <section type="custominternaltopic" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="customexternaltopic" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="defaulttitlepage" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="toc" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="topics" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="glossary" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="index" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+ </headerfootermapping>
+</printdoclayout>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-check-list" content="Ran Smart Index" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Schemas - General</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+<style type="text/css">/*<![CDATA[*/
+td ol,
+td ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+/*]]>*/</style>
+</head>
+
+<body>
+<h1>Schemas - General</h1>
+<p>&#160;</p>
+<p>Schemas are the means by which you can define what is required in each 
+ area of the design. In other words they define the structure of the cloth.</p>
+<p>For a simple single cloth the schema consists of one entry per artwork 
+ color and that entry defines only the weave to be applied to that color.</p>
+<p>For a multi-level cloth however, the schema defines the weave to be 
+ applied to each level or selector.</p>
+<p><span style="font-weight: normal;">Schemas are created, reset and edited 
+ using the &quot;<a href="Apply_Weaves_Simple.htm">Apply Weaves Simple</a>&quot; 
+ dialog from which the examples below have been taken</span></p>
+<p style="text-align: center;"><img src="ApplyWeavesSimple_003.png" alt="" 
+									 style="border: none;" border="0" /></p>
+<p><span style="font-weight: normal;">The Schema has three main columns:</span></p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="646">
+	<col style="width: 23.437%;" />
+	<col style="width: 76.563%;" />
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;"><p style="margin-bottom: 0; 
+															 font-weight: bold;">Artwork 
+		 Color</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;"><p>The list will 
+		 show both the number of the palette entry and a rectangular swatch 
+		 of the color. Only colors used in the design are shown.</p>
+		<p style="margin-bottom: 0;">If successive lines have the same 
+		 palette color then the color is only shown once (as in the double 
+		 cloth example above).</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;"><p style="margin-bottom: 0;"><span 
+		 style="font-weight: bold;">Selector</span></p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;"><p>This column shows 
+		 the Selector information for the various levels within the artwork 
+		 color.</p>
+		<p>It is important to note that the sequence of the list (when 
+		 in Artwork sequence) implies the cloth level (working from the 
+		 face through to the back). So in the above example, color 1 (black) 
+		 has weave sati7 using Warp B and Weft A in the face and sati7 
+		 in the back using Warp A and Weft B.</p>
+		<p><span style="font-style: italic;">Using the various editing 
+		 features, lines can be moved up or down, pairings can be changed 
+		 and/or weaves changed. See</span> <a href="Apply_Weaves_Simple.htm"><span 
+		 style="font-style: italic;">Apply Weaves Simple</span></a> <span 
+		 style="font-style: italic;">for more information about editing 
+		 the schema.</span></p>
+		<p style="margin-bottom: 0;">For more information about this column 
+		 see the section <a href="Schemas_-_General.htm#Selectors_and_Pairings">Selectors 
+		 and Pairings</a> below.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;"><p style="margin-bottom: 0;"><span 
+		 style="font-weight: bold;">Weave</span></p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;"><p style="margin-bottom: 0;">This 
+		 column shows the weave name. See <a href="Schemas_-_General.htm#Weave_Name">below</a> 
+		 for more details.</p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p style="text-align: left;">&#160;</p>
+<p><span style="font-weight: bold;"><a name="Selectors_and_Pairings" id="Selectors_and_Pairings"></a>Selectors 
+ and Warp/Weft Pairings</span></p>
+<p><span style="font-weight: normal;">The middle column of the Schema List 
+ shows the Selector number if applicable or the Warp/Weft Pairings for 
+ each level. The first figure shown is the Warp Letter or &quot;selector&quot;, 
+ the second is the Weft Letter or selector.</span></p>
+<p>For single cloths this column is irrelevant and will show &quot;-/-&quot; 
+ as there is no relevant warp or weft selector information.</p>
+<p>For cloths having &quot;full&quot; levels such as double cloth, treble 
+ cloth, 1:2 ratios etc., the column will show for example A/B or A/A or 
+ B/B etc to indicate the warp/weft pairing that is to be used for the Artwork 
+ color at that level. Note that unlike Warp Extras and Weft Cramming this 
+ does not imply the actual color to be used since the color of the A or 
+ B thread can change according to the threading sequence.</p>
+<p>For a double cloth, the valid pairings for the two levels are:</p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="400">
+	<tr>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Face</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/A</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">B/B</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/B</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">B/A</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Back</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">B/B</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/A</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">B/A</p></td>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/B</p></td>
+	</tr>
+</table>
+<p><span style="font-weight: normal;">For a cloth having 1 warp level but 
+ 2 weft levels the valid pairings are:</span></p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="240">
+	<tr>
+		<td style="vertical-align: TOP; width: 33%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Face</p></td>
+		<td style="vertical-align: TOP; width: 33%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/A</p></td>
+		<td style="vertical-align: TOP; width: 33%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/B</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 33%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Back</p></td>
+		<td style="vertical-align: TOP; width: 33%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/B</p></td>
+		<td style="vertical-align: TOP; width: 33%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A/A</p></td>
+	</tr>
+</table>
+<p>For a cloth having Warp Extras or Weft Cramming, the Selector Column 
+ will also show an icon representing the yarn color for that selector as 
+ well as the selector number (see the example below).</p>
+<p style="text-align: center;"><img src="ApplyWeavesSimple_004.png" alt="" 
+									 style="border: none;" border="0" /></p>
+<p style="text-align: center; font-style: italic;">Example of a Schema 
+ for a cloth using weft figuring i.e. Cramming</p>
+<p><span style="font-weight: normal;">For example a cloth having Warp Extras 
+ will show a &quot;selector&quot; number in the form 1/- (warp number 1) 
+ or 2/- (warp number 2) etc..</span></p>
+<p><span style="font-weight: normal;">A cloth having Weft Cramming (as 
+ above) will show the selector number in the form -/1 (weft &quot;selector&quot; 
+ 1) or -/2 (weft &quot;selector&quot; 2) etc..</span></p>
+<p>If a cloth is for example 2:3 there will be 2 cloth levels with one 
+ weft forming a &quot;stuffer&quot; thread which will normally be between 
+ the two layers. In this case there will be a pairing that is shown as 
+ -/C for example. It is not necessary to add a weave to these entries as 
+ all &quot;points&quot; on these picks are always lifters or droppers.</p>
+<p style="text-align: left;"><a name="Weave_Name" id="Weave_Name"></a><span 
+	 style="font-weight: bold;">Weave Name</span></p>
+<p>This shows the weave name to be applied to the selector (for warp extras 
+ or weft cramming) or to the level.</p>
+<p>The full file path (if there is one) is not shown but may be viewed 
+ for example by selecting &quot;<a href="Large_Display.htm">Large Display</a>&quot; 
+ from the pop-up menu.</p>
+<p>The following may also be shown in this column:</p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">No Weave</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">No weave has yet been selected nor 
+		 has the weave been edited.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Edited</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">A weave has been created by editing</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><?rh-ignored text="name(st" ?><span 
+		 style="font-style: italic;">name</span>(st.)</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">The weave name has been selected 
+		 and one or more stitching points have been added.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><?rh-ignored text="name(mod" ?><span 
+		 style="font-style: italic;">name</span>(mod)</p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">The weave <span style="font-style: italic;">name</span> 
+		 <span style="font-style: normal;">has been selected and has been 
+		 edited (modified).</span></p></td>
+	</tr>
+</table>
+<p style="text-align: left;"><span style="font-weight: normal;">Note (mod) 
+ and (<?rh-ignored text="st" ?>st.) may be shown together.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left; margin-bottom: 0;">&#160;</p>
+</body>
+</html>

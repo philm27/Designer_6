@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Threading Sequence</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+</head>
+
+<body>
+<h1>Threading Sequence</h1>
+<p>&#160;</p>
+<p>Note that the Warp Threading can work left-to-right or right-to-left 
+ (when viewed from the front of the loom) according to the Jacquard Preference. 
+ For more information see the topic <a href="Jacquard_Preferences.htm">Jacquard 
+ Preferences</a>.</p>
+<p>You can access either the Warp Threading or Weft Threading from the 
+ Jacquard menu (Jacquard-&gt;Threading-&gt;Warp and Jacquard-&gt;Threading-&gt;Weft) 
+ and you can also switch from one to the other using the OK/Switch button. 
+ The procedure and options for both warp and weft are exactly the same 
+ therefore the following applies equally to both.</p>
+<p>Up to 3 levels of bracketing can be used.</p>
+<p>This dialog allows you to change the selector colours (see Selector 
+ Colours below) as well as the threading sequence.</p>
+<p>If you wish to edit only the A or B threads from a double cloth or perhaps 
+ the A or B weft threads in a 1:2 (1 warp to 2 weft) weave you can use 
+ the <a href="Edit_Layer.htm">Edit Layer</a> feature.</p>
+<p style="text-align: center;"><img src="threading_004.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="514" height="402" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">Example 
+ Weft Threading Sequence. This example illustrates two levels of bracketing. 
+ Note also the letter A in the first column which indicates to the loom 
+ to use &quot;Option A&quot; for those 73 picks this might be a different 
+ loom speed or other option. Note also the plus signs ('+') which indicate 
+ crammed picks.</span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">The 
+ above also shows the powerful Pop-up menu available by clicking the right 
+ hand mouse button and the multi-select feature allowing several cells 
+ to be selected at once.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Using the 
+ Dialog</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Simply 
+ make your edits to the threading sequence then click on OK or on OK/Switch. 
+ The latter will switch to warp or weft as appropriate.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The software 
+ will compare the total threads against the ends or picks in the weave 
+ as appropriate and will display a warning if there is a discrepancy.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Any changes 
+ will cause the thread totals on the right to be updated (you cannot edit 
+ the totals column directly).</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold; text-decoration: none; ">Undo/Redo<a 
+	 name="Undo_Redo" id="Undo_Redo"></a></span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">If you 
+ make any mistakes you can use the undo feature (&lt;Ctrl&gt; + Z) or the 
+ redo feature (&lt;Ctrl&gt; + Y). All operations can be undone including 
+ mirror, paste, delete columns and rows etc etc.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The undo 
+ information is cleared as soon as you exit the dialog using either CANCEL 
+ or OK. This means that the next time you display the dialog you will not 
+ be able to undo the data to a previous state.</span></p>
+<p style="text-align: left;">Both Undo and Redo are available at the click 
+ of a button in the toolbar.</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Cut Copy 
+ and Paste<a name="Cut_Copy_and_Paste" id="Cut_Copy_and_Paste"></a></span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ select a block of one or more cells and use Cut (&lt;Ctrl&gt; + X) Copy 
+ (&lt;Ctrl&gt; + C) and Paste (&lt;Ctrl&gt; + V).</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Cut will 
+ clear the block at the same time as copying it. The copied block can subsequently 
+ be pasted to a different location.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The cut 
+ copy paste feature uses the same internal format as the Microsoft XL 
+ spreadsheet program therefore you could prepare a <a href="Using_XL_to_create_a_Threading_Sequence.htm">threading 
+ sequence in XL</a>, use copy in XL and then paste the result into a threading 
+ sequence in Jacquard Designer. This may be of some interest if a design 
+ has a warp or weft threading consisting wholly or partly of a complex 
+ numeric progression.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Note that 
+ when pasting you do not need to highlight the all the destination cells. 
+ You simply need to highlight the top left cell.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ copy bracketing from one level to another. If you try to copy bracketing 
+ to selector information, the numbers will be copied but the brackets will 
+ be ignored. if you try to copy selector information to brackets then new 
+ brackets will be created where a number occurs.</span></p>
+<p style="text-align: left;"><span style="font-style: italic;">Note that 
+ you can also cut and paste to or from Dobby Designer (version 6.1.1.1 
+ or later) threading sequences.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;">Buttons (Toolbar)</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Most of 
+ these buttons have an equivalent on the Pop-up menu (see below).</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Undo</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Undo but note that for this (and 
+		 for Redo of course), once the dialog is closed, the undo information 
+		 is lost</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Redo</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Redo.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Add 
+		 Column</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Adds another empty column onto the 
+		 end of the plan.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Insert 
+		 Column</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Inserts a new empty column at the 
+		 current highlighted location. If more than 1 column is highlighted 
+		 then that number of new columns is inserted.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Duplicate 
+		 Column</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Duplicates highlighted columns. 
+		 As above, if more than 1 column is highlighted then that number 
+		 of columns is duplicated</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Delete 
+		 Column</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Deletes the highlighted columns.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Insert 
+		 Row</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Inserts 1 or more rows above the 
+		 highlighted row (or rows). As for Insert Column, if 2 rows are 
+		 highlighted then 2 rows are inserted. Note that this may involve 
+		 losing rows from the bottom of the plan if all rows are used.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Delete 
+		 Row</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Deletes all the highlighted rows.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Move 
+		 Up</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Moves the currently selected row 
+		 up one position and moves the highlight up one row with it. The 
+		 data for the row above is moved down 1. In this way 5 clicks of 
+		 the button would move the data for selector 6 up to the row for 
+		 selector 1 whilst effectively moving the data for selectors 1-5 
+		 down to positions 2-6.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Move 
+		 Down</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Similarly, this function moves a 
+		 selected row down 1 position and moves the data for the row below 
+		 up one position. Thus the data for a selector can be moved progressively 
+		 downwards in the plan.</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Buttons" 
+	 id="Buttons"></a>Buttons (RHS)</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Most of 
+ the buttons have an equivalent on the Pop-up menu (see below).</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">OK</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Use this to return to the main design 
+		 window. The total threads will be checked against the size of 
+		 the weave if any and a warning displayed if there is a discrepancy. 
+		 The threading will be stored it permanently.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">OK/Switch</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This is similar to the OK button 
+		 but the software will switch to the weft if currently viewing 
+		 warp and vice versa.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Cancel</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will forget any edits made 
+		 since the dialog was displayed and return to the design window.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Sel. 
+		 Colours</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will display the warp or weft 
+		 <a href="#Selector_Dialog">selector colours</a> dialog as appropriate.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Edit 
+		 Layer</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This allows editing of for example 
+		 the A threads or B threads in a Double Cloth - for more details 
+		 see the topic <a href="Edit_Layer.htm">Edit Layer</a>.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Clear 
+		 All</span></p></td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will clear all columns</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 23%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 77%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-style: italic;">All 
+		 other buttons have an equivalent on the Pop-up menu. See below 
+		 for an explanation</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Grid" 
+	 id="Grid"></a>Threading Sequence Grid</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">There are 
+ two types of value in the dialog - thread counts and times values:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Thread 
+		 Counts</span></p></td>
+		<td style="vertical-align: TOP; width: 79%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left;"><span style="font-weight: normal;">These 
+		 represent a number of consecutive occurrences of a particular 
+		 colour. If a design has &quot;solid&quot; colour i.e. it only 
+		 uses one colour, then the whole dialog need only contain a single 
+		 figure, probably in the first column on the first line (excluding 
+		 brackets).</span></p>
+		<p style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">The 
+		 count may be followed by a letter and or plus sign. Letters are 
+		 used to indicate a loom option which is to be operated over those 
+		 picks for example a fringing mechanism or a different pick rate, 
+		 and a '+' sign is used to indicate a crammed pick (or an extra 
+		 end).</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: left; margin-bottom: 0;"><span style="font-weight: bold;">Times 
+		 Values</span></p></td>
+		<td style="vertical-align: TOP; width: 79%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">These give the number of times that 
+		 a bracket repeats. The bracket will cover one or more columns 
+		 and is indicated by a line starting underneath the Times Value. 
+		 A maximum of two levels of brackets which may be used.</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Moving_around_grid" 
+	 id="Moving_around_grid"></a>Moving around the grid</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ move around the grid either by clicking in a cell using the left mouse 
+ button OR you can use the up/down left/right cursor keys on the keyboard.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Multi_Select" 
+	 id="Multi_Select"></a>Multi-Select</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ multi-select a rectangular block of cells by either:</span></p>
+<ul>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: bold;">Using 
+	 the mouse</span> <span style="font-weight: normal;">- press the left 
+	 mouse button on a cell and, keeping the button down, move the mouse 
+	 whilst keeping the button down to &quot;drag&quot; out a rectangular 
+	 area.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: bold;">Using 
+	 the keyboard</span> <span style="font-weight: normal;">- move to a 
+	 cell that is at one corner of the block and press the shift key. Keep 
+	 the shift key down whilst you move to the cell at the opposite corner 
+	 of the block using the cursor keys then release the shift key.</span></p></li>
+</ul>
+<p style="text-align: left;"><span style="font-weight: normal;">Various 
+ operations as described below use the columns or rows defined by the block, 
+ or use the block itself.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Enter_Value" 
+	 id="Enter_Value"></a>Entering Values</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">To type 
+ a new value in the grid simply move to the required cell as described 
+ above (i.e. either click in that position with the left mouse button or 
+ move to it using the cursor keys) then simply type the figure using the 
+ keyboard. If you make a mistake you can press the &lt;Back&gt; key to 
+ remove the last character.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The new 
+ value will replace the original - you cannot simply add a zero to make 
+ a 20 into 200 for example, you must type all 3 digits.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Examples 
+ of valid figures are:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="border-collapse: separate; margin-top: 14pt; 
+		 border-collapse: separate;" cellspacing="1" width="240" border="1">
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">20</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">200F</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">1Z</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">1+</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">12ABCD</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">1Z+</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">20A+</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">6</p></td>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="40"><p style="margin-bottom: 0;">6</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-weight: normal;">As can 
+ be seen it is possible to combine several letters representing loom options 
+ with a cramming ('+') (or warp extra) symbol. There is no limit to the 
+ number of letters that can be used in one cell though, of course, if there 
+ are more than about 6 characters in total, they would not all be visible 
+ at once.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Note that 
+ if the figure is a &quot;times&quot; value in a bracket you do not need 
+ to type the &quot;x&quot; - the software will automatically add it for 
+ you.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Delete_Value" 
+	 id="Delete_Value"></a>Deleting a Value</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">If there 
+ is a value in a cell which you wish to remove then first of all select 
+ the cell then use the &lt;Del&gt; on the keyboard to remove the figure.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ delete a whole block of figures and brackets by using multi-select then 
+ pressing &lt;Del&gt; to delete the entire block. Alternatively you can 
+ select &quot;Clear Selection&quot; on the Pop-up menu.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Note that 
+ only brackets which are entirely contained within the selected block will 
+ be deleted but any that are partially within the selected area will be 
+ shortened as shown below</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingDelete1.gif" 
+												 alt="" style="margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="250" 
+												 height="165" border="0" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">Example showing a multi-select block ready 
+		 for deletion note the bracket on the right (x16) is only partially 
+		 within the selected area.</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingDelete2.gif" 
+												 alt="" style="margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="253" 
+												 height="165" border="0" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">The same cells after the &lt;Del&gt; key has 
+		 been pressed. Note how the x16 bracket on the right has been shortened 
+		 as it was not contained entirely within the block. The x2 bracket 
+		 at the top level has not been affected as it started before the 
+		 block and finished after it.</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Edit_value" 
+	 id="Edit_value"></a>Editing Values</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ only retype a figure so simply click on it or move to the cell using the 
+ cursor keys then retype the figure. The old figure will be deleted as 
+ soon as you start typing. Note that you can use the &lt;Back&gt; key to 
+ erase a character at a time during editing.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">To remove 
+ the old figure completely simply use &lt;Delete&gt;.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Create_New_Bracket" 
+	 id="Create_New_Bracket"></a>To Create a New Bracket</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The simplest 
+ way to do this is to multi-select the empty cells where the bracket is 
+ to be placed as shown below. In fact it does not matter whether you select 
+ both rows or only one of the two rows which make up the bracket. Then 
+ simply type the &quot;times&quot; value.</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingBracket1.gif" 
+												 alt="" style="border-width: 1px; 
+												 border-style: solid; margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="138" 
+												 height="127" border="1" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">Example showing multi-selected empty cells 
+		 at level 2 where the bracket is to be placed.</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingBracket2.gif" 
+												 alt="" style="border-width: 1px; 
+												 border-style: solid; margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="136" 
+												 height="125" border="1" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">The same cells after the digit 5 is typed on 
+		 the keyboard to complete the bracket. You can continue typing 
+		 if the &quot;times&quot; value is more than one digit.</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: normal;">If you 
+ make a mistake you can, as usual, use the &lt;Back&gt; key.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">As an alternative 
+ to this you could select the single cell where the &quot;times&quot; value 
+ is to go then after typing the times value, the software will create a 
+ single column bracket for you. You can extend the bracket as described 
+ below.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Extend_Bracket_1" 
+	 id="Extend_Bracket_1"></a>To Extend a Bracket Using the Mouse</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">If a bracket 
+ needs to be extended, the simplest way is to use the mouse by clicking 
+ on the appropriate end of the bracket and &quot;dragging it to the left 
+ or right as appropriate. If you make a mistake you can move back in the 
+ opposite direction whilst keeping the left mouse button down.</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingBracket3.gif" 
+												 alt="" style="border-width: 1px; 
+												 border-style: solid; margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="177" 
+												 height="141" border="1" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">Example of a single column bracket after the 
+		 &quot;5&quot; has been keyed in. To extend the bracket simply 
+		 click on the bracket below the &quot;x5&quot; (highlighted).</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingBracket4.gif" 
+												 alt="" style="border-width: 1px; 
+												 border-style: solid; margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="176" 
+												 height="140" border="1" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">The same cells after the bracket is &quot;dragged&quot; 
+		 out to make a 4 column bracket</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-weight: normal;">Note that 
+ whilst you do this, when dragging out a bracket at level 2 or higher, 
+ there may be invalid situations arising as it is not possible for a level 
+ 2 bracket to start or finish in the middle of a level 1 bracket. This 
+ may mean that the software will &quot;jump&quot; over several columns 
+ at once.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Extend_Bracket_2" 
+	 id="Extend_Bracket_2"></a>To Extend a Bracket Using the Keyboard</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Either 
+ click on one end of the bracket or move the selected cell to one end of 
+ the bracket using the cursor keys. This method does not work if the selected 
+ cell is in the middle of the bracket.</span></p>
+<p style="text-align: left;"><span style="font-style: italic; font-weight: normal;">Note 
+ that if you use the mouse, the whole bracket will be highlighted but the 
+ software knows which individual cell you have clicked on and that cell 
+ should be outlined by a dotted line.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Press the 
+ '&gt;' key on the keyboard to move the selected end of the bracket to 
+ the right (you do not need to use the &lt;Shift&gt; key). Press the '&lt;' 
+ key to move it to the left. Each time you press the key, the bracket will 
+ be extended or retracted by one column unless there is a multi-column 
+ bracket at a lower level in which case it will skip over the entire lower 
+ level bracket.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Delete_Bracket" 
+	 id="Delete_Bracket"></a>To Delete a Bracket</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The simplest 
+ way to do this is to click on any position in the bracket itself using 
+ the mouse. This will cause the whole bracket to be highlighted then press 
+ the &lt;Del&gt; key on the keyboard. The whole bracket and the &quot;times&quot; 
+ value will be deleted.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Alternatively, 
+ if you only select the times value and press the &lt;Del&gt; key then 
+ the value will initially be reduced to zero. At this point you could type 
+ a new &quot;times&quot; value as described above. However, if you now 
+ press &lt;Del&gt; a second time, while the value is zero, the whole bracket 
+ will be deleted.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Pop-up_Menu" 
+	 id="Pop-up_Menu"></a>Pop-up Menu</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Display 
+ the Pop-up menu as usual by clicking the right hand mouse button in the 
+ grid then selecting one of the options with the left mouse button. If 
+ you click anywhere else on the screen, the menu will disappear.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Alternatively 
+ if you have a &quot;menu&quot; button on your keyboard (usually next to 
+ the right hand &lt;Ctrl&gt; key) you can use that.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ also move up and down the menu using the cursor keys and use the &lt;Return&gt; 
+ key to activate the currently selected option.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ThreadingPopup.gif" alt="" style="border-width: 1px; border-style: solid; 
+	 margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;" 
+	 width="398" height="354" border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Example showing 
+ the Pop-up menu and a block of 12 selected cells.</span></p>
+<p style="text-align: left;">&#160;</p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Undo</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Use this to undo the last action. 
+		 There are 64 levels of undo available. You can also use the keyboard 
+		 shortcut &lt;Ctrl&gt; + Z.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Redo</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Use this to redo an action you have 
+		 undone. (Keyboard shortcut &lt;Ctrl&gt; + Y)</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Row</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Has a Sub-Menu allowing Insert, 
+		 Delete, Duplicate and Clear. See below for details.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Column</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Has a Sub-Menu allowing Insert, 
+		 Delete, Duplicate, Mirror and Clear. See below for details.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Move 
+		 Up</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Moves the current row(s) up one 
+		 position and also moves the selection up one row also i.e. the 
+		 moved row(s) is still selected This can be useful for moving, 
+		 say, the data on the bottom selector up to the top by selecting 
+		 it then repeatedly selecting &quot;Move Up&quot; until it appears 
+		 at the top. All other data is preserved during this operation. 
+		 See the section Re-Ordering Selectors below for some useful techniques.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Move 
+		 Down</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Moves the current row(s) down one 
+		 position and also moves the selection down one row i.e. the moved 
+		 row(s) is still selected. This can be useful for moving, say, 
+		 the data on the top selector down to the bottom by selecting it 
+		 then repeatedly selecting &quot;Move Down&quot; until it is in 
+		 the required position. All other data is preserved during this 
+		 operation. See the section Re-Ordering Selectors below for some 
+		 useful techniques</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Add 
+		 Column</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Each time this is selected an empty 
+		 column is added to the right hand side of the grid. You may need 
+		 to scroll the grid using the scroll bar at the bottom in order 
+		 to see it if there are more than about 10 columns.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Clear 
+		 Selection</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">The selected cells will be cleared. 
+		 This is described in more detail above under the heading &quot;Deleting 
+		 a Figure&quot;.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Clear 
+		 All</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will clear the entire grid.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Delete 
+		 Empty Columns</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Select this in order to compress 
+		 the threading sequence by deleting empty columns. This may result 
+		 in a bracket being made smaller or possibly being removed altogether 
+		 if there are is no data within it.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Delete 
+		 Empty Rows</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will compress the threading 
+		 sequence by deleting empty rows i.e. moving all rows upwards to 
+		 close any gaps.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Optimise</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This is a complex routine which 
+		 will look for additional brackets and will combine brackets together 
+		 where possible. The result will also be compressed (see the next 
+		 item). Optimise is explained in more detail below.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Compress</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will simply take the existing 
+		 threading and bracketing and compress it. This means empty columns 
+		 will be removed and data will be moved into single columns where 
+		 possible. See the example below.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Expand</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">This will ensure that there is only 
+		 one figure in each column of the threading sequence. Empty columns 
+		 will be removed. See the example below.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Reverse 
+		 All</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Reverses the entire threading sequence. 
+		 Since the order of the selectors will remain the same, this may 
+		 mean that more columns are used since the software will not be 
+		 able to compress several figures into one column. Conversely it 
+		 may mean in some cases that less columns can be used since the 
+		 software can compress a section into one column that was previously 
+		 2 or more columns</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 20%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Bracket 
+		 Levels</span></p></td>
+		<td style="vertical-align: TOP; width: 80%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Displays a dialog allowing 1 2 or 
+		 3 bracket levels to be selected. See also the related <a href="Jacquard_Preferences.htm">preference</a>.</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Row_Sub_Menu" 
+	 id="Row_Sub_Menu"></a>Row Sub-Menu</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Display 
+ the Pop-up menu as usual by clicking the right hand mouse button in the 
+ grid then select &quot;Row&quot; to cause the sub-menu to be displayed. 
+ Then move across and select one of the sub-menu options as shown below. 
+ If you click anywhere else on the screen, the menu will disappear.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ThreadingRowInsert1.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="353" height="167" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Example showing 
+ a block of four selected cells and the Pop-up menu showing the &quot;Row&quot; 
+ sub-menu. You do not need to select the whole row in order to perform 
+ an operation on those rows.</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Row</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Insert</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p>Insert 
+		 a row at the current position. If more than one row is selected 
+		 then that number of rows will be inserted. For example to insert 
+		 2 rows at once, simply select two rows.</p>
+		<p><span style="font-style: normal;">In the example above, the 
+		 two selected rows would be moved down (and all rows below) leaving 
+		 two empty rows.</span></p>
+		<p style="margin-bottom: 0;"><span style="font-style: normal;">If 
+		 the operation would result in data being lost from selector 16 
+		 or from other high numbered selectors, then a warning will be 
+		 displayed.</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Row</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Delete</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Deletes the selected rows and moves 
+		 all lower rows up to &quot;close&quot; the gap. This naturally 
+		 leaves a number of empty rows at the bottom.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Row</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Duplicate</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Works in a similar way to Insert 
+		 as described above except that the selected rows are not cleared 
+		 resulting in the data being duplicated.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Row</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Clear</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Simply clears the selected rows.</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Column_sub_menu" 
+	 id="Column_sub_menu"></a>Column Sub-Menu</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Display 
+ the Pop-up menu as usual by clicking the right hand mouse button in the 
+ grid then select &quot;Column&quot; to cause the sub-menu to be displayed. 
+ Then move across and select one of the sub-menu options as shown below. 
+ If you click anywhere else on the screen, the menu will disappear.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ThreadingColumnInsert1.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="359" height="182" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Example showing 
+ a block of four selected cells and the Pop-up menu showing the &quot;Column&quot; 
+ sub-menu. You do not need to select the whole column in order to perform 
+ an operation on those columns.</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Column</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Insert</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p>Inserts 
+		 columns at the current position. The software will insert the 
+		 number of columns selected. For example to insert 2 columns at 
+		 once, simply select two columns.</p>
+		<p><span style="font-style: normal;">In the example above, all 
+		 columns from the first selected column onwards will be moved to 
+		 the right leaving the two selected columns empty.</span></p>
+		<p style="margin-bottom: 0;"><span style="font-style: normal;">No 
+		 columns will be lost as the grid will be extended if necessary.</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Column</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Delete</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Deletes the selected columns and 
+		 moves all remaining columns to the left to &quot;close&quot; the 
+		 gap. This naturally leaves a number of empty columns at the right 
+		 hand end of the grid.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Column</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Duplicate</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Works in a similar way to Insert 
+		 as described above except that the selected columns are not cleared 
+		 resulting in the data being duplicated.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Column</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Mirror</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Use this if you want to mirror a 
+		 section of the threading sequence. Simply select the columns you 
+		 wish to mirror and then select this menu option. See below for 
+		 more details.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 10%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Column</span></p></td>
+		<td style="vertical-align: TOP; width: 12%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Clear</span></p></td>
+		<td style="vertical-align: TOP; width: 78%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Simply clears the selected columns.</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Mirror_Columns" 
+	 id="Mirror_Columns"></a>Mirror Columns</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">This is 
+ available on the Pop-up Menu. It allows a part or all of a threading sequence 
+ to be mirrored.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">For example 
+ in the following Tartan design, half the threading has been entered including 
+ the two centre stripes (the 10 black and 6 gold). In order to mirror this 
+ proceed as follows:</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Simply 
+ select the columns to be mirrored and then select the option on the Pop-up 
+ menu.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ThreadingMirror1.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="515" height="198" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Above illustrates 
+ selection of several columns and also shows the Pop-up menu with the Mirror 
+ option about to be selected.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">The following 
+ dialog will be displayed.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;"><img src="ThreadingMirrorDlg.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="285" height="215" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">We want the new 
+ columns to be inserted after the selected ones so we make sure that &quot;Insert 
+ After Selected Columns&quot; is selected. Also we do not want the first 
+ (10 black) nor the last (6 gold) stripes to be included in the mirror 
+ so make sure that &quot;Include First Stripe&quot; and &quot;Include Last 
+ Stripe&quot; are unchecked.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">This will result 
+ in the following threading sequence being created.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;"><img src="ThreadingMirror2.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="516" height="311" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Example showing 
+ the results of the mirror. Note how the first and last stripes in the 
+ original selection (10 black and 6 gold) have not been included in the 
+ mirror.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;"><a name="Optimise" 
+															 id="Optimise"></a>Optimise</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">This menu option 
+ will attempt to find additional brackets and will combine brackets together 
+ to get a simpler threading sequence. It does this in many ways from simple 
+ situations to more complex ones where a figure can be removed from one 
+ end of a bracket and another figure moved into the other end of the bracket 
+ to make a larger repeat as shown below:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p><img 
+		 src="ThreadingOptimise1.gif" alt="" style="border-width: 1px; 
+		 border-style: solid; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+		 margin-right: 0px;" width="296" height="155" border="1" /></p>
+		<p style="margin-bottom: 0;"><span style="font-style: italic; font-size: 9.0pt;">Example 
+		 bracketing before Optimise used. Note the inefficient bracketing 
+		 in columns 2 to 5.</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p><img 
+		 src="ThreadingOptimise2.gif" alt="" style="border-width: 1px; 
+		 border-style: solid; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+		 margin-right: 0px;" width="295" height="153" border="1" /></p>
+		<p style="margin-bottom: 0;"><span style="font-style: italic; font-size: 9.0pt;">Same 
+		 section of threading sequence after Optimise. Note how the figure 
+		 of 14 in column 2 has been changed to 13, allowing 1 thread to 
+		 be moved into the bracket, a similar thread dropped off the end 
+		 of the bracket allowing the occurrences to be made up to x25 with 
+		 the inclusion of the 1+ in the old column 5.</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Using Optimise 
+ can often have an effect right across the threading sequence since more 
+ efficient bracketing in one set of columns can often lead to more efficient 
+ bracketing in the next set of columns.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">At the same time 
+ the software will check for any additional bracketing that can be added 
+ or columns which can be included in existing brackets.</span></p>
+<p style="text-align: left;">The Optimise operation will only use the number 
+ of visible levels so if you want it to use 3 levels (the maximum) you 
+ should use the Bracket Levels option described below to increase the levels 
+ to 3 before using Optimise.</p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;"><a name="Compress" 
+															 id="Compress"></a>Compress</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">This will force 
+ the threading to occupy the least number of columns so that several figures 
+ will be placed in one column. This can be useful after a large amount 
+ of editing has taken place which has left empty columns etc.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">It can also be 
+ useful to compress an expanded threading sequence (see below) i.e. one 
+ that only has a single figure in each column.</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingCompress1.gif" 
+												 alt="" style="border-width: 1px; 
+												 border-style: solid; margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="295" 
+												 height="184" border="1" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">Example showing part of a threading sequence 
+		 before compress used with 1 figure in each column</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingCompress2.gif" 
+												 alt="" style="border-width: 1px; 
+												 border-style: solid; margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="295" 
+												 height="182" border="1" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">Same threading sequence after compress with 
+		 several figures in each column</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;"><a name="Expand" 
+															 id="Expand"></a>Expand</span></p>
+<p style="text-align: left;">This Pop-up menu option achieves exactly the 
+ opposite of the Compress function above, i.e. it expands the threading 
+ sequence by making sure that there is only one figure in each column. 
+ Note that any blank columns will also be removed.</p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;"><a name="Selector_Colours" 
+	 id="Selector_Colours"></a>Selector Colours</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ set a Selector Colour as follows:</span></p>
+<ol>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: normal;">Click 
+	 on any cell in the grid for the Selector.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: normal;">Click 
+	 on the required colour in the palette at the bottom of the dialog.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-weight: normal;">The 
+	 software will automatically move the highlighted cell down 1 position 
+	 so that you can now select the next selector colour if you wish.</span></p></li>
+</ol>
+<p style="text-align: left;"><span style="font-weight: normal;">Note that 
+ more complicated changes, in particular when there are two or more colours 
+ to be allocated to a selector, cannot be made using this method. You should 
+ use the Selector Dialog for this (<a href="Warp_Threading.htm#Selector_Dialog">see 
+ below</a>). The software will display a warning message if you try to 
+ make a change to a selector which already has two colours allocated to 
+ it.</span></p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%" align="center">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingSelector1.gif" 
+												 alt="" style="margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="200" 
+												 height="127" border="0" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-weight: normal; font-size: 8.0pt;">Example threading sequence. 
+		 In this case we want to allocate black to selector 1. To do this 
+		 select any cell on that row as shown here (there does not actually 
+		 need to be a value in that cell).</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="ThreadingSelector2.gif" 
+												 alt="" style="margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="200" 
+												 height="127" border="0" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 8.0pt;">The same example after black has been selected 
+		 from the palette at the bottom of the dialog. Note that the software 
+		 has automatically moved to the next selector ready to select the 
+		 next colour.</span></p></td>
+	</tr>
+</table>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: left;">Note:</p>
+<ul>
+	<li class="p"><p style="text-align: left;">Colours which are used in 
+	 the artwork are marked by a &quot;tuck&quot; in the top right of the 
+	 palette swatch.</p></li>
+	<li class="p"><p style="text-align: left;">If there are 20 or more 
+	 colours in the palette, a horizontal scroll bar will be shown and 
+	 you may have to use it to access all the colours.</p></li>
+</ul>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;"><a name="Selector_Dialog" 
+															 id="Selector_Dialog"></a>Selector 
+ Dialog</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">You can click 
+ on the button &quot;Sel. Colours&quot; to access the Selector Colour Dialog 
+ for either Warp or Weft as appropriate for the current threading sequence.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">For details of 
+ the use of that dialog see the topic <a href="Selectors.htm">Selectors</a>.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;"><a name="Bracket_Levels" 
+															 id="Bracket_Levels"></a>Bracket 
+ Levels</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">You can select 
+ this pop-up menu option in order to change the number of bracket levels 
+ which can be set to 1 , 2 or 3. If the design is saved and reloaded, the 
+ visible levels will be either the preferences default or the number of 
+ levels used in the design whichever is the least.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Note that operations 
+ like Optimise will only use the number of visible levels so if you want 
+ an Optimise operation to be able to use 3 levels you should first increase 
+ the levels to 3 using this option.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Note also that 
+ warp and weft can have a different number of levels.</span></p>
+<p style="text-align: left; margin-bottom: 0;">&#160;</p>
+</body>
+</html>

@@ -1,0 +1,116 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\JacquardDesigner.htm
+SSLayoutType=32
+ServerProjectName=JacquardDesigner
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\JacquardDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\JacquardDesigner.chm
+SSLayoutType=1
+CreateProjectTime=10:06, July 19, 2022
+CreateProjectUser=philm4
+SupportMas_MPJ=1
+Enable Result Dialog=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\JacquardDesigner.chm
+ResultStatus=0
+BuildTimeHi=30972750
+BuildTimeLow=-733025968
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\JacquardDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\Jacquard_Designer_Help.docx
+SSLayoutType=7
+ActionID For Generation=3001
+Remove Folder with prompt=1
+ResultStatus=0
+CreateProjectTime=15:55, May 09, 2017
+CreateProjectUser=Philm3
+SupportMas_MPJ=1
+ViewFileName=!SSL!\Printed_Documentation\Jacquard_Designer_Help.docx
+BuildTimeHi=30591188
+BuildTimeLow=1113476113
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\JacquardDesigner.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\JacquardDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\JacquardDesigner.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\JacquardDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\JacquardDesigner.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\JacquardDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\JacquardDesigner.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Layout Settings]
+MRULayoutCount=1
+MRULayout0=Microsoft HTML Help]03/23/22]0
+[PreSingleSource]
+Html Help Project=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.hhp
+Table Of Content=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.hhc
+Index=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.hhk
+Topic Index=c:\Apso_CAD\Help\JacquardDesigner_6.1\RHTopicKeyword$.hhk
+See Also Index=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.hha
+Browse Sequence=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.brs
+Glossary=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.glo
+Topic Properties=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trs
+Active Folders=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trf
+Baggage Files=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trb
+Skin List=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trk
+Active Layout Names=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trl
+Template Files=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trt
+Project TOC List=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trtocl
+Project Index List=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.tridxl
+Project Glossary List=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trglol
+Project CSS List=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trcss
+Project Variable Set List=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.trvset
+External URL Settings=c:\Apso_CAD\Help\JacquardDesigner_6.1\SearchOptions.xml
+Screen Template File Details=c:\Apso_CAD\Help\JacquardDesigner_6.1\JacquardDesigner.sctfdl
+CPSwfToHTML5Map=c:\Apso_CAD\Help\JacquardDesigner_6.1\__cpSwf2HTML5ZipMap
+Default Topic=c:\Apso_CAD\Help\JacquardDesigner_6.1\Welcome.htm
+Build Tags0=10903;
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=c:\Apso_CAD\Help\JacquardDesigner_6.1\!Language!\en_US\RoboHHRE.lng
+Stop List=c:\Apso_CAD\Help\JacquardDesigner_6.1\!Language!\en_US\JacquardDesigner.stp

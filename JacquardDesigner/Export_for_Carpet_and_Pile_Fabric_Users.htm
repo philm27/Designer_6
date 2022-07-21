@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Export for Carpet and Pile Fabric Users</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+</head>
+
+<body>
+<h1>Export for Carpet and Pile Fabric Users</h1>
+<p>&#160;</p>
+<p style="font-weight: bold;">Introduction</p>
+<p><span style="font-weight: normal;">This topic is intended to be read 
+ by carpet designers and pile fabric designers who need to use Jacquard 
+ Designer to create files for</span> <span style="font-style: italic; font-weight: normal;">electronic 
+ jacquards or electronic punch machines</span> <span style="font-weight: normal;">via 
+ the export feature.</span></p>
+<p><span style="font-weight: normal;">An example of this export type is 
+ the .bin files for the Staubli punch machines or .ep files for Van de 
+ Wiele electronic jacquards. These features are optional extras and may 
+ not be enabled in your copy of the software.</span></p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">When to use Jacquard Designer</span></p>
+<p>If a design requires special effects you must use Jacquard Designer. 
+ Special effects in this case refer to features like &quot;Keep over 2 
+ wires&quot; etc. If it is simply a case of using &quot;Through to Back&quot; 
+ instead of &quot;Not through to Back&quot; or a similar overall change 
+ in the weaves then this can be accomplished by creating a separate Format 
+ File and then using Carpet Designer to export the files which is slightly 
+ easier than applying weaves in the Jacquard program. See the topic <a 
+	 href="DesignerExport.chm::/Export_-_Format_Files.htm">Format Files</a>.</p>
+<p>It is the &quot;Weave&quot; in the IFF file which is exported to the 
+ .bin or .ep file. The exported files do not contain any original artwork.</p>
+<p>If a change is made to the design, or if frame numbers have changed, 
+ then the weaves must obviously be re-applied, the IFF file re-saved and 
+ the .bin or .ep files, re-exported.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Outline Procedure</span></p>
+<ol>
+	<li class="p"><p>Create the design as normal using a different color 
+	 for each frame but also for each special effect for each frame.</p></li>
+	<li class="p"><p>You must now apply weaves to the design to create 
+	 the weave pattern.</p></li>
+	<li class="p"><p>In some cases you may wish to do the weave <a href="Weave_Adjustments.htm">adjustments</a> 
+	 at this stage using the option on the Jacquard menu.</p></li>
+	<li class="p"><p>You can now use the menu option Export -&gt; BIN File 
+	 to create .bin files.</p></li>
+</ol>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Producing the Design</span></p>
+<p>As noted earlier the design i.e. the &quot;Artwork&quot; can be produced 
+ in either Jacquard Designer or Carpet Designer as there is no difference 
+ between the two as far as drawing features are concerned and designs may 
+ be loaded into either program having been created in the other.</p>
+<p>However, in order to apply weaves you must, of course, use the Jacquard 
+ Designer program.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Design Colors</span></p>
+<p>You must use a separate design color for each different weave which 
+ equates to having a different color for each effect for each frame.</p>
+<p>For example if frame 1 has 3 different effects and each of frames 2 
+ and 3 have 2 effects then 7 design colors must be used. You can of course 
+ use similar colors so you could for example use a dark red where frame 
+ 1 is lifted over 2 wires and a lighter red where frame 1 is lifted over 
+ a single wire.</p>
+<p>Of course if planting occurs then the situation will be even more complicated 
+ as you may wish to use even more colors in order to illustrate what the 
+ design actually looks like. In this case you will probably apply the same 
+ weave to more than 1 palette color.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Preferences</span></p>
+<p>It is recommended that all the following preferences are set (see the 
+ topic <a href="Jacquard_Preferences.htm">Jacquard Preferences</a>).</p>
+<ul>
+	<li class="p"><p>Wilton Dialogs and Messages</p></li>
+	<li class="p"><p>Disable &quot;Apply Simple Weaves&quot;</p></li>
+	<li class="p"><p>Align Single Dent Weaves with start of motif.</p></li>
+</ul>
+<p>It is particularly important that you select the Alignment preference 
+ when using weaves which are one dent wide and 4 or 6 picks long such as 
+ double or treble loops so that they are aligned with the start of the 
+ motif.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Apply Weaves</span></p>
+<p>The weaves in most cases will have been pre-designed and each weave 
+ represents an effect.</p>
+<p>Black (or the darkest colour in the weave) represents a &quot;hole&quot; 
+ in the card (or a lift in the case of electronic jacquard) and white represents 
+ &quot;no hole&quot; (or a drop).</p>
+<p>It is recommended that a different directory is used for each type of 
+ weave for example you could have a directory for 3 frame Paper looms, 
+ 5 frame Paper loom, 3 frame VDW NTTB, 3 frame VDW TW, 3 frame VDW SW etc.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Procedure</span></p>
+<p><span style="font-style: italic;">Note that more information about the 
+ Apply Weaves dialog is given in the topic</span> <a href="Apply_Weaves_Composite.htm"><span 
+	 style="font-style: italic;">Apply Weaves Composite</span></a><span 
+	 style="font-style: italic;">. The following describes the outline 
+ procedure for wilton and pile fabric designer.</span></p>
+<p>To apply weaves select the menu option Jacquard -&gt; Apply Weaves -&gt; 
+ Composite. You should see the following dialog. (Do not select the very 
+ similar Apply Weaves Simple).</p>
+<p style="text-align: center;"><img src="ExportApplyWeave1.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="533" height="287" border="0" /></p>
+<p>Double click the colour in the list of colours and weaves, OR, select 
+ it (so it is highlighted in blue as line 1 above) then right click and 
+ select Open from the Pop-up menu.</p>
+<p>A standard &quot;Open File&quot; dialog will be shown as in the example 
+ below.</p>
+<p style="text-align: center;"><img src="WeaveOpen_002.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="614" height="336" 
+									 border="0" /></p>
+<p style="text-align: center;">For more details about the <a href="DesignerBase.chm::/CarpetFinding_a_Design_to_Open.htm">Open 
+ File</a> dialog follow this link</p>
+<p>Simply navigate to the required directory, if necessary, so that you 
+ can see the required weave file (.iff).</p>
+<p>You can either double click on the weave file (e.g. P3-F1.IFF) or you 
+ can select it then click on the Open button.</p>
+<p>Repeat the above procedure for each color. The dialog should look something 
+ like the one shown below with a weave beside each color.</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="ExportApplyWeave3.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="533" height="287" border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">This 
+ is the same example as above, after the weaves have been selected. Note 
+ that the third line is selected and the weave shown on the left is P3-F3 
+ for a normal frame 3 selection for the 3 frame loom.</span></p>
+<p>When all weaves have been allocated click on Apply Weaves. The small 
+ dialog shown here should be displayed:</p>
+<p style="text-align: center;"><img src="ExportApplyWeave4.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="285" height="204" border="0" /></p>
+<p>Set the two figures in the small dialog to the width of each dent in 
+ control points (the width multiplier) and the number of picks in a design 
+ row (the length multiplier).</p>
+<p>For example if there are two holes per frame (because it is a 3 position 
+ selection mechanism) and 3 frames then the width multiplier will be 6.</p>
+<p>The length multiplier is normally 2 but may in some cases be only 1.</p>
+<p>Click on OK. The weaves will be applied and you will be returned to 
+ the main design screen.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Mode</span></p>
+<p>Immediately after applying weaves, the program will show the Weave view 
+ of the design - expanded and in black and white weave form. You can switch 
+ to the design view by selecting menu option Mode-&gt;Artwork or back to 
+ the weave view by selecting Mode-&gt;Weave (both on the Jacquard menu).</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Correcting Errors</span></p>
+<p>If you have made an earlier mistake such as setting the multiplier values 
+ incorrectly (e.g. entering 5 and 1 instead of 6 and 2) or perhaps setting 
+ the wrong weave against the wrong color, you can correct your mistake 
+ and re-apply weaves at any time.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Adjust Weave</span></p>
+<p>For the electronic Jacquards, certain weave adjustments are recommended 
+ by Van de Wiele and you may wish to do this at this stage. A useful benefit 
+ of using the Adjust Weaves option on the Jacquard menu is that the adjustments 
+ can actually be inspected as they will be marked with a different colour.</p>
+<p>Alternatively the weave adjustments can be made when the file is exported.</p>
+<p>For more information - see the topic <a href="Weave_Adjustments.htm">Weave 
+ Adjustments</a>.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Save the Design</span></p>
+<p>Make sure that you save the design after weaves have been applied and 
+ adjustments have been made.</p>
+<p>This will ensure that if the file needs to be exported again at a later 
+ time, the weaves and adjustments will already be incorporated.</p>
+<p>You should save the Jacquard version of the design as a different file 
+ name to that saved from Carpet Designer if there is one since the Jacquard 
+ program saves different information and does not display nor save a frame 
+ plan if one is attached to the file.</p>
+<p>It is therefore recommended that you attach the word &quot;_Weave&quot; 
+ to the filename or just a letter W or J for example so that the file names 
+ can be distinguished. See the example below.</p>
+<p style="text-align: center;"><img src="JaqSaveAs_001.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="615" height="360" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 9.0pt;">An 
+ example of a directory holding two versions of one design SCP757_2.PRJ 
+ and SCP757_2_Weave.PRJ</span></p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Export File</span></p>
+<p>Simply select menu option File -&gt; Export -&gt; BIN File or -&gt;Van 
+ De Wiele File and proceed as described in the topic <a href="DesignerExport.chm::/Export_-_Introduction.htm">Export</a> 
+ where the procedure is described in detail. However, the following applies 
+ to the use of Export through the Jacquard program.</p>
+<p>Once you have selected a Card Format from the drop down list in the 
+ File Export dialog, the software can check that all the mathematics are 
+ correct.</p>
+<p>The message box shown here will be shown if the weave is not the correct 
+ size for the design. For example, if you had applied weaves for a 3 frame 
+ loom but accidentally selected a 5 frame format in the Export Dialog rather 
+ than the 3 frame. Or, conversely, that you had used the wrong multipliers 
+ when weaves were applied.</p>
+<p style="text-align: center;"><img src="ExportApplyWeave6.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="395" height="126" border="0" /></p>
+<p>The above message cannot occur when using Carpet Designer as the correct 
+ multiplier for the Card Format is automatically used.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Creating a New Weave</span></p>
+<p><span style="font-style: italic;">More information about the pop-up 
+ menu and about create new weave is given in the topic</span> <a href="Weave_Edit.htm"><span 
+	 style="font-style: italic;">Weave Edit</span></a><span style="font-style: italic;">. 
+ The following has been written with particular reference to carpet and 
+ pile fabric designers.</span></p>
+<p>If the weave you wish to use does not exist in the weaves directory, 
+ you will have to design it from scratch so, to design a new weave:</p>
+<ol>
+	<li class="p"><p>Right Click on the colour in the Apply Weaves Dialog. 
+	 This will cause the Pop-up menu to be displayed. (You can also right 
+	 click on the weave itself on the left of the dialog).</p></li>
+</ol>
+<p style="text-align: center;"><img src="ExportApplyWeave7.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="463" height="274" border="0" /></p>
+<ol start="2">
+	<li class="p"><p>Select New. The &quot;Create Weave&quot; dialog will 
+	 be displayed.</p></li>
+</ol>
+<p style="text-align: center;"><img src="ExportApplyWeave8.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="255" height="157" border="0" /></p>
+<ol start="3">
+	<li class="p"><p>Set the size of the weave required. For example if 
+	 there are 3 frames and 2 control points per frame and 2 picks per 
+	 design row then a normal weave (1 dent wide) will have width 6 and 
+	 length 2.</p></li>
+	<li class="p"><p>Click on OK.</p></li>
+	<li class="p"><p>The weave will be created to the required size with 
+	 all grid positions empty.</p></li>
+	<li class="p"><p>Click in the weave where you require a mark. To remove 
+	 a mark simply click it a second time with the left button. (The right 
+	 button operates the Pop-up menu so does not insert a drop).</p></li>
+</ol>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Saving a Weave</span></p>
+<p>Right Click on the colour in the Apply Weaves Dialog. This will cause 
+ the Pop-up menu to be displayed. (You can also right click on the weave 
+ itself on the left of the dialog).</p>
+<p>Select &quot;Save As…&quot; The &quot;Save As&quot; dialog will be displayed.</p>
+<p>You can navigate to another location or create a new directory if you 
+ wish and give the weave a name in the usual way. You should leave the 
+ file type as IFF. Click on SAVE.</p>
+<p>The weave will be saved and the SAVE dialog closed.</p>
+<p>In fact, it is not absolutely essential to save the weave but if you 
+ do not save it you will obviously have to redraw it the next time it is 
+ required.</p>
+<p>It is recommended that the weaves for the various different looms are 
+ kept in separate directories as the list of weaves may eventually become 
+ quite complex. Some types of cloth may also warrant their own directory 
+ of weaves. For example, for a 3 frame Van de Wiele loom it will be worth 
+ having 3 directories &quot;VDW 3frame&quot;, &quot;VDW 3frame SW&quot; 
+ and &quot;VDW 3frame TW&quot;. Each of these may have a number of normal 
+ and special effects weaves.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p style="margin-bottom: 0;">&#160;</p>
+</body>
+</html>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties framename="_parent" windowname="NewWindow1" imagewidth="16" windowstyles="8388615" exwindowstyles="256">
+	</properties>
+	<item name="Welcome" link="Welcome.htm">
+		<item name="Using Help Files" link="Using_Help_Files.htm">
+		</item>
+		<item name="Printing Help Topics" link="Printing_Help_Topics.htm">
+		</item>
+	</item>
+	<item name="Tutorials" link="Tutorials_Introduction.htm">
+		<item name="Tutorial 1" link="Tutorial_1.htm">
+		</item>
+		<item name="Tutorial 2" link="Tutorial_2.htm">
+		</item>
+		<item name="Tutorial 3" link="Tutorial_3.htm">
+		</item>
+	</item>
+	<item name="Design Basics">
+		<item name="DesignerBase.chm::/DesignerBase.hhc" merge="DesignerBase.chm::/DesignerBase.hhc">
+		</item>
+	</item>
+	<item name="Jacquard Designer">
+		<item name="Jacquard Mode" link="Jacquard_Mode.htm">
+		</item>
+		<item name="Selectors" link="Selectors.htm">
+		</item>
+		<item name="Apply Weaves">
+			<item name="Apply Weaves" link="Apply_Weaves.htm">
+			</item>
+			<item name="Apply Weaves Simple" link="Apply_Weaves_Simple.htm">
+			</item>
+			<item name="Apply Weaves Selective" link="Apply_Weaves_to_Selected_Schema_Entries.htm">
+			</item>
+			<item name="Copying a Schema" link="Copying_a_Schema.htm">
+			</item>
+			<item name="Schemas - General" link="Schemas_-_General.htm">
+			</item>
+			<item name="Schema - Double Cloth" link="Schema_-_Double_Cloth.htm">
+			</item>
+			<item name="Schema - Treble Cloth" link="Schema_-_Treble_Cloth.htm">
+			</item>
+			<item name="Schema - 2:3 Ratio" link="Schema_-_2_3_Ratio.htm">
+			</item>
+			<item name="Open Weave" link="Open_Weave.htm">
+			</item>
+			<item name="Add Schema Entry" link="Add_Schema_Entry.htm">
+			</item>
+			<item name="Weave Browser" link="Weave_Browser.htm">
+			</item>
+			<item name="Apply Weaves Composite" link="Apply_Weaves_Composite.htm">
+			</item>
+			<item name="Weave Edit" link="Weave_Edit.htm">
+			</item>
+			<item name="Display Composite" link="Display_Composite.htm">
+			</item>
+			<item name="Large Display" link="Large_Display.htm">
+			</item>
+			<item name="Reset Schema" link="Reset_Schema.htm">
+			</item>
+			<item name="Edge Protection" link="Edge_Protection.htm">
+			</item>
+			<item name="Reload Weaves" link="Reload_Weaves.htm">
+			</item>
+		</item>
+		<item name="Threading" link="Warp_Threading.htm">
+		</item>
+		<item name="Edit Layer" link="Edit_Layer.htm">
+		</item>
+		<item name="Threading Incomplete" link="Threading_Incomplete.htm">
+		</item>
+		<item name="Jacquard Preferences" link="Jacquard_Preferences.htm">
+		</item>
+		<item name="Double Cloths and Treble Cloths" link="Double_Cloths_and_Treble_Cloths.htm">
+		</item>
+		<item name="Cramming and Extras" link="Cramming_and_Extras.htm">
+		</item>
+		<item name="1:2 and 1:3 Ratios" link="1_2_and_1_3_Ratios.htm">
+		</item>
+		<item name="Composite Weave Generator" link="Composite_Weave_Generator.htm">
+		</item>
+		<item name="Mill Ticket" link="Mill_Ticket.htm">
+		</item>
+		<item name="Texture" link="Texture.htm">
+		</item>
+		<item name="Reverse Cloth" link="Reverse_Cloth.htm">
+		</item>
+		<item name="Weave Editor">
+			<item name="Weave Editor Introduction" link="Weave_Editor_Introduction.htm">
+			</item>
+			<item name="Weave Toolbar" link="Weave_Toolbar.htm">
+			</item>
+			<item name="Weft Controls" link="Weft_Controls.htm">
+			</item>
+			<item name="Float Check" link="Float_Check.htm">
+			</item>
+			<item name="Denting Plans" link="Denting_Plans.htm">
+			</item>
+			<item name="Denting Reset" link="Denting_Reset.htm">
+			</item>
+			<item name="Denting Display" link="Denting_Display.htm">
+			</item>
+			<item name="Merge View" link="Merge_View.htm">
+			</item>
+			<item name="Editing the Design in Merge View" link="Editing_the_Design_in_Merge_View.htm">
+			</item>
+		</item>
+		<item name="Cloth Image">
+			<item name="Cloth Image Introduction" link="Cloth_Image_Introduction.htm">
+			</item>
+			<item name="Printing a Cloth Image" link="Printing_a_Cloth_Image.htm">
+			</item>
+		</item>
+		<item name="Advanced">
+			<item name="Using XL to create a Threading Sequence" link="Using_XL_to_create_a_Threading_Sequence.htm">
+			</item>
+		</item>
+		<item name="Wilton Carpet Design">
+			<item name="Weave Alignment Preference" link="Weave_Alignment_Preference.htm">
+			</item>
+			<item name="Weave Adjustments" link="Weave_Adjustments.htm">
+			</item>
+			<item name="Export for Carpet and Pile Fabric Users" link="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Export">
+		<item name="DesignerExport.chm::/DesignerExport.hhc" merge="DesignerExport.chm::/DesignerExport.hhc">
+		</item>
+	</item>
+	<item name="Getting in Touch">
+		<item name="Customer Care and Contact Details" link="CarpetCustomer_Care.htm">
+		</item>
+	</item>
+</toc>

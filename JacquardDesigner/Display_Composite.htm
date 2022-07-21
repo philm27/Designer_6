@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Display Composite</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+</head>
+
+<body>
+<h1>Display Composite</h1>
+<p>&#160;</p>
+<p>This feature will display the composite weave for any given set of weave 
+ levels in a schema.</p>
+<p>The composite weave is the combination of all the weaves defined by 
+ a particular artwork colour and may, in theory consist of up to 16 separate 
+ weaves (for crammed or extras).</p>
+<p>Display Composite is accessed from the &quot;<a href="Apply_Weaves_Simple.htm">Apply 
+ Weaves - Simple</a>&quot; dialog by selecting any line in the schema for 
+ which you wish to see the composite weave</p>
+<p>The display is identical to that for the &quot;<a href="Large_Display.htm">Large 
+ Display</a>&quot; option - see that topic for further details on how to 
+ use it. An example of a Composite Display is shown below</p>
+<p style="text-align: center;"><span style="font-weight: bold;"><img src="CompositeDisplay1.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="507" height="323" border="0" /></span></p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Composite Weave Size</span></p>
+<p><span style="font-weight: normal;">The software automatically makes 
+ the composite weave size up to an appropriate figure for the weaves at 
+ each level. This may mean using several repeats in one or both directions 
+ which can lead to a very large composite weave size.</span></p>
+<p><span style="font-weight: normal;">Example 1: A double cloth having 
+ a 4x4 weave in the face and a 5x5 weave in the back will result in a composite 
+ weave size 40x40 (i.e. 20 face ends/picks and 20 back ends/picks).</span></p>
+<p><span style="font-weight: normal;">Example 2: A double cloth having 
+ a 5x5 weave in the face and a 32x32 weave in the back would result in 
+ a composite weave size 320x320 (i.e. 160 face ends/picks and 160 back 
+ ends/picks).</span></p>
+<p><span style="font-weight: normal;">If you intend to save the Composite 
+ Weave into your directory of weaves then you may want it to be as small 
+ as possible in which case you should use the smallest individual weaves 
+ possible.</span></p>
+<p><span style="font-weight: normal;">For example if a plain weave in the 
+ back of a double cloth is not 2x2 but 8x8 (i.e. 4 repeats in both directions) 
+ and is used with a 5x5 weave in the face then the composite will be 80x80 
+ NOT 20x20 as might be expected when using the basic size of 2x2 for the 
+ plain weave.</span></p>
+<p><span style="font-weight: normal;">However, if you are simply applying 
+ weaves without saving any of the composite versions, then the size does 
+ not matter as the system will work equally well even if the resulting 
+ composite weaves have sizes of several thousand ends or picks.</span></p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Stitching Points</span></p>
+<p><span style="font-weight: normal;">These are automatically created in 
+ the composite weave if marked in the separate weaves for each level.</span></p>
+<p><span style="font-weight: normal;">Note that if the separate &quot;Simple&quot; 
+ weaves are saved to disk then stitching points are also saved. Thus if 
+ you mark a stitching point in, for example, a 1+3 twill and save it, then 
+ the mark will still be there when you select it again at a later date.</span></p>
+<p><span style="font-weight: normal;">Note that when using the same weave 
+ in both the face and back of a double cloth, the stitching point will 
+ always be suitable (if a position in a long float is chosen). However, 
+ in other cases it may well be unsuitable.</span></p>
+<p><span style="font-weight: normal;">It may, therefore be better, for 
+ each different design, to always mark stitching points for each weave 
+ separately (you only need to mark one level in a double cloth, not both). 
+ This would certainly be the case if you routinely use different weaves 
+ in face and back when producing double cloths.</span></p>
+<p><span style="font-weight: normal;">Note also that there may be occasions 
+ when it is an advantage to make a weave larger than its basic size so 
+ that the stitching points will be an appropriate distance apart.</span></p>
+<p><span style="font-weight: normal;">For example if you require stitching 
+ points every 16 ends and picks (total face and back) with a 1+3 twill 
+ having a basic size of 4x4 you could make a weave size of, say, 8x8 rather 
+ than the basic 4x4 as follows:</span></p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="3+1 twill 8x8st.gif" 
+												 alt="" style="margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="118" 
+												 height="117" border="0" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">1+3 twill made up to size 8x8 with addition 
+		 of stitching point</span></p></td>
+		<td style="vertical-align: TOP; width: 50%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="text-align: center;"><img src="3+1 twill 16x16 composite.gif" 
+												 alt="" style="margin-top: 0px; 
+												 margin-bottom: 0px; margin-left: 0px; 
+												 margin-right: 0px;" width="229" 
+												 height="229" border="0" /></p>
+		<p style="text-align: center; margin-bottom: 0;"><span style="font-style: italic; 
+		 font-size: 9.0pt;">Composite of same weave used in face and back 
+		 of a a double cloth (with pairings A/A and B/B) showing stitching 
+		 point (combined normal V and upturned V as both upper and lower 
+		 levels have a mark in same position). Size 16x16.</span></p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Procedure</span></p>
+<p><span style="font-weight: normal;">From the &quot;Apply Weave Simple&quot; 
+ dialog, select one of the lines representing the weave to be displayed 
+ then click the right hand button to display the Pop-up menu.</span></p>
+<p><span style="font-weight: normal;">Select &quot;Display Composite&quot; 
+ on the Pop-up menu as shown below.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="CompositeSelect.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="533" height="378" border="0" /></span></p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">The Composite Weave Display</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="CompositeDisplay2.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="542" height="294" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal;">An 
+ example composite weave display showing a double cloth having a 1+4 satin 
+ face and a 1+4 satin back with a stitching point indicated by the upturned 
+ &quot;V&quot;.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">The Weave 
+ Display itself shows the following symbols:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">/</p></td>
+		<td style="vertical-align: TOP; width: 89%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Lifters</span> 
+		 - These mark a position that is always a lift because the warp 
+		 thread is from a higher level than the weft thread at that point. 
+		 If a stitching point is placed here (i.e. the weft from the lower 
+		 level being above the warp thread, then the stitching point symbol 
+		 will be shown instead.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><img src="Vnormal.gif" alt="" style="margin-top: 0px; 
+											 margin-bottom: 0px; margin-left: 0px; 
+											 margin-right: 0px;" width="19" 
+											 height="19" border="0" /></p></td>
+		<td style="vertical-align: TOP; width: 89%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p><span 
+		 style="font-weight: bold;">Stitching point (Downward)</span> <span 
+		 style="font-weight: normal;">Indicates a point at which a warp 
+		 thread from an upper level goes under a weft thread from a lower 
+		 level OR a weft thread from an upper level goes under a warp thread 
+		 from a lower level. These are normally necessary in order to hold 
+		 the two levels together to prevent large pockets forming.</span></p>
+		<p style="margin-bottom: 0;"><span style="font-weight: normal;">This 
+		 symbol indicates that the user marked the stitching point on the 
+		 upper level weave in the schema.</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><img src="Vupturned.gif" alt="" 
+											 style="margin-top: 0px; margin-bottom: 0px; 
+											 margin-left: 0px; margin-right: 0px;" 
+											 width="19" height="19" border="0" /></p></td>
+		<td style="vertical-align: TOP; width: 89%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Stitching 
+		 Point (Upward)</span> <span style="font-weight: normal;">- Indicates 
+		 a point at which a warp thread from a lower level goes over a 
+		 weft thread from an upper level OR a weft thread from a lower 
+		 level goes over a warp thread from an upper level. This symbol 
+		 indicates that the user marked the stitching point on the lower 
+		 level weave in the schema as in the example above (note the &quot;(st)&quot; 
+		 appended to the weave name sati5).</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 11%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><img src="Vcombined.gif" alt="" 
+											 style="margin-top: 0px; margin-bottom: 0px; 
+											 margin-left: 0px; margin-right: 0px;" 
+											 width="18" height="18" border="0" /></p></td>
+		<td style="vertical-align: TOP; width: 89%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;"><span style="font-weight: bold;">Stitching 
+		 Point (Combined)</span> <span style="font-weight: normal;">- Indicates 
+		 that a stitching point was marked at the same point in both the 
+		 upper and lower levels of a double cloth. The resulting Composite 
+		 Weave is, in fact, the same whether one or both levels are marked 
+		 in a double cloth.</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: normal;">The display 
+ shows the following:</span></p>
+<?rh-align_start align="left" ?>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="480">
+	<tr>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Name</p></td>
+		<td style="vertical-align: TOP; width: 36%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Always set to &quot;Composite&quot;</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Size</p></td>
+		<td style="vertical-align: TOP; width: 36%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Size as calculated 10 ends and 10 
+		 picks in this case</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">End/Pick</p></td>
+		<td style="vertical-align: TOP; width: 36%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Shows the end and pick number being 
+		 pointed at (end 3, pick 1 in the above example).</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 25%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Weave Edit Tools</p></td>
+		<td style="vertical-align: TOP; width: 36%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">The composite weave cannot be edited 
+		 so these are disabled</p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Save Composite 
+ Weave</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">You can 
+ save the composite weave into your weave library by simply selecting &quot;Save 
+ As...&quot; from the Pop-up menu. In fact this is the only menu option 
+ that is available.</span></p>
+<p style="text-align: left; margin-bottom: 0;"><span style="font-weight: normal;">See 
+ the topic &quot;<a href="Large_Display.htm">Large Display</a>&quot; for 
+ more details of the Pop-up menu options.</span></p>
+</body>
+</html>

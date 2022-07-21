@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Cramming and Extras</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+</head>
+
+<body>
+<h1>Cramming and Extras</h1>
+<p>&#160;</p>
+<p>The procedures for production of these two types of design are very 
+ similar. This topic describes the procedure for Weft Cramming. For Warp 
+ Extras simply proceed as below but for warp read weft and vice versa.</p>
+<p>The procedure, in outline, is as follows:</p>
+<ol>
+	<li class="p"><p>Complete the artwork using the FACE ends and picks 
+	 per inch (or cm etc.) so that the artwork has the correct number of 
+	 total face ends and picks.</p></li>
+	<li class="p"><p>Assign Colors to Weft Selectors.</p></li>
+	<li class="p"><p>Use Apply Weaves Simple to create the Schema and select 
+	 and apply weaves. This will also set the weft threading sequence automatically 
+	 and will mark crammed picks with a '+' sign in the threading.</p></li>
+	<li class="p"><p>Make any required manual changes to warp or weft threading 
+	 sequences. (e.g. set warp threading sequence to solid black).</p></li>
+</ol>
+<p>The design can now be saved, viewed in Cloth mode etc like a normal 
+ design.</p>
+<p>The following sections of this topic give more detail of the procedure.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Artwork</span></p>
+<p>First of all the artwork should be produced and finalised. You should 
+ aim to use a different colour to show where each weft colour is used in 
+ the face of the cloth.</p>
+<p>In, more complex cases you may wish to use more than one weave for a 
+ particular selector and you should use additional colours to indicate 
+ this.</p>
+<p>In other words when the artwork is complete, a given palette colour 
+ indicates an area or areas where the weaves applied to each selector are 
+ the same.</p>
+<p>For example the following motif is to be woven using Weft Figuring (another 
+ name for the technique of using Weft Cramming).</p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td style="vertical-align: TOP; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;" width="269"><p style="margin-bottom: 0;"><img 
+		 src="cherryB.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+		 margin-left: 0px; margin-right: 0px;" width="234" height="204" 
+		 border="0" /></p></td>
+		<td style="vertical-align: TOP; width: 59%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p>In 
+		 this image we are to use only 4 yarn colours:</p>
+		<p>Pink for the ground</p>
+		<p>Red for the cherries</p>
+		<p>Black for the stalks</p>
+		<p>Green for the leaf</p>
+		<p style="margin-bottom: 0;">However, we are going to use two different 
+		 weaves for the cherries - therefore two different reds have been 
+		 used on the artwork.</p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Warp Selectors</span></p>
+<p><span style="font-weight: normal;">We are going to use solid Black as 
+ the warp colour in this design.</span></p>
+<p><span style="font-weight: normal;">Select Jacquard-&gt;Selectors-&gt;Warp 
+ and set Selector 1 to black. See <a href="Selectors.htm">Selectors</a> 
+ for more information about how to do this. You should have a dialog looking 
+ like this:</span></p>
+<p style="text-align: center;"><img src="CrammingWarpSelectors.gif" alt="" 
+									 style="margin-top: 0px; margin-bottom: 0px; 
+									 margin-left: 0px; margin-right: 0px;" 
+									 width="302" height="298" border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 9.0pt;">The 
+ above example shows the black palette colour against Selector 1. To achieve 
+ this clear any existing selections using the &quot;Clear All&quot; button 
+ then select &quot;Selector 1&quot; (the black rectangular outline), then 
+ click on black in the palette at the bottom.</span></p>
+<p style="text-align: left;">Click on OK when you have completed the changes.</p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Weft Selectors</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">We are 
+ going to use four weft colours for this design and for red we need to 
+ tell the software that there are to be two palette colours that represent 
+ places where the red yarn is used.</span></p>
+<p><span style="font-weight: normal;">Select Jacquard-&gt;Selectors-&gt;Weft 
+ and set Selectors 1-4 as shown below. See <a href="Selectors.htm">Selectors</a> 
+ for more information about how to do this. You should have a dialog looking 
+ like this:</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="CrammingWeftSelectors.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="302" height="298" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 9.0pt;">The 
+ above example shows the pink palette colour against Selector 1 but both 
+ reds against selector 2 so that we can use two different weaves. The first 
+ red in any row in this dialog is used as the yarn colour (palette colour 
+ 4 in this case). Selector 3 is green and selector 4 is black.</span></p>
+<p style="text-align: left;">Click on OK when you have completed the changes.</p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-weight: bold;">Reset Schema</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Select 
+ Jacquard-&gt;Apply Weaves-&gt;Simple then select the Reset Schema button 
+ you should see the following dialog in which you should select Crammed 
+ Picks and make sure that &quot;Full Levels&quot; for warp and weft are 
+ both equal to 1.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ResetSchema1C.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="285" height="227" border="0" /></span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Click on 
+ OK to close this dialog and return to the Apply Weaves dialog. It should 
+ now look something like the following (after weaves have been selected):</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ApplyWeaveSimple3.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="533" height="287" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Note how the software 
+ includes selector colours which cross the palette colour. For example 
+ the black stalks in the artwork (artwork colour 1) are crossed by the 
+ pink, red and and green yarns (top 3 lines in above example) though not 
+ necessarily all at once. By specifying a weave you are telling the software 
+ what to do with those weft threads where the black artwork colour occurs 
+ so in this case we have a face weave (weft faced) for the black selector 
+ 4 and a backbinding weave (warp faced) for the other colours. The asterisk 
+ indicates a &quot;main&quot; entry for an artwork color. The selector 
+ will work on every pick on which this color occurs.</span></p>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="ApplyWeaveSimple4.gif" alt="" style="margin-top: 0px; margin-bottom: 0px; 
+	 margin-left: 0px; margin-right: 0px;" width="533" height="287" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">The above image 
+ is a scrolled version of the previous one showing the last 10 lines of 
+ the schema. Note how both reds are listed together with the selectors 
+ that &quot;cross&quot; that colour which in this case are pink and black 
+ (selectors 1 and 4).</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold;">Loading 
+ Face Weaves and Back Weaves</span></p>
+<p style="text-align: left;"><span style="font-style: italic; font-weight: normal;">The 
+ following assumes that the weaves have already been designed and saved 
+ to disk. If they have not simply create new weave, edit it and save it 
+ as described in the topic</span> <span style="font-weight: normal;"><a 
+	 href="Weave_Edit.htm"><span style="font-style: italic;">Weave Edit</span></a></span><span 
+	 style="font-style: italic; font-weight: normal;">. You can do this 
+ within the &quot;Apply Weaves Simple&quot; dialog.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal;">In 
+ many cases only two weaves are used in this type of cloth - a face weave 
+ and a back weave. Though this is not true in this example, it may be a 
+ good way to start since it is very easy to do. We can then change the 
+ pink and dark red artwork colours. To do this proceed as follows:</span></p>
+<ol>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">Click 
+	 on the Schema with the right mouse button to display the pop-up menu.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">Select 
+	 &quot;Select Face Weaves&quot;. The software will select all lines 
+	 where the artwork colour matches the selector colour (including selector 
+	 2 for palette colour 6 since it knows they are actually the same from 
+	 the Selector dialog).</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">Click 
+	 on the Schema again with the right mouse button to display the pop-up 
+	 menu.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">This 
+	 time select &quot;Open...&quot; to display an open file dialog and 
+	 locate the weave (sati5 in this case) and either double click it or 
+	 click it once then select the Open button.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">The 
+	 weave will be recorded against all selected items (in this case where 
+	 yarns are used in the face).</span></p></li>
+</ol>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal;"><img 
+	 src="Schema3.gif" alt="" style="border-width: 1px; border-style: solid; 
+	 margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;" 
+	 width="259" height="253" border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">The above shows 
+ the last few lines of the schema after face weaves have been selected.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal;">You 
+ can now proceed to load the back weaves:</span></p>
+<ol>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">Click 
+	 on the Schema with the right mouse button to display the pop-up menu.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">Select 
+	 &quot;Select Back Weaves&quot;. The software will select all lines 
+	 where the artwork colour does not match the selector colour.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">Click 
+	 on the Schema again with the right mouse button to display the pop-up 
+	 menu.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">This 
+	 time select &quot;Open...&quot; to display an open file dialog and 
+	 locate the weave (satiback10 in this case) and either double click 
+	 it or click it once then select the Open button.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal;">The 
+	 weave will be recorded against all selected items (in this case where 
+	 yarns are NOT used in the face).</span></p></li>
+</ol>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal;"><img 
+	 src="Schema4.gif" alt="" style="border-width: 1px; border-style: solid; 
+	 margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;" 
+	 width="257" height="252" border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">The above shows 
+ the last few lines of the schema after back weaves have been selected.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 9.0pt;">Loading Single 
+ Line Weaves</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;">We now need to 
+ load sati8 for the pink selector 1 (at the top of the list in the image 
+ below).</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;">Double Click on 
+ that line with the left mouse button. This is the quickest way to open 
+ a weave for a single line. The Open file dialog should be displayed.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;">Find the required 
+ weave (sati8 in this case) and double click it. The dialog will be closed 
+ and the weave loaded and displayed. You should now see the following.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;"><img src="Schema5.gif" 
+															 alt="" style="border-width: 1px; 
+															 border-style: solid; 
+															 margin-top: 0px; 
+															 margin-bottom: 0px; 
+															 margin-left: 0px; 
+															 margin-right: 0px;" 
+															 width="257" 
+															 height="252" 
+															 border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 8.0pt;">The above shows 
+ the schema after color 3 selector 1 has been selected and the corresponding 
+ back weaves have also been changed to &quot;satiback32&quot; (see below).</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;">Multi-Line Selection</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">We now need to 
+ load satiback32 for selectors 2, 3 and 4 for the pink artwork colour. 
+ This will illustrate another technique - the ability to multi-select lines 
+ in the schema.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">There are two 
+ ways to do this in this instance since the items are consecutive, either:</span></p>
+<ol>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">Select 
+	 First item (selector 2 in this case) using the left mouse button.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">Hold 
+	 &lt;Ctrl&gt; key down and select the other two items in turn using 
+	 the left mouse button.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">If 
+	 you select an item by mistake and want to un-select it, simply click 
+	 on it a second time whilst keeping the &lt;Ctrl&gt; key down.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">Release 
+	 the &lt;Ctrl&gt; key when all items have been selected.</span></p></li>
+</ol>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">If after that 
+ you decide you want to add another item you can press &lt;Ctrl&gt; again 
+ and hold it down while you select further items.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">OR, you can use 
+ the &lt;Shift&gt; key to select a consecutive set of lines as follows:</span></p>
+<ol>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">Select 
+	 First item (selector 2 in this case).</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">Hold 
+	 &lt;Shift&gt; key down and click on the LAST item in the range to 
+	 be selected (selector 4 in this case). All items between the first 
+	 selection and the last will be selected. (i.e. Selectors 2, 3 and 
+	 4). You can now release the &lt;Shift&gt; key.</span></p></li>
+	<li class="p"><p style="text-align: left;"><span style="font-style: normal; 
+													 font-weight: normal; 
+													 font-size: 10.0pt;">If 
+	 you want to de-select some items or add other items you can now hold 
+	 the &lt;Ctrl&gt; key and click on other lines to select or de-select 
+	 them whilst keeping the &lt;Ctrl&gt; key down. Release the &lt;Ctrl&gt; 
+	 key when the correct lines are selected.</span></p></li>
+</ol>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">When the correct 
+ set of lines is highlighted you can open the weave using the Pop-up menu 
+ as described previously, i.e. click on the schema with the right mouse 
+ button then select the &quot;Open...&quot; option to select the appropriate 
+ weave (satiback32 in this case).</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">We now need to 
+ load sati4 for the 3 items in the dark red palette colour. and the same 
+ technique can be used again so the Schema will finally look like this 
+ (last few lines only).</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;"><img src="Schema6.gif" 
+															 alt="" style="border-width: 1px; 
+															 border-style: solid; 
+															 margin-top: 0px; 
+															 margin-bottom: 0px; 
+															 margin-left: 0px; 
+															 margin-right: 0px;" 
+															 width="257" 
+															 height="252" 
+															 border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">The above shows 
+ the last few lines of the schema after loading the &quot;sati4&quot; weaves 
+ for the dark red palette colour.</span></p>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;">Using the Weave 
+ Invert and Shift options</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">The Apply Weaves 
+ dialog has features which allow us to edit the weave. These edits are 
+ retained within the IFF or PRJ file when the design is saved. They do 
+ not cause the individual weave to be changed in its disk file (unless 
+ it is resaved of course). For more information about this see the topic</span> 
+ <span style="font-style: normal; font-weight: normal;"><a href="Weave_Edit.htm"><span 
+	 style="font-size: 10.0pt;">Weave Edit</span></a></span><span style="font-style: normal; 
+	 font-weight: normal; font-size: 10.0pt;">.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">The dialog not 
+ only allows us to edit individual points in a weave but we can make changes 
+ which affect the whole weave such as the shift ends, shift picks, invert 
+ and horizontal flip options.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;"><img src="sati4.gif" 
+	 alt="" style="border-width: 1px; border-style: solid; margin-top: 0px; 
+	 margin-bottom: 0px; margin-left: 0px; margin-right: 0px;" width="140" 
+	 height="236" border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Original version 
+ of sati4</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">We have currently 
+ loaded the sati4 weave against all 3 selectors for the dark red artwork 
+ colour but in fact only selector 2 (red) will use it as it is (weft faced). 
+ The other two selectors should use a backbinding version of it so we need 
+ to change them</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">We can achieve 
+ this very easily as follows:</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Select &quot;Selector 
+ 1&quot; (pink) this should be the only line selected (edits do not work 
+ on all lines if multi-select is used - only on the one having the &quot;caret&quot; 
+ or dotted line outline as there is only one of these).</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Click on Invert 
+ so it is checked.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Change the &quot;Shift 
+ Ends&quot; figure to 1.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">You should now 
+ see the following:</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;"><img src="ApplyWeaveSimple5.gif" 
+															 alt="" style="margin-top: 0px; 
+															 margin-bottom: 0px; 
+															 margin-left: 0px; 
+															 margin-right: 0px;" 
+															 width="533" 
+															 height="287" 
+															 border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Above example shows 
+ the weave for selector 1 for the dark red palette colour shifted 1 position 
+ to the right and inverted. This means that the stitching points are 1 
+ end to the right of the warp floats in the face weave on selector 2.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">If we repeat this 
+ procedure for selector 4 (last line above) then all changes are complete.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Note that we do 
+ not need to reverse and shift weaves in every case - it was simply used 
+ here to illustrate a technique. Backbinding weaves can be stored on disk 
+ and used in designs without editing as in the case of the other palette 
+ colours Black, Green, Pink, Red.</span></p>
+<p style="text-align: left;"><span style="font-weight: bold;">Edge Protection</span></p>
+<p style="text-align: center;"><span style="font-weight: bold;"><img src="Apply_Weave_Options.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="344" height="279" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 8.0pt;">Example shows edge 
+ Protection switched on and a &quot;float&quot; of 1 minimum in face and 
+ back at the edge of a motif.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">In most 
+ cases you will probably want to use edge protection in order to prevent 
+ the outlines of motifs looking &quot;ragged&quot;. You can compare the 
+ results of applying weaves with this feature on and off in the topic <a 
+	 href="Edge_Protection.htm">Edge Protection</a>.</span></p>
+<p style="text-align: left;"><span style="font-weight: normal;">To use 
+ edge protection click on the Options button and make sure that the feature 
+ is selected and that both figures are set to 1.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;">Apply Weaves</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">To finish off 
+ simply click on the apply weaves button.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">Whenever you do 
+ this for a design having Weft Cramming or Warp Extras, the following dialog 
+ will appear.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;"><img src="ResetWeftDlg.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="401" height="119" border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">For Cloth having 
+ Warp Extras the wording will be changed appropriately.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;">You should normally 
+ select the Yes button.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;">The only time it 
+ would be appropriate to select No will be if you have already applied 
+ weaves previously and made several changes to the threading yourself (itself 
+ difficult) which you wish to keep and you know that the threading is going 
+ to be unchanged.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;">The resulting threading 
+ sequence is normally very complex and will include '+' signs to mark crammed 
+ picks which are normally extremely important if the product is to be woven 
+ on an electronic Jacquard. The threading sequence for our cherry design 
+ now looks like this.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 9.0pt;"><img src="CherryWeftThreading.gif" 
+															 alt="" style="margin-top: 0px; 
+															 margin-bottom: 0px; 
+															 margin-left: 0px; 
+															 margin-right: 0px;" 
+															 width="494" 
+															 height="362" 
+															 border="0" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">The design actually 
+ has two motifs half dropped hence the repeat of 2 above. Note the large 
+ amount of plain pink either side of the motif and also that pink on Selector 
+ 1 (ground) is never crammed but all other selectors are always crammed.</span></p>
+<p style="text-align: center;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;">Weave</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">The following 
+ shows a small portion of the weave for this design. It has the same width 
+ as the artwork (480 ends in this case) but is much longer being 694 picks 
+ against an artwork length of 480 picks.</span></p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;"><img src="CherryWeave.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="287" height="322" border="0" /></span></p>
+<p style="text-align: left;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 9.0pt;">Above example shows 
+ a small part of the resulting weave with part of the pink ground weave 
+ at the bottom and the middle cherry (the brighter red palette colour) 
+ in the centre.</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: bold; 
+									 font-size: 10.0pt;">Cloth</span></p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">If you select 
+ Cloth Mode on the Jacquard menu (Jacquard-&gt;Mode-&gt;Cloth) you should 
+ see the following (only a small part shown).</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: center;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;"><img src="CherryCloth.gif" 
+	 alt="" style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; 
+	 margin-right: 0px;" width="347" height="341" border="0" /></span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;"><span style="font-style: normal; font-weight: normal; 
+									 font-size: 10.0pt;">The design can 
+ now be saved to disk and textured by importing into DobbyDesigner or can 
+ be loaded into a Loom Interface program such as STAUBLI or BONAS for preparation 
+ of a Loom File.</span></p>
+<p style="text-align: left; margin-bottom: 0;">&#160;</p>
+</body>
+</html>

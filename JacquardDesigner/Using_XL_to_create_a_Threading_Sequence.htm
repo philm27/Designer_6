@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Using XL to create a Threading Sequence</title>
+<link rel="StyleSheet" href="Jacquard.css" type="text/css" />
+</head>
+
+<body>
+<h1>Using XL to create a Threading Sequence</h1>
+<p>&#160;</p>
+<p>You can use Microsoft XL to create a threading sequence. This may be 
+ useful when the sequence is a particularly long mathematical progression.</p>
+<p>&#160;</p>
+<p>Consider the threading sequence below:</p>
+<p style="text-align: center;"><img src="ThreadingXL1.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="617" height="128" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">(A) 
+ Example threading sequence prepared in Microsoft XL</span></p>
+<p>In this design there will be a pair of stripes alternating and decreasing 
+ gradually in size from 24 down to 8. This kind of progression can be created 
+ easily in XL by setting the initial two values to 24 then setting the 
+ two figures in the next column to A4-1 and A5-1 respectively.</p>
+<p>All the other figures can then be copied from column B by selecting 
+ the column B figures and using the Fill/Repeat feature as shown below.</p>
+<p style="text-align: center;"><img src="ThreadingXL2.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="173" height="130" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">(B) 
+ Select the two figures in column B as shown then point at the bottom right 
+ corner of the highlight, press the left mouse button and stretch it across 
+ to the right. This will result in the image (C) below as the software 
+ will repeat the formulae in column B.</span></p>
+<p style="text-align: center;"><img src="ThreadingXL3.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="628" height="129" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">(C) 
+ This shows the situation after the button has been released.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;">After the above steps you can paste the data 
+ into Jacquard Designer:</p>
+<ol>
+	<li class="p"><p style="text-align: left;">Highlight the whole set 
+	 of figures in XL</p></li>
+	<li class="p"><p style="text-align: left;">Use &lt;Ctrl&gt; + C to 
+	 copy the block of figures</p></li>
+	<li class="p"><p style="text-align: left;">Move to Jacquard Designer</p></li>
+	<li class="p"><p style="text-align: left;">Select warp or weft threading 
+	 sequence as appropriate</p></li>
+	<li class="p"><p style="text-align: left;">Click on the top left corner 
+	 of the block which is to receive the data in the threading sequence</p></li>
+	<li class="p"><p style="text-align: left;">Use &lt;Ctrl&gt; + V to 
+	 paste the data into your design.</p></li>
+</ol>
+<p style="text-align: left;"><span style="font-style: italic;">Note that 
+ you do not need to worry about the number of columns available as the 
+ software will add extra columns if necessary. However, the software will 
+ overwrite any existing data so you should make sure that you are not going 
+ to erase any data that you want to retain. Remember that you can use undo 
+ (&lt;Ctrl&gt; + Z) if you make a mistake.</span></p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left;">&#160;</p>
+<p style="text-align: left; margin-bottom: 0;">&#160;</p>
+</body>
+</html>
