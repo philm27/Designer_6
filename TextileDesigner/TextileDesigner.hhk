@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0">
+	<properties windowname="NewWindow1">
+	</properties>
+	<item name="Tutorial 4">
+		<section name="Tutorial 4" link="Textile_Tutorial_4.htm">
+		</section>
+	</item>
+	<item name="Weave Alignment">
+	</item>
+	<item name="Weave Adjustments">
+	</item>
+	<item name="Tutorials">
+		<section name="Tutorials Introduction" link="Tutorials_Introduction.htm">
+		</section>
+	</item>
+	<item name="Tutorial 3">
+		<section name="Tutorial 3" link="Textile_Tutorial_3.htm">
+		</section>
+	</item>
+	<item name="Tutorial 2">
+		<section name="Tutorial 2" link="Textile_Tutorial_2.htm">
+		</section>
+	</item>
+	<item name="Tutorial 1">
+		<section name="Tutorial 1" link="Textile_Tutorial_1.htm">
+		</section>
+	</item>
+	<item name="punch machines">
+	</item>
+	<item name="Van de Wiele">
+	</item>
+	<item name="Card Format">
+	</item>
+	<item name="Adjust Weave">
+	</item>
+	<item name="dent">
+	</item>
+	<item name="multiplier">
+	</item>
+	<item name="Keep over 2 wires">
+	</item>
+	<item name="Through to Back">
+	</item>
+	<item name=".ep">
+	</item>
+	<item name=".bin">
+	</item>
+	<item name="Export">
+	</item>
+	<item name="Contact">
+		<section name="Customer Care" link="CarpetCustomer_Care.htm">
+		</section>
+	</item>
+	<item name="Texture">
+	</item>
+	<item name="Mode">
+		<item name="ArtWork">
+		</item>
+		<item name="Weave">
+		</item>
+		<item name="Cloth">
+		</item>
+	</item>
+	<item name="Crammed Picks">
+	</item>
+	<item name="Assign Colours">
+	</item>
+	<item name="Weft Figuring">
+	</item>
+	<item name="Warp Extras">
+	</item>
+	<item name="Backbinding">
+	</item>
+	<item name="Back Weaves">
+	</item>
+	<item name="Apply Weaves">
+		<item name="Composite">
+		</item>
+		<item name="Simple">
+		</item>
+	</item>
+	<item name="Full Levels">
+	</item>
+	<item name="Backweaves">
+	</item>
+	<item name="DobbyDesigner">
+	</item>
+	<item name="Weft Selectors">
+	</item>
+	<item name="Weft Cramming">
+	</item>
+	<item name="FACE">
+	</item>
+	<item name="Weave Edit">
+	</item>
+	<item name="Face Weaves">
+	</item>
+	<item name="BONAS">
+	</item>
+	<item name="Weave Invert">
+	</item>
+	<item name="Warp Selectors">
+	</item>
+	<item name="Extras">
+	</item>
+	<item name="Schema">
+		<item name="Reset">
+		</item>
+	</item>
+	<item name="Composite Weave">
+	</item>
+	<item name="Reset Schema">
+	</item>
+	<item name="Stitching Point">
+	</item>
+	<item name="Composite Weave Generator">
+	</item>
+	<item name="Composite">
+	</item>
+	<item name="Points">
+		<item name="Stitching">
+		</item>
+	</item>
+	<item name="Lifters">
+	</item>
+	<item name="Weave Display">
+	</item>
+	<item name="Stitching">
+		<item name="Points">
+		</item>
+	</item>
+	<item name="Composite Weave Size">
+	</item>
+	<item name="Display Composite">
+	</item>
+	<item name="Save Composite Weave">
+	</item>
+	<item name="Large Display">
+	</item>
+	<item name="Save As">
+	</item>
+	<item name="Composite Display">
+	</item>
+	<item name="Composite Weave Display">
+	</item>
+	<item name="Weave Edit Tools">
+	</item>
+	<item name="St">
+	</item>
+	<item name="Sati5">
+	</item>
+	<item name="STAUBLI">
+	</item>
+	<item name="Single Line Weaves">
+		<item name="Loading">
+		</item>
+	</item>
+	<item name="Multi-Line Selection">
+	</item>
+	<item name="Shift Ends">
+	</item>
+	<item name="PRJ file">
+	</item>
+	<item name="Open file dialog">
+	</item>
+	<item name="Shift">
+	</item>
+	<item name="Loom Interface">
+	</item>
+	<item name="Pop-up menu">
+	</item>
+	<item name="Loom File">
+	</item>
+	<item name="Ratios">
+	</item>
+	<item name="Apply Simple Weaves">
+		<item name="Composite Weave Generator">
+		</item>
+		<item name="Reset Schema">
+		</item>
+	</item>
+	<item name="IFF">
+	</item>
+	<item name="Warp">
+	</item>
+	<item name="Properties">
+	</item>
+	<item name="New">
+	</item>
+	<item name="End/Pick">
+	</item>
+	<item name="Sequence Grid">
+		<item name="Threading">
+		</item>
+	</item>
+	<item name="Delete Empty Columns">
+	</item>
+	<item name="Warp Threading">
+	</item>
+	<item name="Move Up">
+	</item>
+	<item name="Mirror Columns">
+	</item>
+	<item name="Include First Stripe">
+	</item>
+	<item name="Editing">
+		<item name="Values">
+		</item>
+		<item name="Weave">
+		</item>
+	</item>
+	<item name="Delete">
+	</item>
+	<item name="Clear All">
+	</item>
+	<item name="Bracket">
+		<item name="Delete">
+		</item>
+	</item>
+	<item name="Optimise">
+	</item>
+	<item name="Figure">
+		<item name="Deleting">
+		</item>
+	</item>
+	<item name="Threading">
+		<item name="Sequence">
+		</item>
+		<item name="Sequence Grid">
+		</item>
+	</item>
+	<item name="Jacquard Preference">
+	</item>
+	<item name="Entering">
+		<item name="Values">
+		</item>
+	</item>
+	<item name="Clear Selection">
+	</item>
+	<item name="Include Last Stripe">
+	</item>
+	<item name="Duplicate">
+	</item>
+	<item name="Times Values">
+	</item>
+	<item name="New Bracket">
+		<item name="Create">
+		</item>
+	</item>
+	<item name="Extend">
+	</item>
+	<item name="Clear">
+	</item>
+	<item name="Thread Counts">
+	</item>
+	<item name="Create">
+		<item name="New Bracket">
+		</item>
+		<item name="New Weave">
+		</item>
+	</item>
+	<item name="Tartan">
+	</item>
+	<item name="Sequence">
+		<item name="Threading">
+		</item>
+	</item>
+	<item name="Weft Threading">
+	</item>
+	<item name="Row Sub-Menu">
+	</item>
+	<item name="Column Sub-Menu">
+	</item>
+	<item name="Selectors Re-Ordering">
+	</item>
+	<item name="Move Down">
+	</item>
+	<item name="Mirror">
+	</item>
+	<item name="Reverse All">
+	</item>
+	<item name="Multi-Select">
+	</item>
+	<item name="Compress">
+	</item>
+	<item name="Delete Empty Rows">
+	</item>
+	<item name="Add Column">
+	</item>
+	<item name="Multi Line">
+	</item>
+	<item name="Treble Cloths">
+	</item>
+	<item name="Float Check">
+	</item>
+	<item name="Warp Threading Sequence">
+	</item>
+	<item name="Invert">
+	</item>
+	<item name="Weft Threading Sequence">
+	</item>
+	<item name="Open">
+	</item>
+	<item name="No Weave">
+	</item>
+	<item name="Extra Ends">
+	</item>
+	<item name="Check Floats">
+	</item>
+	<item name="A/B paring">
+	</item>
+	<item name="Weft">
+	</item>
+	<item name="Cramming">
+		<item name="Example">
+		</item>
+	</item>
+	<item name="Double Cloths">
+	</item>
+	<item name="Warp/Weft Pairings">
+	</item>
+	<item name="Re-Size">
+	</item>
+	<item name="Weave">
+		<item name="Editing">
+		</item>
+	</item>
+	<item name="Edit Weave">
+	</item>
+	<item name="Horizontal Flip">
+	</item>
+	<item name="Zoom, Scroll">
+	</item>
+	<item name="Weave Information">
+	</item>
+	<item name="Scottish">
+	</item>
+	<item name="Title Bar">
+	</item>
+	<item name="Levels/selectors">
+	</item>
+	<item name="Colours">
+	</item>
+	<item name="Artwork colours">
+	</item>
+	<item name="Single Cloth">
+	</item>
+	<item name="Cloth mode">
+	</item>
+	<item name="Semi Double Cloth">
+	</item>
+	<item name="Check">
+	</item>
+	<item name="Cloth Type">
+	</item>
+	<item name="Apply Composite Weaves">
+	</item>
+	<item name="Clear Weaves">
+	</item>
+	<item name="Across Edges">
+	</item>
+	<item name="Float Check dialog">
+	</item>
+	<item name="Move">
+		<item name="colours">
+		</item>
+	</item>
+	<item name="Selectors">
+	</item>
+	<item name="Selector List">
+	</item>
+	<item name="Selector dialog">
+	</item>
+	<item name="Threading Sequence dialog">
+	</item>
+	<item name="Scottish System">
+	</item>
+	<item name="Mill Ticket">
+	</item>
+	<item name="Warp Threading dialog">
+	</item>
+	<item name="Threading dialog">
+	</item>
+	<item name="Pairings">
+	</item>
+	<item name="Schema List">
+	</item>
+	<item name="Double Cloth Schema">
+	</item>
+	<item name="Double Cloth Example Schema">
+	</item>
+	<item name="Warp Letter">
+	</item>
+	<item name="Weft Letter">
+	</item>
+	<item name="Selector Column">
+	</item>
+	<item name="Artwork Colour">
+	</item>
+	<item name="Invert Selection">
+	</item>
+	<item name="Change Warp/Weft">
+	</item>
+	<item name="New Weave">
+		<item name="Create">
+		</item>
+	</item>
+	<item name="Palette Colour">
+	</item>
+	<item name="Shift Picks">
+	</item>
+	<item name="Schema Sort">
+	</item>
+	<item name="Float">
+	</item>
+	<item name="Schema Properties">
+	</item>
+	<item name="Make Same">
+	</item>
+	<item name="Flip Horizontal">
+	</item>
+	<item name="Save">
+	</item>
+	<item name="Selector Number">
+	</item>
+	<item name="Crammed Weft">
+	</item>
+	<item name="Float crossing">
+	</item>
+	<item name="Remove All Edits">
+	</item>
+	<item name="Flip">
+	</item>
+	<item name="Edit Tools">
+	</item>
+</index>

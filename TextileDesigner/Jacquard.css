@@ -1,0 +1,85 @@
+
+ /* $MVD$:color("18","866160","1","0") */
+ /* $MVD$:color("19","4b34bc","2","0") */
+ /* $MVD$:fontset("Verdana","Verdana") */
+ BODY { font-family : "Verdana";
+        font-size : 10.0pt;
+        background-repeat : none;
+        background-attachment : fixed;
+        background-image : url("CAD_help.bmp");}
+ .mvd-BODY { font-family : "Verdana";
+             font-size : 10.0pt;
+             background-repeat : none;
+             background-attachment : fixed;
+             background-image : url("CAD_help.bmp");}
+ CITE.expandspot { font-style : normal;
+                   color : green;
+                   cursor: hand;}
+ .mvd-CITE-expandspot { font-style : normal;
+                        color : green;
+                        cursor: hand;}
+ DFN.collapsed { font-style : italic;
+                 font-weight : normal;
+                 display :            'none';
+                 color : red;}
+ .mvd-DFN-collapsed { font-style : italic;
+                      font-weight : normal;
+                      display :            'none';
+                      color : red;}
+ DFN.expanded { font-style : italic;
+                font-weight : normal;
+                color : red;}
+ .mvd-DFN-expanded { font-style : italic;
+                     font-weight : normal;
+                     color : red;}
+ EM.dropspot { color : green;
+               cursor: hand;}
+ .mvd-EM-dropspot { color : green;
+                    cursor: hand;}
+ CITE.glossterm { font-style : normal;
+                  color : maroon;
+                  cursor: hand;}
+ .mvd-CITE-glossterm { font-style : normal;
+                       color : maroon;
+                       cursor: hand;}
+ DFN.glosscollapsed { font-style : italic;
+                      font-weight : normal;
+                      display :            'none';
+                      color : blue;}
+ .mvd-DFN-glosscollapsed { font-style : italic;
+                           font-weight : normal;
+                           display :            'none';
+                           color : blue;}
+ DFN.glossexpanded { font-style : italic;
+                     font-weight : normal;
+                     color : blue;}
+ .mvd-DFN-glossexpanded { font-style : italic;
+                          font-weight : normal;
+                          color : blue;}
+ H1 { font-family : "Verdana";
+      font-weight : normal;
+      font-size : 24.0pt;
+      background-color : #606186;
+      text-align : center;
+      color : white;}
+ .mvd-H1 { font-family : "Verdana";
+           font-weight : normal;
+           font-size : 24.0pt;
+           background-color : #606186;
+           text-align : center;
+           color : white;}
+ H2 { font-family : "Verdana";
+      font-weight : normal;
+      font-size : 18.0pt;
+      color : black;}
+ .mvd-H2 { font-family : "Verdana";
+           font-weight : normal;
+           font-size : 18.0pt;
+           color : black;}
+ P { font-family : "Verdana";
+     font-size : 10.0pt;
+     color : black;}
+ .mvd-P { font-family : "Verdana";
+          font-size : 10.0pt;
+          color : black;}
+ 

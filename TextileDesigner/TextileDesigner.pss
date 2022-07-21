@@ -1,0 +1,107 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\TextileDesigner.htm
+SSLayoutType=32
+ServerProjectName=TextileDesigner
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\TextileDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\TextileDesigner.chm
+SSLayoutType=1
+CreateProjectTime=16:31, July 21, 2022
+CreateProjectUser=philm4
+SupportMas_MPJ=1
+Enable Result Dialog=1
+ActionID For Generation=1013
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\TextileDesigner.chm
+ResultStatus=0
+BuildTimeHi=30973206
+BuildTimeLow=-133878502
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\TextileDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\TextileDesigner.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\TextileDesigner.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\TextileDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\TextileDesigner.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\TextileDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\TextileDesigner.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\TextileDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\TextileDesigner.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[PreSingleSource]
+Html Help Project=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.hhp
+Table Of Content=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.hhc
+Index=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.hhk
+Topic Index=c:\Apso_CAD\Help\Designer_6\TextileDesigner\RHTopicKeyword$.hhk
+See Also Index=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.hha
+Browse Sequence=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.brs
+Glossary=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.glo
+Topic Properties=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trs
+Active Folders=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trf
+Baggage Files=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trb
+Skin List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trk
+Active Layout Names=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trl
+Template Files=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trt
+Project TOC List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trtocl
+Project Index List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.tridxl
+Project Glossary List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trglol
+Project CSS List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trcss
+Project Variable Set List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.trvset
+External URL Settings=c:\Apso_CAD\Help\Designer_6\TextileDesigner\SearchOptions.xml
+Screen Template File Details=c:\Apso_CAD\Help\Designer_6\TextileDesigner\TextileDesigner.sctfdl
+CPSwfToHTML5Map=c:\Apso_CAD\Help\Designer_6\TextileDesigner\__cpSwf2HTML5ZipMap
+Default Topic=c:\Apso_CAD\Help\Designer_6\TextileDesigner\Welcome.htm
+Build Tags0=28087;
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=c:\Apso_CAD\Help\Designer_6\TextileDesigner\!Language!\en_US\RoboHHRE.lng
+Stop List=c:\Apso_CAD\Help\Designer_6\TextileDesigner\!Language!\en_US\TextileDesigner.stp
+[Layout Settings]
+MRULayoutCount=1
+MRULayout0=Microsoft HTML Help]07/21/22]0

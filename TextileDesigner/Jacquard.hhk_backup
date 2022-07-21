@@ -1,0 +1,1386 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="WindowName" value="NewWindow1">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mode">
+    <param name="Name" value="Jacquard Mode">
+    <param name="Local" value="Jacquard_Mode.htm">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ArtWork">
+      <param name="Name" value="Jacquard Mode">
+      <param name="Local" value="Jacquard_Mode.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Weave">
+      <param name="Name" value="Jacquard Mode">
+      <param name="Local" value="Jacquard_Mode.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Cloth">
+      <param name="Name" value="Jacquard Mode">
+      <param name="Local" value="Jacquard_Mode.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Crammed Picks">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Assign Colours">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Figuring">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Extras">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Backbinding">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Back Weaves">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Weaves">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Float Check">
+    <param name="Local" value="Float_Check.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Full Levels">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Backweaves">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DobbyDesigner">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Hold &lt;Shift">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Selectors">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;Ctrl&gt;">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Cramming">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FACE">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Edit">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Face Weaves">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BONAS">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Invert">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Selectors">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Extras">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reset">
+      <param name="Name" value="Reset Schema">
+      <param name="Local" value="Reset_Schema.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reset Schema">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stitching Point">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="1:2 and 1:3 Ratios">
+    <param name="Local" value="1_2_and_1_3_Ratios.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="B/A">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="A/B">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Points">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Stitching">
+      <param name="Name" value="Display Composite">
+      <param name="Local" value="Display_Composite.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lifters">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Display">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stitching">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Points">
+      <param name="Name" value="Display Composite">
+      <param name="Local" value="Display_Composite.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave Size">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Display Composite">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save Composite Weave">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Large Display">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save As">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Display">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave Display">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Edit Tools">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="St">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sati5">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="STAUBLI">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Single Line Weaves">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Loading">
+      <param name="Name" value="Cramming and Extras">
+      <param name="Local" value="Cramming_and_Extras.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Multi-Line Selection">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shift Ends">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PRJ file">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Open file dialog">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shift">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Loom Interface">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pop-up menu">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Loom File">
+    <param name="Name" value="Cramming and Extras">
+    <param name="Local" value="Cramming_and_Extras.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ratios">
+    <param name="Name" value="1:2 and 1:3 Ratios">
+    <param name="Local" value="1_2_and_1_3_Ratios.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Simple Weaves">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IFF">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Properties">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="New">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Name" value="Composite Weave Generator">
+    <param name="Local" value="Composite_Weave_Generator.htm">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="End/Pick">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="B/B">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="A/A">
+    <param name="Name" value="Display Composite">
+    <param name="Local" value="Display_Composite.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sequence Grid">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Threading">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete Empty Columns">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Threading">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move Up">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mirror Columns">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Include First Stripe">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Editing">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Values">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Weave">
+      <param name="Name" value="Large Display">
+      <param name="Local" value="Large_Display.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Bracket">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Figure">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear All">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Bracket">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Delete">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Optimise">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Figure">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Deleting">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threading">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sequence">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sequence Grid">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Jacquard Preference">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Entering">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Values">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear Selection">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Include Last Stripe">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Duplicate">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Times Values">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="New Bracket">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Create">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Extend">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Thread Counts">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Create">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="New Bracket">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="New Weave">
+      <param name="Name" value="Apply Weaves Simple">
+      <param name="Local" value="Apply_Weaves_Simple.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tartan">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sequence">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Threading">
+      <param name="Name" value="Threading Sequence">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Threading">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Row Sub-Menu">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Column Sub-Menu">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;Del&gt;">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="&lt;Back&gt;">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selectors Re-Ordering">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move Down">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mirror">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reverse All">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Multi-Select">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Compress">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete Empty Rows">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add Column">
+    <param name="Name" value="Threading Sequence">
+    <param name="Local" value="Warp_Threading.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Multi Line">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Treble Cloths">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float Check">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Float Check">
+    <param name="Local" value="Float_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Threading Sequence">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Invert">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Threading Sequence">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Open">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="No Weave">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Extra Ends">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Check Floats">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="B colour">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="A/B paring">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cramming">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Example">
+      <param name="Name" value="Schemas - General">
+      <param name="Local" value="Schemas_-_General.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Double Cloths">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp/Weft Pairings">
+    <param name="Name" value="Double Cloths and Treble Cloths">
+    <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Re-Size">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Editing">
+      <param name="Name" value="Large Display">
+      <param name="Local" value="Large_Display.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Large Display showing">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="dialog">
+      <param name="Name" value="Large Display">
+      <param name="Local" value="Large_Display.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit Weave">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Horizontal Flip">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Zoom, Scroll">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Information">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scottish">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Title Bar">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Levels/selectors">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Colours">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Artwork colours">
+    <param name="Name" value="Reset Schema">
+    <param name="Local" value="Reset_Schema.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Single Cloth">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cloth mode">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Semi Double Cloth">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Check">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Float Check">
+    <param name="Local" value="Float_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cloth Type">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Simple Weaves dialog">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear Weaves">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Artwork">
+    <param name="Name" value="Apply Weaves Composite">
+    <param name="Local" value="Apply_Weaves_Composite.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Across Edges">
+    <param name="Name" value="Float Check">
+    <param name="Local" value="Float_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float Check dialog">
+    <param name="Name" value="Float Check">
+    <param name="Local" value="Float_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="colours">
+      <param name="Name" value="Selectors">
+      <param name="Local" value="Selectors.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selectors">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector List">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector dialog">
+    <param name="Name" value="Selectors">
+    <param name="Local" value="Selectors.htm">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threading Sequence dialog">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scottish System">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+    <param name="Name" value="Large Display">
+    <param name="Local" value="Large_Display.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mill Ticket">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Threading dialog">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threading dialog">
+    <param name="Name" value="Jacquard Preferences">
+    <param name="Local" value="Jacquard_Preferences.htm">
+    <param name="Name" value="1:2 and 1:3 Ratios">
+    <param name="Local" value="1_2_and_1_3_Ratios.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pairings">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema List">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Double Cloth Schema">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Double Cloth Example Schema">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Letter">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Letter">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector Column">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Artwork Colour">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="B">
+    <param name="Name" value="Schemas - General">
+    <param name="Local" value="Schemas_-_General.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Invert Selection">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Change Warp/Weft">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="C/C">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="New Weave">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Create">
+      <param name="Name" value="Apply Weaves Simple">
+      <param name="Local" value="Apply_Weaves_Simple.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Palette Colour">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shift Picks">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema Sort">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema Properties">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Make Same">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Flip Horizontal">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector Number">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Crammed Weft">
+    <param name="Name" value="Apply Weaves Simple">
+    <param name="Local" value="Apply_Weaves_Simple.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float crossing">
+    <param name="Name" value="Float Check">
+    <param name="Local" value="Float_Check.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove All Edits">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Flip">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit Tools">
+    <param name="Name" value="Weave Edit">
+    <param name="Local" value="Weave_Edit.htm">
+  </object>
+</ul>
+</html>

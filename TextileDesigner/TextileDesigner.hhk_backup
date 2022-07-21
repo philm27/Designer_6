@@ -1,0 +1,684 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="WindowName" value="NewWindow1">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Alignment">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Adjustments">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tutorials">
+    <param name="Name" value="Tutorials Introduction">
+    <param name="Local" value="Tutorials_Introduction.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tutorial 3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tutorial 2">
+    <param name="Name" value="Tutorial 2">
+    <param name="Local" value="Textile_Tutorial_2.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tutorial 1">
+    <param name="Name" value="Tutorial 1">
+    <param name="Local" value="Textile_Tutorial_1.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="punch machines">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Van de Wiele">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Card Format">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Adjust Weave">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="dent">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="multiplier">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Keep over 2 wires">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Through to Back">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value=".ep">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value=".bin">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Export">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Contact">
+    <param name="Name" value="Customer Care">
+    <param name="Local" value="CarpetCustomer_Care.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Texture">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mode">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ArtWork">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Weave">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Cloth">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Crammed Picks">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Assign Colours">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Figuring">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Extras">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Backbinding">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Back Weaves">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Weaves">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Composite">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Simple">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Full Levels">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Backweaves">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="DobbyDesigner">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Selectors">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Cramming">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FACE">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Edit">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Face Weaves">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BONAS">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Invert">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Selectors">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Extras">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reset">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reset Schema">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stitching Point">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave Generator">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Points">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Stitching">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Lifters">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Display">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stitching">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Points">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave Size">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Display Composite">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save Composite Weave">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Large Display">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save As">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Display">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Composite Weave Display">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Edit Tools">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="St">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sati5">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="STAUBLI">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Single Line Weaves">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Loading">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Multi-Line Selection">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shift Ends">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PRJ file">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Open file dialog">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shift">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Loom Interface">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pop-up menu">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Loom File">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ratios">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Simple Weaves">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Composite Weave Generator">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reset Schema">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="IFF">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Properties">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="New">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="End/Pick">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sequence Grid">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Threading">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete Empty Columns">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Threading">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move Up">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mirror Columns">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Include First Stripe">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Editing">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Values">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Weave">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear All">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Bracket">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Delete">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Optimise">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Figure">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Deleting">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threading">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sequence">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sequence Grid">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Jacquard Preference">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Entering">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Values">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear Selection">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Include Last Stripe">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Duplicate">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Times Values">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="New Bracket">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Create">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Extend">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Thread Counts">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Create">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="New Bracket">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="New Weave">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tartan">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sequence">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Threading">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Threading">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Row Sub-Menu">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Column Sub-Menu">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selectors Re-Ordering">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move Down">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mirror">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reverse All">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Multi-Select">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Compress">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Delete Empty Rows">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Add Column">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Multi Line">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Treble Cloths">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float Check">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Threading Sequence">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Invert">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Threading Sequence">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Open">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="No Weave">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Extra Ends">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Check Floats">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="A/B paring">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cramming">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Example">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Double Cloths">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp/Weft Pairings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Re-Size">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Editing">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit Weave">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Horizontal Flip">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Zoom, Scroll">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weave Information">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scottish">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Title Bar">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Levels/selectors">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Colours">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Artwork colours">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Single Cloth">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cloth mode">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Semi Double Cloth">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Check">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Cloth Type">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Apply Composite Weaves">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Clear Weaves">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Across Edges">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float Check dialog">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Move">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="colours">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selectors">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector List">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector dialog">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threading Sequence dialog">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scottish System">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Mill Ticket">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Threading dialog">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Threading dialog">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pairings">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema List">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Double Cloth Schema">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Double Cloth Example Schema">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Warp Letter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Weft Letter">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector Column">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Artwork Colour">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Invert Selection">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Change Warp/Weft">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="New Weave">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Create">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Palette Colour">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Shift Picks">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema Sort">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Schema Properties">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Make Same">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Flip Horizontal">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Save">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selector Number">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Crammed Weft">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Float crossing">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Remove All Edits">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Flip">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Edit Tools">
+  </object>
+</ul>
+</html>

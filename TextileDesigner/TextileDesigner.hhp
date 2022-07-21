@@ -1,0 +1,52 @@
+﻿[OPTIONS]
+Compiled File=TextileDesigner.chm
+Title=Textile Designer
+Contents File=TextileDesigner.hhc
+Index File=TextileDesigner.hhk
+Default topic=Welcome.htm
+Default Window=NewWindow1
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced decompilation=No
+Binary TOC=No
+Flat=No
+LANG_ID=0
+LANG_NAME=English (US)
+Custom tab="&Glossary", HHActiveX.GlossaryPane
+
+[WINDOWS]
+NewWindow1="Textile Designer Help","TextileDesigner.hhc","TextileDesigner.hhk","","",,,,,0x81420,0,0x300e,[82,78,967,684],0x0,0x0,,0,1,0,[Glossary,HHActiveX.GlossaryPane]
+
+[FILES]
+Textile_Tutorial_2.htm
+Printing_Help_Topics.htm
+Textile_Tutorial_4.htm
+Link_Example.htm
+Textile_Tutorial_3.htm
+Using_Help_Files.htm
+CarpetCustomer_Care.htm
+Textile_Tutorial_1.htm
+Welcome.htm
+Tutorials_Introduction.htm
+Cannot_find_the_application__HelpTutorialFiles_.htm
+CAD_help.jpg
+HelpTutorialFiles.exe
+
+TextileDesigner.glo
+TextileDesigner.brs
+[ALIAS]
+#include TextileDesigner.ali
+
+[MAP]
+#include BSSCDefault.h
+
+[TEXT POPUPS]
+BSSCDefault.h
+
+[MERGE FILES]
+DesignerBase.chm
+

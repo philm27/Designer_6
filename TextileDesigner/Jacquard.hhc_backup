@@ -1,0 +1,175 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="_parent">
+  <param name="WindowName" value="NewWindow1">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800007">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Welcome">
+    <param name="Local" value="Welcome.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Using Help Files">
+      <param name="Local" value="Using_Help_Files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Printing Help Topics">
+      <param name="Local" value="Printing_Help_Topics.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tutorials">
+    <param name="Local" value="Tutorials_Introduction.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Tutorial 1">
+      <param name="Local" value="Tutorial_1.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Tutorial 2">
+      <param name="Local" value="Tutorial_2.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Tutorial 3">
+      <param name="Local" value="Tutorial_3.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Jacquard Designer Help">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Jacquard Mode">
+      <param name="Local" value="Jacquard_Mode.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selectors">
+      <param name="Local" value="Selectors.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Apply Weaves">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Apply Weaves">
+        <param name="Local" value="Apply_Weaves.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Apply Weaves Simple">
+        <param name="Local" value="Apply_Weaves_Simple.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Schemas - General">
+        <param name="Local" value="Schemas_-_General.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Apply Weaves Composite">
+        <param name="Local" value="Apply_Weaves_Composite.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Weave Edit">
+        <param name="Local" value="Weave_Edit.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Display Composite">
+        <param name="Local" value="Display_Composite.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Large Display">
+        <param name="Local" value="Large_Display.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reset Schema">
+        <param name="Local" value="Reset_Schema.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Warp Threading">
+      <param name="Local" value="Warp_Threading.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Float Check">
+      <param name="Local" value="Float_Check.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Jacquard Preferences">
+      <param name="Local" value="Jacquard_Preferences.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Double Cloths and Treble Cloths">
+      <param name="Local" value="Double_Cloths_and_Treble_Cloths.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Cramming and Extras">
+      <param name="Local" value="Cramming_and_Extras.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="1:2 and 1:3 Ratios">
+      <param name="Local" value="1_2_and_1_3_Ratios.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Composite Weave Generator">
+      <param name="Local" value="Composite_Weave_Generator.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mill Ticket">
+      <param name="Local" value="Mill_Ticket.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Texture">
+      <param name="Local" value="Texture.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Wilton Carpet Design">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Weave Alignment Preference">
+        <param name="Local" value="Weave_Alignment_Preference.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Weave Adjustments">
+        <param name="Local" value="Weave_Adjustments.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Export for Carpet and Pile Fabric Users">
+        <param name="Local" value="Export_for_Carpet_and_Pile_Fabric_Users.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Textile Designer Help">
+  </object>
+  <ul>
+    <object type="text/sitemap">
+      <param name="Name" value="TextileDesigner.chm::/toc.hhc">
+      <param name="Merge" value="TextileDesigner.chm::/toc.hhc">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Export">
+  </object>
+  <ul>
+    <object type="text/sitemap">
+      <param name="Name" value="DesignerExport.chm::/DesignerExport.hhc">
+      <param name="Merge" value="DesignerExport.chm::/DesignerExport.hhc">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Getting in Touch">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Customer Care and Contact Details">
+      <param name="Local" value="CarpetCustomer_Care.htm">
+    </object>
+    </ul>
+</ul>
+</html>

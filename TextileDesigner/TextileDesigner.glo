@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary version="1.0">
+	<glossentry>
+		<glossterm>Backbinding Weaves</glossterm>
+		<glossdef>Backbinding weaves can be used in crammed fabrics in areas where a weft yarn is in the back of the cloth. The face weaves in these areas will be a weft faced weave and the backbinding weaves will be warp faced. The opposite is true when using warp extras, the face weaves are warp faced and the backbinding weaves are weft faced.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Composite</glossterm>
+		<glossdef>A weave is composite if it is the combined weave for more than one level of a multi-level cloth, for a particular motif or area, taking into account the warp weft pairing and the required weave on each level. It may also include one or more stitching points.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Pairing</glossterm>
+		<glossdef>Normally refers to the warp/weft pairing. For example a double cloth schema will have warp colours A and B alternating across the warp, and weft colours A and B alternating in the weft. For any motif or design area, there are 4 pairing options: (1) AA, BB (2) AB, BA (3) BB, AA (4) BA, AB. The first pairing is the upper cloth and the second is the lower cloth. Option (2) for example is warp A, weft B in the upper cloth, warp B weft A in the lower.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Schema</glossterm>
+		<glossdef>The definition of the cloth structure for an artwork colour or for all colours. Definition includes the number of levels and the warp/weft pairing for each level if applicable.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Self Stitching</glossterm>
+		<glossdef>This is normally where stitching is accomplished in a multi-level fabric, without the use of additional warp or weft threads. In a double cloth, a warp from the upper level and a weft from the lower (or vice versa) are made to cross so that they hold the two levels together. The two threads used should obviously not be floating in the face or back of the cloth at the chosen stitching point.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Simple Weave</glossterm>
+		<glossdef>This is not an industry wide definition but within the APSO software it means a basic weave such as plain, twill, sateen, hopsack etc as opposed to a composite weave for multi-level fabrics.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Stitching Point</glossterm>
+		<glossdef>A point at which the levels of a cloth are bound together in order to prevent unsightly pockets forming in the face of the cloth. A schema can use warp stitching, weft stitching or self stitching.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Warp Extras (1)</glossterm>
+		<glossdef>Extra warp threads are sometimes used to create a coloured motif in a design which is otherwise a single cloth. The threads run in the back of the fabric and are hidden, except where they are used in the face. This is exactly the same principal as Weft Cramming but in the warp direction. As cramming is generally much easier from a production point of view, warp extras are rarely used for this purpose.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Warp Extras (2)</glossterm>
+		<glossdef>The term Warp Extras is sometimes used to simply indicate that there is an area of the design where there are more ends per dent than the normal for the design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Warp Stitching</glossterm>
+		<glossdef>This normally indicates a multi-level cloth in which a separate warp beam is used to provide warp threads which, as a separate layer, are used to alternately stitch into the upper and lower layers to bind them together.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Weft Stitching</glossterm>
+		<glossdef>This normally indicates a multi-level cloth in which a separate layer of weft threads are used to alternately stitch into the upper and lower layers to bind them together.</glossdef>
+	</glossentry>
+</glossary>
