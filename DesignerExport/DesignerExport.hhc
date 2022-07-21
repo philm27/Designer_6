@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties framename="_parent" windowname="NewWindow1" imagewidth="16" windowstyles="8388610" exwindowstyles="256">
+	</properties>
+	<item name="Export (Overview)" link="Export_-_Introduction.htm">
+	</item>
+	<item name="Export - Carpet Designer Vs Jacquard Designer" link="Export.htm">
+	</item>
+	<item name="Export - BIN files" link="Export_BIN_files.htm">
+	</item>
+	<item name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+	</item>
+	<item name="Export - Partial Repeats" link="Export_-_Partial_Repeats.htm">
+	</item>
+	<item name="Weave Adjustments" link="Weave_Adjustments.htm">
+	</item>
+	<item name="Export - Format Files" link="Export_-_Format_Files.htm">
+	</item>
+</toc>

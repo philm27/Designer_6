@@ -1,0 +1,260 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+/*begin-old-version{{*/
+
+ /* $MVD$:color("18","5e3951","1","0") */
+ /* $MVD$:color("19","4b34bc","2","0") */
+ /* $MVD$:fontset("Verdana","Verdana") */
+ /* $MVD$:fontset("Arial","Arial") */
+ BODY { font-family : "Verdana";
+        font-size : 9.0pt;
+        background-attachment : fixed;
+        background-color : white;
+        background-image : url("CAD_help.jpg");
+        color : black;}
+ .mvd-BODY { font-family : "Verdana";
+             font-size : 9.0pt;
+             background-attachment : fixed;
+             background-color : white;
+             background-image : url("CAD_help.jpg");
+             color : black;}
+ H1 { font-family : "Verdana";
+      font-weight : normal;
+      font-size : 24.0pt;
+      background-color : #51395E;
+      text-align : center;
+      color : white;
+      border : solid white 0.5pt;}
+ .mvd-H1 { font-family : "Verdana";
+           font-weight : normal;
+           font-size : 24.0pt;
+           background-color : #51395E;
+           text-align : center;
+           color : white;}
+ H2 { font-family : "Verdana";
+      font-weight : normal;
+      font-size : 18.0pt;
+      text-align : center;
+      color : black;}
+ .mvd-H2 { font-family : "Verdana";
+           font-weight : normal;
+           font-size : 18.0pt;
+           text-align : center;
+           color : black;}
+ H3 { font-family : "Arial";
+      font-weight : bold;
+      font-size : 14.0pt;
+      color : black;}
+ .mvd-H3 { font-family : "Arial";
+           font-weight : bold;
+           font-size : 14.0pt;
+           color : black;}
+ H4 { font-family : "Arial";
+      font-weight : bold;
+      font-size : 12.0pt;
+      color : black;}
+ .mvd-H4 { font-family : "Arial";
+           font-weight : bold;
+           font-size : 12.0pt;
+           color : black;}
+ H5 { font-family : "Arial";
+      font-weight : normal;
+      font-size : 12.0pt;
+      color : black;}
+ .mvd-H5 { font-family : "Arial";
+           font-weight : normal;
+           font-size : 12.0pt;
+           color : black;}
+ H6 { font-family : "Arial";
+      font-size : 12.0pt;
+      color : black;}
+ .mvd-H6 { font-family : "Arial";
+           font-size : 12.0pt;
+           color : black;}
+ P { font-family : "Verdana";
+     font-size : 9.0pt;
+     background-attachment : fixed;
+     background-image : none;
+     color : black;}
+ .mvd-P { font-family : "Verdana";
+          font-size : 9.0pt;
+          background-attachment : fixed;
+          background-image : none;
+          color : black;}
+ PRE { font-family : "Courier New";
+       font-size : 12.0pt;
+       color : black;}
+ .mvd-PRE { font-family : "Courier New";
+            font-size : 12.0pt;
+            color : black;}
+ XMP { font-family : "Courier New";
+       font-size : 12.0pt;
+       color : black;}
+ .mvd-XMP { font-family : "Courier New";
+            font-size : 12.0pt;
+            color : black;}
+ LISTING { font-family : "Arial";
+           font-size : 12.0pt;
+           color : black;}
+ .mvd-LISTING { font-family : "Arial";
+                font-size : 12.0pt;
+                color : black;}
+ ADDRESS { font-family : "Arial";
+           font-style : italic;
+           font-size : 12.0pt;
+           color : black;}
+ .mvd-ADDRESS { font-family : "Arial";
+                font-style : italic;
+                font-size : 12.0pt;
+                color : black;}
+ CITE.expandspot { font-style : normal;
+                   color : green;
+                   cursor: hand;}
+ .mvd-CITE-expandspot { font-style : normal;
+                        color : green;
+                        cursor: hand;}
+ DFN.collapsed { font-style : italic;
+                 font-weight : normal;
+                 display :          'none';
+                 color : red;}
+ .mvd-DFN-collapsed { font-style : italic;
+                      font-weight : normal;
+                      display :          'none';
+                      color : red;}
+ DFN.expanded { font-style : italic;
+                font-weight : normal;
+                color : red;}
+ .mvd-DFN-expanded { font-style : italic;
+                     font-weight : normal;
+                     color : red;}
+ EM.dropspot { color : green;
+               cursor: hand;}
+ .mvd-EM-dropspot { color : green;
+                    cursor: hand;}
+ CITE.glossterm { font-style : normal;
+                  color : maroon;
+                  cursor: hand;}
+ .mvd-CITE-glossterm { font-style : normal;
+                       color : maroon;
+                       cursor: hand;}
+ DFN.glosscollapsed { font-style : italic;
+                      font-weight : normal;
+                      display :          'none';
+                      color : blue;}
+ .mvd-DFN-glosscollapsed { font-style : italic;
+                           font-weight : normal;
+                           display :          'none';
+                           color : blue;}
+ DFN.glossexpanded { font-style : italic;
+                     font-weight : normal;
+                     color : blue;}
+ .mvd-DFN-glossexpanded { font-style : italic;
+                          font-weight : normal;
+                          color : blue;}
+ /*}}end-old-version*/
+BODY {
+	font-family: Verdana;
+	font-size: 9.0pt;
+	background-attachment: fixed;
+	background-color: #ffffff;
+	background-image: url(CAD_help.jpg);
+	color: #000000;
+}
+H1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 24.0pt;
+	background-color: #51395E;
+	text-align: center;
+	color: #ffffff;
+	border: solid #ffffff 0.5pt;
+}
+H2 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 18.0pt;
+	text-align: center;
+	color: #000000;
+}
+H3 {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14.0pt;
+	color: #000000;
+}
+H4 {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12.0pt;
+	color: #000000;
+}
+H5 {
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12.0pt;
+	color: #000000;
+}
+H6 {
+	font-family: Arial;
+	font-size: 12.0pt;
+	color: #000000;
+}
+P {
+	font-family: Verdana;
+	font-size: 9.0pt;
+	background-attachment: fixed;
+	background-image: none;
+	color: #000000;
+}
+XMP {
+	font-family: "Courier New";
+	font-size: 12.0pt;
+	color: #000000;
+}
+P.Preformatted {
+	line-height: normal;
+	margin-bottom: 14pt;
+	margin-top: 14pt;
+	x-text-tab-stops: repeat 1in;
+	white-space: nowrap;
+	color: #000000;
+	font-size: 12.0pt;
+	font-family: "Courier New";
+}
+P.Listing {
+	color: #000000;
+	font-size: 12.0pt;
+	font-family: Arial;
+}
+P.Address {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #000000;
+	font-size: 12.0pt;
+	font-style: italic;
+	font-family: Arial;
+}
+A.expandspot {
+	cursor: hand;
+	color: #008000;
+	font-style: normal;
+}
+SPAN.expandtext {
+	color: #ff0000;
+	font-weight: normal;
+	font-style: italic;
+}
+A.dropspot {
+	font-style: italic;
+	cursor: hand;
+	color: #008000;
+}
+A.glossterm {
+	cursor: hand;
+	color: #800000;
+	font-style: normal;
+}
+SPAN.glosstext {
+	color: #0000ff;
+	font-weight: normal;
+	font-style: italic;
+}

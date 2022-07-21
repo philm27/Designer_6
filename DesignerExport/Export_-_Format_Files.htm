@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Export - Format Files</title>
+<link rel="StyleSheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+<h1>Export - Format Files</h1>
+<p>&#160;</p>
+<p style="font-weight: bold;">Introduction</p>
+<p>The Export feature uses format files to control the file content of 
+ the exported patterns.</p>
+<p>These give the software important information such as the number of 
+ frames, the number of holes in the card or &quot;points&quot; in the data 
+ per frame, the number of picks (cards) per design row and the actual positions 
+ of each end and frame in the card as well as a standard weave. Details 
+ of the content of the format file is given below.</p>
+<p>The format file is a simple text file with a .TXT file extension so 
+ that it can be edited easily using Notepad or a similar text editor.</p>
+<p>The initial set of files will normally be supplied by APSO and an example 
+ installation follows:</p>
+<table wrapperparagraphselector="P" style="margin-top: 14pt;" cellspacing="0" 
+		 width="100%">
+	<tr>
+		<td colspan="3" style="vertical-align: TOP; width: 6%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;" 
+			 height="32"><p style="margin-bottom: 0;">C:\Program Files\Common 
+		 Files\Apso\WeaveFormats\</p></td>
+		
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">Staubli Formats\</p></td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">3frame.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">3Frame-TTB-SW.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">3Frame-TTB-TW.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">5frame.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">VDW Formats\</p></td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">12ft-NTTB.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">12ft-TTB-SW.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">12ft-TTB-TW.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">6ft-NTTB.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">6ft-TTB-SW.txt</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 6%; padding-left: 2px; padding-top: 2px; 
+			 padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 21%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;">&#160;</td>
+		<td style="vertical-align: TOP; width: 73%; padding-left: 2px; 
+			 padding-top: 2px; padding-right: 2px; padding-bottom: 2px;"><p 
+			 style="margin-bottom: 0;">6ft-TTB-TW.txt</p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p>The above assumes that the main drive is c: drive. If this is not the 
+ case simply change the drive letter to d: or e: as appropriate.</p>
+<p>If you wish to place these files elsewhere then that is no problem as 
+ the system allows the user to browse to a different directory and remembers 
+ where they are located after they have been used.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Format File Content</span></p>
+<p>The file consists of any number of header lines followed by any number 
+ of detail lines.</p>
+<p>Comments can also be included in any line by using two slashes &quot;//&quot;. 
+ Anything on a line after this is ignored by the system.</p>
+<p>The general form of the file is therefore:</p>
+<p><span style="font-style: italic;">Header1</span></p>
+<p><span style="font-style: italic;">.</span></p>
+<p><span style="font-style: italic;">Header n</span></p>
+<p><span style="font-style: italic;">Detail 1</span></p>
+<p><span style="font-style: italic;">Detail 2</span></p>
+<p><span style="font-style: italic;">.</span></p>
+<p><span style="font-style: italic;">Detail n</span></p>
+<p>&#160;</p>
+<p>Completely blank lines can be inserted anywhere. Lines containing only 
+ a comment are allowed and a comment can be added to the end of any line.</p>
+<p>Tab characters can be used between words or values in order to make 
+ the file more readable.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Header Lines</span></p>
+<p>A header line consists of any number of statements separated by commas. 
+ Each statement has the following form:</p>
+<p><span style="font-style: italic;">Keyword = value</span></p>
+<p>&#160;</p>
+<p>For example:</p>
+<p>SIZE = 1344, FRAMES = 3</p>
+<p>&#160;</p>
+<p>Statements can be in any order and there can be any number of them on 
+ one line.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Keywords</span></p>
+<table wrapperparagraphselector="P" style="border-collapse: separate; margin-top: 14pt; 
+		 border-collapse: separate;" cellspacing="1" width="100%" border="1">
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;" 
+			 bgcolor="#C0C0C0"><p style="text-align: left; margin-bottom: 0;">Keyword</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;" 
+			 bgcolor="#C0C0C0"><p style="text-align: left; margin-bottom: 0;">Value</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;" 
+			 bgcolor="#C0C0C0"><p style="text-align: left; margin-bottom: 0;">Default 
+		 Value</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;" 
+			 bgcolor="#C0C0C0"><p style="text-align: left; margin-bottom: 0;">Description</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">SIZE</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">33 - 9999</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1344</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Card Size. number of holes on card 
+		 or hooks in file</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">SETS</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1 - 8</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Specifies the number of sets required 
+		 across the loom. If a 12 foot wide loom uses Verdol papers and 
+		 each set covers a 2 foot width of carpet then there would be 6 
+		 sets. The software assumes that all sets have the same layout. 
+		 A file will automatically be exported for each set.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">FRAMES</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">2 - 12</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Number of Frames</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">TYPE</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">VERDOL or WEAVE</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">VERDOL</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Specifies card or file type. Only 
+		 VERDOL is supported at present. WEAVE allows a simple file to 
+		 be created mainly for testing purposes. May be omitted.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">CARDSPERROW</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1 or 2</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Specifies number of cards per design 
+		 row.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">HOLESPER</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1 or 2</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Specifies the number of holes per 
+		 yarn i.e. per frame within a dent. 3 position wilton looms normally 
+		 require 2 holes in a card in order to control all 3 shed heights</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">SEL1</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0, 1, 00, 01, 10, or 11</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Specifies the punch pattern for 
+		 a single yarn WHEN SELECTED. If there is only 1 hole per yarn 
+		 then the value must be 0 or 1 (1 being a punched hole). If there 
+		 are 2 holes per yarn this must be 00, 10, 01, or 11. If there 
+		 are two cards per design row this relates only to the first of 
+		 the two cards. These punching pattern keywords (SEL1 UNSEL1 etc) 
+		 are only used by CarpetDesigner and enable it to construct the 
+		 weaves.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">UNSEL1</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0, 1, 00, 01, 10, or 11</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Specifies the punch pattern for 
+		 a single yarn WHEN NOT SELECTED. It must be a 1 or 2 digit number 
+		 as for SEL1 above and is only used by Carpet Designer not by Jacquard 
+		 Designer.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">SEL2</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0, 1, 00, 01, 10, or 11</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">This is used in the same way as 
+		 SEL1 above but applies to the second of the two cards when CARDSPERROW 
+		 is 2.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">UNSEL2</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0, 1, 00, 01, 10, or 11</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">This is used in the same way as 
+		 UNSEL1 above but applies to the second of the two cards when CARDSPERROW 
+		 is 2.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">SEL</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0, 1, 00, 01, 10, or 11</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p>May 
+		 be used instead of SEL1 if only 1 card - see above.</p>
+		<p style="margin-bottom: 0;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">UNSEL</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0, 1, 00, 01, 10, or 11</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">May be used instead of UNSEL1 if 
+		 only 1 card - see above.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">MINCARDS</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0-999</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Minimum number of cards required. 
+		 Additional repeats will be added to the file if the design repeat 
+		 is less than this figure.</p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">HEADER</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">1 - 10</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">0</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Number of header cards to be punched 
+		 (verdol papers only). The First header card contains the design 
+		 name and set A, B, C etc in the centre, with a fully punched edge 
+		 at left and right. The second header card, if punched, contains 
+		 the card count. The third header card onwards, if punched, will 
+		 have every frame selected so that these cards can be made to overlap 
+		 the last few cards and glued to make a card loop. <span style="font-style: italic;">(Verdol 
+		 papers only).</span></p></td>
+	</tr>
+	<tr>
+		<td style="vertical-align: TOP; width: 18%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">CARDNUMBERS</p></td>
+		<td style="vertical-align: TOP; width: 15%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">YES or NO</p></td>
+		<td style="vertical-align: TOP; width: 19%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">NO</p></td>
+		<td style="vertical-align: TOP; width: 48%; padding-left: 1px; 
+			 padding-top: 1px; padding-right: 1px; padding-bottom: 1px;"><p 
+			 style="margin-bottom: 0;">Whether or not to punch card numbers 
+		 into unused space in the card. The software will automatically 
+		 find space for up to 4 digits. A minimum of 3 card columns is 
+		 required for each digit, though the program will use 4 columns 
+		 if available. <span style="font-style: italic;">(Verdol papers 
+		 only).</span></p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Detail Lines</span></p>
+<p>If detail lines are not supplied then the software will assume that 
+ the data is to be written in normal sequence i.e. dent 1 frame 1, dent 
+ 1 frame 2 dent 1 frame 3 etc etc.</p>
+<p>Some looms require that the data is arranged differently particularly 
+ if the output is intended for punching on Verdol papers and the detail 
+ lines allow each pick to be written in any order.</p>
+<p>Detail lines have two possible formats depending on the number of holes 
+ per yarn (HOLESPER value from the header).</p>
+<p>For 1 hole per yarn:</p>
+<p><span style="font-style: italic;">Hole, end, frame // comment</span></p>
+<p>For 2 holes per yarn:</p>
+<p><span style="font-style: italic;">Hole1, hole2, end, frame // comment</span></p>
+<p>In both cases the comment is optional.</p>
+<p>The sequence of the lines does not matter.</p>
+<p>The Hole number (or hook number) for Verdol papers will be in the range 
+ 1 - 1344. Hole 1 being at the top left of the card, hole 2 being the one 
+ below it in the same column. Hole 8 is therefore at the bottom of the 
+ first column and hole 9 at the top of the second column.</p>
+<p>The software will check that a valid amount of data is present i.e. 
+ for any 3 frame loom, the number of detail lines must be a multiple of 
+ 3. Also, each of the 3 frames must be specified once and once only for 
+ each dent. Similarly each hole can only be used once though, of course, 
+ not every hole will be used.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">3 Frame Verdol Paper Example</span></p>
+<p>The Format File for a 3 frame Verdol paper loom might have content as 
+ follows:</p>
+<p>SIZE = 1344, SETS = 6, FRAMES = 3 ,</p>
+<p>HOLESPER = 2, CARDSPERROW = 2,</p>
+<p>SEL1 = 00, SEL2 = 11, // when selected card 1 is 00 card 2 is 11</p>
+<p>UNSEL1 = 00, UNSEL2 = 10 // when NOT selected card 1 is 00 card 2 is 
+ 10</p>
+<p>HEADER = 2, CARDNUMBERS = YES // a 2 card header and do card numbers</p>
+<p>MINCARDS = 48 // minimum cards 48</p>
+<p>&#160;&#160;53, 54, 1, 3// Holes 53 and 54 are end 1 frame 3</p>
+<p>&#160;&#160;57, 58, 1, 2// Holes 57 and 58 are end 1 frame 2</p>
+<p>&#160;&#160;63, 64, 1, 1// Holes 63 and 64 are end 1 frame 1</p>
+<p>&#160;&#160;65, 66, 2, 3// Holes 65 and 66 are end 2 frame 3</p>
+<p>&#160;&#160;67, 68, 3, 3// Holes 67 and 68 are end 3 frame 3</p>
+<p>&#160;&#160;69, 70, 4, 3// Holes 69 and 70 are end 4 frame 3</p>
+<p>&#160;&#160;71, 72, 2, 2// Holes 71 and 72 are end 2 frame 2</p>
+<p>&#160;&#160;73, 74, 3, 2// etc etc</p>
+<p>&#160;&#160;75, 76, 4, 2</p>
+<p>&#160;&#160;77, 78, 2, 1</p>
+<p>&#160;&#160;79, 80, 3, 1</p>
+<p>&#160;&#160;81, 82, 5, 3</p>
+<p>&#160;&#160;83, 84, 6, 3</p>
+<p>&#160;&#160;87, 88, 5, 2</p>
+<p>&#160;&#160;89, 90, 6, 2</p>
+<p>&#160;&#160;91, 92, 4, 1</p>
+<p>&#160;&#160;93, 94, 5, 1</p>
+<p>&#160;&#160;95, 96, 6, 1</p>
+<p>&#160;&#160;97, 98, 7, 3</p>
+<p>&#160;&#160;99, 100, 8, 3</p>
+<p>&#160;101, 102, 7, 2</p>
+<p>&#160;103, 104, 8, 2</p>
+<p>&#160;105, 106, 9, 2</p>
+<p>&#160;</p>
+<p><span style="font-style: italic;">Note not all detail lines shown.</span></p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">5 frame Verdol Paper Example</span></p>
+<p>A 5 frame Verdol paper format might be as follows (1 hole per yarn and 
+ 1 card per row):</p>
+<p>SIZE = 1344, SETS = 6, FRAMES = 5</p>
+<p>HEADER = 2, CARDNUMBERS = YES // a 2 card header and do card numbers</p>
+<p>MINCARDS = 48 // minimum cards 48</p>
+<p>&#160;&#160;66, 1, 5 // Hole 66 is end 1 frame 5</p>
+<p>&#160;&#160;69, 1, 4 // Hole 69 is end 1 frame 4</p>
+<p>&#160;&#160;72, 1, 3 // Hole 72 is end 1 frame 3</p>
+<p>&#160;&#160;75, 1, 2 // Hole 75 is end 1 frame 2</p>
+<p>&#160;&#160;78, 1, 1 // Hole 78 is end 1 frame 1</p>
+<p>&#160;&#160;82, 4, 5 // Hole 82 is end 4 frame 5</p>
+<p>&#160;&#160;83, 3, 5 // Hole 83 is end 3 frame 5</p>
+<p>&#160;&#160;84, 2, 5 // Hole 84 is end 2 frame 5</p>
+<p>&#160;&#160;85, 4, 4 // Hole 85 is end 4 frame 4</p>
+<p>&#160;&#160;86, 3, 4 // Hole 86 is end 3 frame 4</p>
+<p>&#160;&#160;87, 2, 4 // Hole 87 is end 2 frame 4</p>
+<p>&#160;&#160;88, 4, 3 // Hole 88 is end 4 frame 3</p>
+<p>&#160;&#160;89, 3, 3 // Hole 89 is end 3 frame 3</p>
+<p>&#160;&#160;90, 2, 3 // Hole 90 is end 2 frame 3</p>
+<p>&#160;</p>
+<p>Note not all detail lines shown.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Van de Wiele Electronic Jacquard 3 
+ Frame 12ft NTTB example</span></p>
+<p>This file and other formats for the Van De Wiele Looms do not need complicated 
+ &quot;Harness&quot; information as the sequence is normal therefore the 
+ files are much shorter and the whole file is shown here. This format is 
+ for a 12 foot loom at 8 per inch so 144 inches x 8 per inch x 3 frame 
+ = 3456 which gives the size of the format</p>
+<p>SIZE = 3456, FRAMES = 3 , HOLESPER = 1, CARDSPERROW = 2,</p>
+<p>SEL1 = 0, SEL2 = 1, // when selected card 1 is 0 card 2 is 1</p>
+<p>UNSEL1 = 0, UNSEL2 = 0 // when NOT selected card 1 is 0 card 2 is 0</p>
+<p>// No need for Harness info as sequence is normal straight i.e. hook 
+ 1 is end 1 frame</p>
+<p>// 1 hook 2 is end 1 frame 2 etc etc</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Van de Wiele Electronic Jacquard 3 
+ Frame 12ft TTB - SW example</span></p>
+<p>Again, there is no need for detail records and the whole file is shown 
+ here. In fact, since the weaves are identical to those for NTTB, this 
+ file is the same as that for the 12 ft NTTB above.</p>
+<p>SIZE = 3456, FRAMES = 3 , HOLESPER = 1, CARDSPERROW = 2,</p>
+<p>SEL1 = 0, SEL2 = 1, // when selected card 1 is 0 card 2 is 1</p>
+<p>UNSEL1 = 0, UNSEL2 = 0 // when NOT selected card 1 is 0 card 2 is 0</p>
+<p>// No need for Harness info as sequence is normal straight</p>
+<p>// i.e. hook 1 is end 1 frame 1 hook 2 is end 1 frame 2 etc etc</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">VDW Electronic Jacquard 3 Frame 12ft 
+ TTB - TW example</span></p>
+<p>As above, this file is quite short and the whole file is shown here. 
+ The only difference between this file and the previous ones is that the 
+ standard weave is different. The selected yarn is the same but when not 
+ selected the first pick is a lift and the second is a drop.</p>
+<p>SIZE = 3456, FRAMES = 3, HOLESPER = 1, CARDSPERROW = 2,</p>
+<p>SEL1 = 0, SEL2 = 1, // when selected card 1 is 0 card 2 is 1</p>
+<p>UNSEL1 = 1, UNSEL2 = 0 // when NOT selected card 1 is 1 card 2 is 0</p>
+<p>// NO need for Harness info as sequence is normal straight</p>
+<p>// i.e. hook 1 is end 1 frame 1 hook 2 is end 1 frame 2 etc etc</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Van de Wiele Electronic Jacquard 3 
+ Frame 6ft NTTB example</span></p>
+<p>This file is identical to the 12 foot Van de Wiele NTTB version above 
+ except that the size is different</p>
+<p>SIZE = 1728, FRAMES = 3 , HOLESPER = 1, CARDSPERROW = 2,</p>
+<p>SEL1 = 0, SEL2 = 1, // when selected card 1 is 0 card 2 is 1</p>
+<p>UNSEL1 = 0, UNSEL2 = 0 // when NOT selected card 1 is 0 card 2 is 0</p>
+<p>// No need for Harness info as sequence is normal straight i.e. hook 
+ 1 is end 1 frame</p>
+<p>// 1 hook 2 is end 1 frame 2 etc etc</p>
+<p>&#160;</p>
+<p style="margin-bottom: 0;">&#160;</p>
+</body>
+</html>

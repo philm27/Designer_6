@@ -1,0 +1,104 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\DesignerExport.htm
+SSLayoutType=32
+ServerProjectName=DesignerExport
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\DesignerExport.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\DesignerExport.chm
+SSLayoutType=1
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+Enable Result Dialog=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\DesignerExport.chm
+ResultStatus=0
+BuildTimeHi=30715350
+BuildTimeLow=-132081636
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\DesignerExport.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\DesignerExport.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\DesignerExport.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\DesignerExport.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\DesignerExport.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\DesignerExport.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\DesignerExport.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\DesignerExport.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\DesignerExport.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[PreSingleSource]
+Html Help Project=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.hhp
+Table Of Content=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.hhc
+Index=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.hhk
+Topic Index=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\RHTopicKeyword$.hhk
+See Also Index=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.hha
+Browse Sequence=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.brs
+Glossary=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.glo
+Topic Properties=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trs
+Active Folders=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trf
+Baggage Files=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trb
+Skin List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trk
+Active Layout Names=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trl
+Template Files=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trt
+Project TOC List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trtocl
+Project Index List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.tridxl
+Project Glossary List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trglol
+Project CSS List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trcss
+Project Variable Set List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.trvset
+External URL Settings=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\SearchOptions.xml
+Screen Template File Details=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\DesignerExport.sctfdl
+CPSwfToHTML5Map=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\__cpSwf2HTML5ZipMap
+Default Topic=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\Export_-_Introduction.htm
+Build Tags0=130;
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\!Language!\en_US\RoboHHRE.lng
+Stop List=C:\WORK\APSO\RoboHelp 2017 Projects\Designer Export_6.1\!Language!\en_US\DesignerExport.stp

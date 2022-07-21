@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0">
+	<properties framename="_parent" windowname="NewWindow1">
+	</properties>
+	<item name="Zero Colour">
+		<section name="Export - Carpet Designer Vs Jacquard Designer" link="Export.htm">
+		</section>
+		<section name="Export - Overview#Zero_Colour" link="Export_-_Introduction.htm#Zero_Colour">
+		</section>
+	</item>
+	<item name="To Card Numbers">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="To Set Number">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="Partial Repeats">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Save BIN Files">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="Selected Sets">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="NOT TTB">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="Reverse Sequence">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Txt file">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="TTB">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="Selected Cards">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="VERDOL">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="VDW Formats">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="SETS">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="UNSEL1">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="SIZE">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="UNSEL2">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="SEL">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="NTTB">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="Notepad">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Wilton">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="VDW Electronic Jacquard">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Jacquard Designer">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+		<section name="Export - Carpet Designer Vs Jacquard Designer" link="Export.htm">
+		</section>
+	</item>
+	<item name="SEL1">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="TYPE">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="SEL2">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Verdol Paper Example">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Van De Wiele Looms">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="UNSEL">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="MINCARDS">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Staubli Formats">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="SEL1 UNSEL1">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Need">
+		<item name="Harness">
+			<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+			</section>
+		</item>
+	</item>
+	<item name="WEAVE">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Textile Designer">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Verdol Papers">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Format file">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+		<section name="Export - Carpet Designer Vs Jacquard Designer" link="Export.htm">
+		</section>
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Punch Code">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Selected Range">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Van De Wiele Files">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Zone Back">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+		<item name="Cutting">
+			<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Weave Adjustments">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="Zone Front">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+		<item name="Cutting">
+			<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Van De Wiele">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Isolated Tuft">
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="TTB-TW Adjustments">
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="Adjustment">
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Weave Adjustments dialog">
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+	<item name="Partial Repeats Dialog">
+		<section name="Export - Partial Repeats" link="Export_-_Partial_Repeats.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Carpet Designer Vs Jacquard Designer">
+		<section name="Export - Carpet Designer Vs Jacquard Designer" link="Export.htm">
+		</section>
+	</item>
+	<item name="BIN file">
+		<section name="Export - Carpet Designer Vs Jacquard Designer" link="Export.htm">
+		</section>
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Export Dialog">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Disk Full Situation">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Carpet Designer">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="3frame format">
+		<section name="Export - BIN files" link="Export_BIN_files.htm">
+		</section>
+	</item>
+	<item name="HOLESPER">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Header Lines">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="CARDSPERROW">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="6ft-NTTB.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="3frame.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Harness">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Detail Lines">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="12ft-NTTB.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="3Frame-TTB-TW.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="3Frame-TTB-SW.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Centre">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="HEADER">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Card Size">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="12ft-TTB-TW.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="6ft-TTB-TW.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="12ft-TTB-SW.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="CARDNUMBERS">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="6ft-TTB-SW.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="5frame.txt">
+		<section name="Export - Format Files" link="Export_-_Format_Files.htm">
+		</section>
+	</item>
+	<item name="Features - General">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Header Cards">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Minimum Cards">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="EP">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Auto-Repeat">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Cards">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Brick">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Card Set">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Card Numbers">
+		<section name="Export - Introduction" link="Export_-_Introduction.htm">
+		</section>
+	</item>
+	<item name="Save EP Files">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="EP file">
+		<section name="Export - Van De Wiele Files" link="Export_-_Van_De_Wiele_Files.htm">
+		</section>
+	</item>
+	<item name="Colour">
+		<section name="Weave Adjustments" link="Weave_Adjustments.htm">
+		</section>
+	</item>
+</index>

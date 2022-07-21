@@ -1,0 +1,44 @@
+﻿[OPTIONS]
+Compiled File=DesignerExport.chm
+Title=Export
+Contents File=DesignerExport.hhc
+Index File=DesignerExport.hhk
+Default topic=Export_-_Introduction.htm
+Default Window=NewWindow1
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced decompilation=No
+Binary TOC=Yes
+Flat=No
+LANG_ID=0
+LANG_NAME=English (US)
+
+[WINDOWS]
+NewWindow1="New Window Caption","DesignerExport.hhc","DesignerExport.hhk","","",,,,,0x420,0,0x3006,[5,5,512,384],0x0,0x0,,0,0,0
+
+[FILES]
+Export_-_Van_De_Wiele_Files.htm
+Export_BIN_files.htm
+Export_-_Format_Files.htm
+Export.htm
+Weave_Adjustments.htm
+Export_-_Introduction.htm
+Export_-_Partial_Repeats.htm
+CAD_help.jpg
+
+DesignerExport.glo
+DesignerExport.brs
+[ALIAS]
+#include DesignerExport.ali
+
+[MAP]
+#include BSSCDefault.h
+
+[TEXT POPUPS]
+BSSCDefault.h
+
+
