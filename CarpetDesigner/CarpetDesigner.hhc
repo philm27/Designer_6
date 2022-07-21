@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties windowname="NewWindow1" imagewidth="16" windowstyles="8388615" exwindowstyles="256">
+	</properties>
+	<item name="Welcome" link="Welcome.htm">
+		<item name="Using Help Files" link="Using_Help_Files.htm">
+		</item>
+		<item name="Printing Help Topics" link="Printing_Help_Topics.htm">
+		</item>
+	</item>
+	<item name="Tutorials Introduction" link="Tutorials_Introduction.htm">
+		<item name="Tutorial 1" link="Tutorial_1.htm">
+		</item>
+		<item name="Tutorial 2" link="Tutorial_2.htm">
+			<item name="Specification and Palette" link="Tutorial_2.htm#Specification_and_Palette">
+			</item>
+			<item name="Field Design" link="Tutorial_2.htm#Field_Design">
+			</item>
+			<item name="Drawing the Medallion" link="Tutorial_2.htm#Drawing_the_Medallion">
+			</item>
+			<item name="Alternative Repeat Size" link="Tutorial_2.htm#Alternative_Repeat_Size">
+			</item>
+			<item name="Save Project" link="Tutorial_2.htm#Save_Project">
+			</item>
+		</item>
+		<item name="Tutorial 3" link="Tutorial_3.htm">
+			<item name="Border Design" link="Tutorial_3.htm#Border_Design">
+			</item>
+			<item name="Rug Design" link="Tutorial_3.htm#Rug_Design">
+			</item>
+			<item name="Complete Rug" link="Tutorial_3.htm#Complete_Rug">
+			</item>
+			<item name="Insert Medallion" link="Tutorial_3.htm#Insert_Medallion">
+			</item>
+		</item>
+	</item>
+	<item name="Design Basics">
+		<item name="DesignerBase.chm::/DesignerBase.hhc" merge="DesignerBase.chm::/DesignerBase.hhc">
+		</item>
+	</item>
+	<item name="Frame Plans">
+		<item name="Frame Plans Introduction" link="Frame_Plans_Introduction.htm">
+		</item>
+		<item name="Creating a Frame Plan" link="CarpetCreating_an_Initial_Frame_Plan.htm">
+		</item>
+		<item name="Custom Planting Configuration" link="Frames_Custom_Config.htm">
+		</item>
+		<item name="Frames Preferences" link="Frames.htm">
+		</item>
+		<item name="Checking for Errors" link="Checking_for_Errors.htm">
+		</item>
+		<item name="Choosing Frame Height" link="CarpetChoosing_a_Frame_Height_On_Scree.htm">
+		</item>
+		<item name="Frame Edit" link="Frame_Edit.htm">
+		</item>
+		<item name="Frame Plan Status Bar Information" link="Frame_Plan_Status_Bar_Information.htm">
+		</item>
+		<item name="Locking Frames" link="Locking_Frames.htm">
+		</item>
+		<item name="Loading Frames" link="Loading_Frames.htm">
+		</item>
+		<item name="Modifying Frame Information" link="CarpetModifying_Frame_Information.htm">
+		</item>
+		<item name="Saving Plant Guides as IFF Files" link="CarpetSaving_Plant_Guides_as_IFF_Files.htm">
+		</item>
+		<item name="Saving the Frame Plan" link="CarpetSaving_the_Plan_with_the_Design.htm">
+		</item>
+		<item name="Sorting Frames by usage" link="CarpetSorting_Frames_by_percentage_usa.htm">
+		</item>
+		<item name="Swapping Color Placement Within the Plan" link="CarpetSwapping_Colour_Placement_Within.htm">
+		</item>
+		<item name="Convert Design to Frame Numbers" link="Convert_Design_to_Frame_Numbers.htm">
+		</item>
+	</item>
+	<item name="Peg Sections">
+		<item name="Creating a Peg Section" link="CarpetCreating_a_Peg_Section.htm">
+		</item>
+		<item name="Peg Section Preferences" link="Pegboard.htm">
+		</item>
+	</item>
+	<item name="Export">
+		<item name="DesignerExport.chm::/DesignerExport.hhc" merge="DesignerExport.chm::/DesignerExport.hhc">
+		</item>
+	</item>
+	<item name="Getting in Touch">
+		<item name="Customer Care" link="CarpetCustomer_Care.htm">
+		</item>
+	</item>
+</toc>

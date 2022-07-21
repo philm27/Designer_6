@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<files>
+		<file>
+			<name>CAD_help.jpg</name>
+			<usercreated>true</usercreated>
+			<comments/>
+		</file>
+		<file>
+			<name>DesignerBase.chm</name>
+			<usercreated>false</usercreated>
+			<comments/>
+		</file>
+		<file>
+			<name>DesignerExport.chm</name>
+			<usercreated>false</usercreated>
+			<comments/>
+		</file>
+	</files>
+</rhpml>

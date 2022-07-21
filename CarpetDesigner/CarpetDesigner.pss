@@ -1,0 +1,109 @@
+﻿[MAS SUPPORT]
+SupportMas_Prj=1
+[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\CarpetDesigner.htm
+SSLayoutType=32
+ServerProjectName=CarpetDesigner
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\CarpetDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\CarpetDesigner.chm
+SSLayoutType=1
+CreateProjectTime=20:33, June 15, 2022
+CreateProjectUser=philm4
+SupportMas_MPJ=1
+Enable Result Dialog=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\CarpetDesigner.chm
+ResultStatus=0
+BuildTimeHi=30965998
+BuildTimeLow=-948349471
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\CarpetDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\CarpetDesigner.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\CarpetDesigner.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\CarpetDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\CarpetDesigner.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\CarpetDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\CarpetDesigner.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\CarpetDesigner.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\CarpetDesigner.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[PreSingleSource]
+Html Help Project=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.hhp
+Table Of Content=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.hhc
+Index=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.hhk
+Topic Index=C:\Apso_CAD\Help\CarpetDesigner_6.1\RHTopicKeyword$.hhk
+See Also Index=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.hha
+Browse Sequence=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.brs
+Glossary=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.glo
+Topic Properties=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trs
+Active Folders=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trf
+Baggage Files=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trb
+Skin List=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trk
+Active Layout Names=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trl
+Template Files=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trt
+Project TOC List=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trtocl
+Project Index List=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.tridxl
+Project Glossary List=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trglol
+Project CSS List=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trcss
+Project Variable Set List=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.trvset
+External URL Settings=C:\Apso_CAD\Help\CarpetDesigner_6.1\SearchOptions.xml
+Screen Template File Details=C:\Apso_CAD\Help\CarpetDesigner_6.1\CarpetDesigner.sctfdl
+CPSwfToHTML5Map=C:\Apso_CAD\Help\CarpetDesigner_6.1\__cpSwf2HTML5ZipMap
+Default Topic=C:\Apso_CAD\Help\CarpetDesigner_6.1\Welcome.htm
+Build Tags0=17605;
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=C:\Apso_CAD\Help\CarpetDesigner_6.1\!Language!\en_US\RoboHHRE.lng
+Stop List=C:\Apso_CAD\Help\CarpetDesigner_6.1\!Language!\en_US\CarpetDesigner.stp
+[Layout Settings]
+MRULayoutCount=1
+MRULayout0=Microsoft HTML Help]06/26/17]0

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-status" content="In Progress" />
+<meta name="topic-priority" content="0" />
+<meta name="topic-time-estimate" content="0" />
+<meta name="topic-comment" content="" />
+<meta name="topic-id" content="" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Checking for Errors</title>
+<link rel="StyleSheet" href="carpet.css" type="text/css" />
+</head>
+
+<body>
+<h1>Checking for Frame Plan Errors</h1>
+<p>&#160;</p>
+<p>The procedure for checking for errors really depends on the setting 
+ of the Automatic Refresh flag. If you have set this flag then the frame 
+ plan is updated automatically every time you edit the design. If it is 
+ not then you must correct any errors manually.</p>
+<p><span style="font-weight: normal;">Errors are colours missing from a 
+ frame plan in a particular end. The software will not report an error 
+ if a colour is not in the correct frame according to the custom planting 
+ dialog or the specified frame order.</span></p>
+<p><span style="font-weight: normal;">If a frame plan is locked, then errors 
+ are not automatically corrected regardless of the preference setting.</span></p>
+<p><span style="font-weight: bold;">Quick Check<a name="Quick_Check" id="Quick_Check"></a></span></p>
+<p><span style="font-weight: normal;">The easiest and quickest way of checking 
+ the frame plan is to select the menu item Frames-&gt;Check. This will 
+ display a message indicating whether there are any errors or not. If the 
+ Frame plan is not currently being viewed, it will be switched into view 
+ mode.</span></p>
+<p><span style="font-weight: normal;">An error will be reported if any 
+ of the following are true:</span></p>
+<ul>
+	<li class="p"><p><span style="font-weight: normal;">There are colours 
+	 in error frames.</span></p></li>
+	<li class="p"><p><span style="font-weight: normal;">One or more ends 
+	 in the design contains a colour which is not present in the corresponding 
+	 end in the frame plan.</span></p></li>
+</ul>
+<p><span style="font-weight: normal;">If a colour is present in a position 
+ which is not actually required, this will not be reported as an error. 
+ This means that you can have a single frame plan which is used by several 
+ designs. The frame plan can be loaded (see the topic <a href="Loading_Frames.htm">Loading 
+ Frames</a> and <a href="Locking_Frames.htm">Locking Frames</a>) and checked 
+ against each design.</span></p>
+<p>Although you can check frames visually (see below) it is worth getting 
+ into the habit of doing this check as described here before saving a design 
+ as a confirmation that the frame plan is correct.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Visual Check<a name="Visual_Check" 
+													 id="Visual_Check"></a></span></p>
+<p>If you have created a frame plan or if you have selected the Automatic 
+ refresh option and the Frame plan is Unlocked, then the frame plan will 
+ have been updated each time a design edit is done and so you can check 
+ visually for error frames at any time.</p>
+<p style="text-align: center;"><img src="Checking_Errors2.gif" alt="" style="margin-top: 0px; 
+									 margin-bottom: 0px; margin-left: 0px; 
+									 margin-right: 0px;" width="288" height="225" 
+									 border="0" /></p>
+<p style="text-align: center;"><span style="font-style: italic; font-size: 8.0pt;">Example 
+ of a section of a frame plan showing error frames (outlined in red). Since 
+ the 8 actual frames are full, the red and pink colours must be removed 
+ from the design in this area as they cannot be planted. Alternatively 
+ of course, other colours could be removed from the design to make space 
+ for the red and pink.</span></p>
+<p>Error frames<a name="Error_frames" id="Error_frames"></a> indicate where 
+ a colour is used in the design in an end but is not yet placed into a 
+ frame. Error frames will always contain 1 colour per &quot;frame&quot;. 
+ If you see 3 error frames then there are 3 colours for which errors exist.</p>
+<p>&#160;</p>
+<p><span style="font-weight: bold;">Locked Frame Plan Checks<a name="Locked_Frame_Plan_Checks" 
+	 id="Locked_Frame_Plan_Checks"></a></span></p>
+<p>Select Frames-&gt;Frame Locking-&gt;Lock Frames in order to prevent 
+ the software automatically updating the frame plan and to enable the following 
+ two options.</p>
+<ul>
+	<li class="p"><p><span style="font-weight: bold;">Show Design Errors<a 
+	 name="Show_Design_Errors" id="Show_Design_Errors"></a></span> - Select 
+	 this option to mark all points in the design where a colour is used 
+	 that is not present in the frame plan. This may be switched on and 
+	 off using the same menu item. The mark consists of diagonal yellow 
+	 lines, similar to the protected areas display.</p></li>
+	<li class="p"><p><span style="font-weight: bold;">Show Unused Frames<a 
+	 name="Show_Unused_Frames" id="Show_Unused_Frames"></a> -</span> <span 
+	 style="font-weight: normal;">Select this option to mark points in 
+	 the frame plan at which a colour has been placed but which is not 
+	 actually required for this design. (Each &quot;point&quot; in the 
+	 frame plan represents a peg; or the bobbin colour if present). Again, 
+	 an unused bobbin will be marked by diagonal yellow lines. This feature 
+	 may be switched off by selecting the same menu item.</span></p></li>
+</ul>
+<p style="text-align: center;"><span style="font-weight: normal;"><img 
+	 src="Checking_Errors1.gif" alt="" style="border-width: 1px; border-style: solid; 
+	 margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;" 
+	 width="402" height="233" border="1" /></span></p>
+<p style="text-align: center;"><span style="font-style: italic; font-weight: normal; 
+									 font-size: 8.0pt;">Example of the 
+ &quot;Show Design Errors&quot; and &quot;Show Unused Frames&quot; options. 
+ Note the 3 marked points in the frame plan indicating unused bobbins and 
+ the marked area in the design which does not have corresponding blue bobbins 
+ in the frame plan.</span></p>
+<p style="text-align: left;">Note that you can easily move forwards and 
+ backwards through the design errors by pressing * and / on the numeric 
+ keypad. The software will bring each design point in error to the centre 
+ of the design window going down each end presenting each separate block 
+ of errors in turn and working from left to right. This is particularly 
+ helpful if there are just one or two small errors in a large design, as 
+ it is not easy to see the errors otherwise.</p>
+<p style="margin-bottom: 0;">Remove errors by normal design changes or 
+ by editing the frame plan (see the topic <a href="Frame_Edit.htm">Frame 
+ Edit</a>).</p>
+</body>
+</html>

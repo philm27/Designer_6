@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<keywords>
+		<keyword>
+			<name>Frame plan Create</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Smart Plant</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Planting None</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Nominated Plant Frame</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Frames Required</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Frames on Loom</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Frame Order</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Custom Plant</name>
+			<keywords/>
+		</keyword>
+		<keyword>
+			<name>Cross Planting</name>
+			<keywords/>
+		</keyword>
+	</keywords>
+</rhpml>

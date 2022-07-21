@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary version="1.0">
+	<glossentry>
+		<glossterm>Creel</glossterm>
+		<glossdef>A conventional creel is one or more metal frames at the rear of the loom on which are a large number of pegs, each peg corresponding to a point in the frame plan. In a typical 8 frame 12 foot width axminster there might be 1008 pegs for each of the 8 frames making 8064 bobbins in all when full, (for a 12 foot loom at 7 per inch).</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Cross plant</glossterm>
+		<glossdef>A cross planted design is one in which one or more colours occur in more than one frame. For example, a 6 colour, 5 frame design might have 3 solid frames and 2 further frames in which 2 colours out of the remaining 3 are used in each end with each combination being used at least once over the width of the design. This would require that at least one colour is planted into the 4th AND 5th frames.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>End</glossterm>
+		<glossdef>An end is a vertical column in the design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Frame Plan</glossterm>
+		<glossdef>A frame plan is a diagram in which each point represents a bobbin on a creel at the rear of the loom. The frame plan is normally only produced for one repeat width. For a typical Axminster repeat width of 3 feet at 7 per inch, the frame plan would be 252 wide and 8 high with the top row being frame 1.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Pitch</glossterm>
+		<glossdef>Pitch is width element of the quality and is normally expressed as the number of ends per inch for example 7 pitch would be 7 ends per inch. Some mills may use other conventions like the number of ends in 27 inches so 7 ends per inch would be 189 pitch in that case.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Planting</glossterm>
+		<glossdef>This is the normal term for the process of placing more than one colour in a frame in an Axminster or Wilton or Pile Fabric design.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Row</glossterm>
+		<glossdef>A row is a horizontal row of points in the design</glossdef>
+	</glossentry>
+</glossary>

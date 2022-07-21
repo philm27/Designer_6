@@ -1,0 +1,82 @@
+﻿[OPTIONS]
+Compiled File=CarpetDesigner.chm
+Title=Carpet Designer
+Contents File=CarpetDesigner.hhc
+Index File=CarpetDesigner.hhk
+Default topic=Welcome.htm
+Default Window=NewWindow1
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced decompilation=No
+Binary TOC=No
+Flat=No
+LANG_ID=0
+LANG_NAME=English (US)
+Custom tab="&Glossary", HHActiveX.GlossaryPane
+
+[WINDOWS]
+NewWindow1="Carpet Designer Help","CarpetDesigner.hhc","CarpetDesigner.hhk","","",,,,,0x81520,0,0x300e,[87,63,923,690],0x0,0x0,,0,0,0,[Glossary,HHActiveX.GlossaryPane]
+
+[FILES]
+Status_Bar.htm
+CarpetNominated_Plant_Frame.htm
+Pegboard.htm
+Convert_Design_to_Frame_Numbers.htm
+CarpetSaving_Plant_Guides_as_IFF_Files.htm
+Tutorials_Introduction.htm
+CarpetFrames_on_Loom.htm
+Frame_Edit.htm
+ToolBar.htm
+CarpetCreating_an_Initial_Frame_Plan.htm
+Link_Example.htm
+CarpetCreating_a_Peg_Section.htm
+CarpetModifying_Frame_Information.htm
+Palette_Order.htm
+Printing_Help_Topics.htm
+CarpetChoosing_a_Frame_Height_On_Scree.htm
+Menu_Bar.htm
+Frame_Plans_Introduction.htm
+Usage_Order.htm
+Tutorial_3.htm
+CarpetSwapping_Colour_Placement_Within.htm
+Frames_Custom_Config.htm
+Loading_Frames.htm
+Using_Help_Files.htm
+Checking_for_Errors.htm
+CarpetSmart_Plant.htm
+Working_Area.htm
+CarpetSorting_Frames_by_percentage_usa.htm
+Tutorial_2.htm
+Planting__-_None.htm
+Locking_Frames.htm
+Shelf.htm
+Welcome.htm
+Frames.htm
+Tool_Box.htm
+CarpetCustomer_Care.htm
+New_Topic.htm
+CarpetSaving_the_Plan_with_the_Design.htm
+Tutorial_1.htm
+Frame_Information.htm
+Frame_Plan_Status_Bar_Information.htm
+CAD_help.jpg
+
+CarpetDesigner.glo
+CarpetDesigner.brs
+[ALIAS]
+#include CarpetDesigner.ali
+
+[MAP]
+#include BSSCDefault.h
+
+[TEXT POPUPS]
+BSSCDefault.h
+
+[MERGE FILES]
+DesignerBase.chm
+DesignerExport.chm
+
