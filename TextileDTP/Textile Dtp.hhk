@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0">
+	<properties framename="left" font="Verdana,8">
+	</properties>
+	<item name="Colorway">
+		<section name="Shade Library Range Page" link="Shade_Library_Range_Page.htm">
+		</section>
+	</item>
+	<item name="Copy and Paste">
+		<section name="Paste Design Object" link="Paste_Design_Object.htm">
+		</section>
+	</item>
+	<item name="Paste">
+		<section name="Cut, Copy Paste" link="Cut,_Copy_Paste.htm">
+		</section>
+	</item>
+	<item name="Copy">
+		<section name="Cut, Copy Paste" link="Cut,_Copy_Paste.htm">
+		</section>
+	</item>
+	<item name="Cut Copy Paste">
+		<section name="Cut, Copy Paste" link="Cut,_Copy_Paste.htm">
+		</section>
+	</item>
+	<item name="copy layout">
+		<section name="Cloning Layout" link="Cloning_Layout.htm">
+		</section>
+	</item>
+	<item name="Cloning Layout">
+		<section name="Cloning Layout" link="Cloning_Layout.htm">
+		</section>
+	</item>
+	<item name="Cloth Image">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Texture">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Designer Text">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="General Text">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Source Text">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="HQ Texture">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Dobby Designer">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Jacquard Designer">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Extra Print Options">
+		<section name="Extra Print Options" link="Extra_Print_Options.htm">
+		</section>
+	</item>
+	<item name="Maximum Undo History">
+		<section name="Undo" link="Undo.htm">
+		</section>
+	</item>
+	<item name="Color and Frame Numbers">
+		<section name="Grids" link="Grids.htm">
+		</section>
+	</item>
+	<item name="Page Printing Method">
+		<section name="General" link="General.htm">
+		</section>
+	</item>
+	<item name="Page Number">
+		<section name="General" link="General.htm">
+		</section>
+	</item>
+	<item name="Page Print Order">
+		<section name="General" link="General.htm">
+		</section>
+	</item>
+	<item name="Background Color">
+		<section name="General" link="General.htm">
+		</section>
+	</item>
+	<item name="Preferences">
+		<section name="General" link="General.htm">
+		</section>
+	</item>
+	<item name="Shade Library">
+		<section name="Shade Library Introduction" link="Shade_Library_Introduction.htm">
+		</section>
+		<item name="Introduction">
+			<section name="Shade Library Introduction" link="Shade_Library_Introduction.htm">
+			</section>
+		</item>
+		<item name="Color Tab">
+			<section name="Shade Library Color Page" link="Shade_Library_Color_Page.htm">
+			</section>
+		</item>
+		<item name="Range Tab">
+			<section name="Shade Library Range Page" link="Shade_Library_Range_Page.htm">
+			</section>
+		</item>
+		<item name="Options">
+			<section name="Shade Library Color Page#Options" link="Shade_Library_Color_Page.htm#Options">
+			</section>
+		</item>
+		<item name="Design Color Properties">
+			<section name="Design Color Properties" link="Design_Color_Properties.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Warp and Weft">
+		<section name="Palette Blocks in Jacquard" link="Palette_Blocks_in_Jacquard.htm">
+		</section>
+	</item>
+	<item name="Paste Design Object">
+		<section name="Paste Design Object" link="Paste_Design_Object.htm">
+		</section>
+	</item>
+	<item name="drag points">
+		<section name="Make Same Width or Height" link="Make_Same_Width_or_Height.htm">
+		</section>
+	</item>
+	<item name="Make Same Height">
+		<section name="Make Same Width or Height" link="Make_Same_Width_or_Height.htm">
+		</section>
+	</item>
+	<item name="Make Same Width">
+		<section name="Make Same Width or Height" link="Make_Same_Width_or_Height.htm">
+		</section>
+	</item>
+	<item name="Pop-up menu">
+		<section name="Using the Drop-Down Menus" link="PreshelpUsing_the_DropDown_Menus.htm">
+		</section>
+	</item>
+	<item name="Menus">
+		<section name="Using the Drop-Down Menus" link="PreshelpUsing_the_DropDown_Menus.htm">
+		</section>
+	</item>
+	<item name="History List">
+		<section name="Import from History List" link="Import_from_History_List.htm">
+		</section>
+	</item>
+	<item name="Import from Arc">
+		<section name="Import from Arc" link="Import_from_Arc.htm">
+		</section>
+	</item>
+	<item name="Import from History List">
+		<section name="Import from History List" link="Import_from_History_List.htm">
+		</section>
+	</item>
+	<item name="Abort Print">
+		<section name="Abort Print" link="PreshelpAbort_Print.htm">
+		</section>
+	</item>
+	<item name="Aborting a Print">
+		<section name="Aborting a Print" link="PreshelpAborting_a_Print.htm">
+		</section>
+	</item>
+	<item name="Accept Changes">
+		<section name="Accept Changes" link="PreshelpAccept_Changes.htm">
+		</section>
+	</item>
+	<item name="Adding Printers">
+		<section name="Adding Printers" link="PreshelpSelecting_a_Printer.htm">
+		</section>
+	</item>
+	<item name="Adjusting the Color Palette">
+		<section name="Adjusting the Colour Palette" link="PreshelpAdjusting_the_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Adjusting the Quality">
+		<section name="Adjusting the Quality" link="PreshelpAdjusting_the_Quality.htm">
+		</section>
+	</item>
+	<item name="Advanced">
+		<section name="Advanced" link="PreshelpAdvanced.htm">
+		</section>
+	</item>
+	<item name="Align Left">
+		<section name="Align Left" link="PreshelpAlign_Left.htm">
+		</section>
+	</item>
+	<item name="Align Right">
+		<section name="Align Right" link="PreshelpAlign_Right.htm">
+		</section>
+	</item>
+	<item name="Align to Bottom">
+		<section name="Align to Bottom" link="PreshelpAlign_to_Bottom.htm">
+		</section>
+	</item>
+	<item name="Align to Horizontal Centre">
+		<section name="Align to Horizontal Centre" link="PreshelpAlign_to_Horizontal_Centre.htm">
+		</section>
+	</item>
+	<item name="Align to Top">
+		<section name="Align to Top" link="PreshelpAlign_to_Top.htm">
+		</section>
+	</item>
+	<item name="Align to Vertical Centre">
+		<section name="Align to Vertical Centre" link="PreshelpAlign_to_Vertical_Centre.htm">
+		</section>
+	</item>
+	<item name="Aligning Objects">
+		<section name="Aligning Objects" link="PreshelpAligning_Objects.htm">
+		</section>
+	</item>
+	<item name="Apply">
+		<section name="Apply" link="PreshelpApply.htm">
+		</section>
+	</item>
+	<item name="Apply Changes Across All Projects">
+		<section name="Apply Changes Across All Projects" link="PreshelpApply_Changes_Across_All_Project.htm">
+		</section>
+	</item>
+	<item name="Apply Palette">
+		<section name="Apply Palette" link="PreshelpApply_Palette.htm">
+		</section>
+	</item>
+	<item name="Apso Presentation Designer Help Files">
+		<section name="Apso Presentation Designer Help Files" link="PreshelpApso_Presentation_Designer_Help_.htm">
+		</section>
+	</item>
+	<item name="Bitmap Save">
+		<section name="Bitmap Save" link="PreshelpSaving_Layouts_as_Bitmaps.htm">
+		</section>
+	</item>
+	<item name="Bobbin Count (Carpet Designer only)">
+		<section name="Bobbin Count (Carpet Designer only)" link="PreshelpBobbin_Count_Carpet_Designer_onl.htm">
+		</section>
+	</item>
+	<item name="Bobbin Count - Display">
+		<section name="Bobbin Count - Display" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Bold Line Frequency">
+		<section name="Bold Line Frequency" link="PreshelpBold_Line_Frequency.htm">
+		</section>
+	</item>
+	<item name="Bold Lines">
+		<section name="Bold Lines" link="PreshelpBold_Lines.htm">
+		</section>
+	</item>
+	<item name="Boundaries">
+		<section name="Boundaries" link="PreshelpUnderstanding_Working_Boundaries.htm">
+		</section>
+	</item>
+	<item name="Bring Forward">
+		<section name="Bring Forward" link="PreshelpOverlapping_Objects.htm">
+		</section>
+	</item>
+	<item name="Bring Forwards">
+		<section name="Bring Forwards" link="PreshelpBring_Forwards.htm">
+		</section>
+	</item>
+	<item name="Bring to Front">
+		<section name="Bring to Front" link="PreshelpOverlapping_Objects.htm">
+		</section>
+		<section name="Bring to Front" link="PreshelpBring_to_Front.htm">
+		</section>
+	</item>
+	<item name="Cancel">
+		<section name="Cancel" link="PreshelpCancel.htm">
+		</section>
+	</item>
+	<item name="Cancel Changes">
+		<section name="Cancel Changes" link="PreshelpCancel_Changes.htm">
+		</section>
+	</item>
+	<item name="Cancel Frame Plan">
+		<section name="Cancel Frame Plan" link="PreshelpCancel_Frame_Plan.htm">
+		</section>
+	</item>
+	<item name="Cancel Operation">
+		<section name="Cancel Operation" link="PreshelpCancel_Operation.htm">
+		</section>
+	</item>
+	<item name="Cancel Palette">
+		<section name="Cancel Palette" link="PreshelpCancel_Palette.htm">
+		</section>
+	</item>
+	<item name="Cancel Print Window">
+		<section name="Cancel Print Window" link="PreshelpCancel_Print_Window.htm">
+		</section>
+	</item>
+	<item name="Cancel Setup">
+		<section name="Cancel Setup" link="PreshelpCancel_Setup.htm">
+		</section>
+	</item>
+	<item name="Change Quick Layout">
+		<section name="Change Quick Layout" link="Preshelp_Standard_Templates_List.htm">
+		</section>
+	</item>
+	<item name="Clear">
+		<section name="Clear" link="PreshelpClear.htm">
+		</section>
+	</item>
+	<item name="Clear All">
+		<section name="Clear All" link="PreshelpClear_All.htm">
+		</section>
+	</item>
+	<item name="Clear All Transparencies">
+		<section name="Clear All Transparencies" link="PreshelpClear_All_Transparencies.htm">
+		</section>
+	</item>
+	<item name="Clear Layout">
+		<section name="Clear Layout" link="PreshelpClear_Layout.htm">
+		</section>
+	</item>
+	<item name="Clearing the Complete Layout">
+		<section name="Clearing the Complete Layout" link="PreshelpClearing_the_Complete_Layout.htm">
+		</section>
+	</item>
+	<item name="Click and Drag">
+		<section name="Click and Drag" link="PreshelpClick_and_Drag.htm">
+		</section>
+	</item>
+	<item name="Clipping to Page">
+		<section name="Clipping to Page" link="PreshelpKeeping_Within_the_Working_Area.htm">
+		</section>
+	</item>
+	<item name="Cloth Mode Insertion (Jacquard  Dobby Only)">
+		<section name="Cloth Mode Insertion (Jacquard  Dobby Only)" link="PreshelpInserting_the_Design_in_Cloth_Mo.htm">
+		</section>
+	</item>
+	<item name="Collate Pages">
+		<section name="Collate Pages" link="PreshelpCollate_Pages.htm">
+		</section>
+	</item>
+	<item name="Color">
+		<section name="Colour" link="PreshelpColour.htm">
+		</section>
+	</item>
+	<item name="Color Number">
+		<section name="Colour Number" link="PreshelpColour_Number.htm">
+		</section>
+	</item>
+	<item name="Color Palette - Print Overrides">
+		<section name="Colour Palette - Print Overrides" link="PreshelpAdjusting_the_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Color Palettes">
+		<section name="Colour Palettes" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Color Usage">
+		<section name="Colour Usage" link="PreshelpColour_Usage.htm">
+		</section>
+	</item>
+	<item name="Color Usage - Display">
+		<section name="Colour Usage - Display" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Colors to Print">
+		<section name="Colours to Print" link="PreshelpColours_to_Print.htm">
+		</section>
+	</item>
+	<item name="Confirmation">
+		<section name="Confirmation" link="PreshelpConfirming_Actions.htm">
+		</section>
+	</item>
+	<item name="Confirming Actions">
+		<section name="Confirming Actions" link="PreshelpConfirming_Actions.htm">
+		</section>
+	</item>
+	<item name="Creating Layouts">
+		<section name="Creating Design-Specific Layouts" link="PreshelpCreating_DesignSpecific_Layouts.htm">
+		</section>
+	</item>
+	<item name="Creating Folders">
+		<section name="Creating Folders" link="PreshelpCreating_Folders.htm">
+		</section>
+	</item>
+	<item name="Crop Mode">
+		<section name="Crop Mode" link="PreshelpCrop_Mode.htm">
+		</section>
+	</item>
+	<item name="Cropping Designs">
+		<section name="Cropping Designs" link="PreshelpCropping_Designs.htm">
+		</section>
+	</item>
+	<item name="Current Design">
+		<section name="Current Design" link="PreshelpThe_Current_Design.htm">
+		</section>
+	</item>
+	<item name="Default Scale">
+		<section name="Default Scale" link="PreshelpThe_Default_Scale.htm">
+		</section>
+	</item>
+	<item name="Deleting Selective Objects">
+		<section name="Deleting Selective Objects" link="PreshelpDeleting_Selective_Objects.htm">
+		</section>
+	</item>
+	<item name="Deselect All">
+		<section name="Deselect All" link="PreshelpDeselect_All.htm">
+		</section>
+	</item>
+	<item name="Design">
+		<section name="Design" link="PreshelpDesign.htm">
+		</section>
+	</item>
+	<item name="Design Location">
+		<section name="Design Location" link="PreshelpDesign_Location.htm">
+		</section>
+	</item>
+	<item name="Design Specifications">
+		<section name="Design Specifications" link="PreshelpDesign_Specifications.htm">
+		</section>
+	</item>
+	<item name="Display Headings">
+		<section name="Display Headings" link="PreshelpDisplay_Headings.htm">
+		</section>
+	</item>
+	<item name="Drag Point">
+		<section name="Drag Point" link="PreshelpDrag_Point.htm">
+		</section>
+	</item>
+	<item name="Drop_Down Menus">
+		<section name="Drop_Down Menus" link="PreshelpUsing_the_DropDown_Menus.htm">
+		</section>
+	</item>
+	<item name="Easily Resolved Problems">
+		<section name="Easily Resolved Problems" link="PreshelpEasily_Resolved_Problems.htm">
+		</section>
+	</item>
+	<item name="Expanding Designs in Repeat">
+		<section name="Expanding Designs in Repeat" link="PreshelpExpanding_Designs_in_Repeat.htm">
+		</section>
+	</item>
+	<item name="File-Types">
+		<section name="File-Types" link="PreshelpTypes_of_File_that_can_be_Opened.htm">
+		</section>
+	</item>
+	<item name="Finding  Loading Layout Files (.LYT's) within Folders">
+		<section name="Finding  Loading Layout Files (.LYT's) within Folders" link="PreshelpFinding__Loading_Layout_Files_LY.htm">
+		</section>
+	</item>
+	<item name="Finding and Opening Design Files">
+		<section name="Finding and Opening Design Files" link="PreshelpFinding_and_Opening_Design_Files.htm">
+		</section>
+	</item>
+	<item name="Fit to Page">
+		<section name="Fit to Page" link="PreshelpFit_to_Page.htm">
+		</section>
+	</item>
+	<item name="Folders">
+		<section name="Folders" link="PreshelpUnderstanding_the_Concept_of_Fol.htm">
+		</section>
+	</item>
+	<item name="Frame Orientation">
+		<section name="Frame Orientation" link="PreshelpFrame_Orientation.htm">
+		</section>
+	</item>
+	<item name="Frame Plan Repeats">
+		<section name="Frame Plan Repeats" link="PreshelpFrame_Plan_Repeats.htm">
+		</section>
+	</item>
+	<item name="Frame Plans for Production Purposes">
+		<section name="Frame Plans for Production Purposes" link="PreshelpPrinting_Frame_Plans_for_Product.htm">
+		</section>
+	</item>
+	<item name="Frame Plans in Presentations">
+		<section name="Frame Plans in Presentations" link="PreshelpInserting_a_Plan_for_Presentatio.htm">
+		</section>
+	</item>
+	<item name="Frame Repeats">
+		<section name="Frame Repeats" link="PreshelpFrame_Repeats.htm">
+		</section>
+	</item>
+	<item name="Frame Scale">
+		<section name="Frame Scale" link="PreshelpFrame_Scale.htm">
+		</section>
+	</item>
+	<item name="Frame Usage (Carpet Designer only)">
+		<section name="Frame Usage (Carpet Designer only)" link="PreshelpFrame_Usage_Carpet_Designer_only.htm">
+		</section>
+	</item>
+	<item name="Frame Usage - Display">
+		<section name="Frame Usage - Display" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Frames per Inch">
+		<section name="Frames per Inch" link="PreshelpFrames_per_Inch.htm">
+		</section>
+	</item>
+	<item name="Grid Colour">
+		<section name="Grid Colour" link="PreshelpGrid_Colour.htm">
+		</section>
+	</item>
+	<item name="Grid Lines">
+		<section name="Grid Lines" link="PreshelpGrid_Lines.htm">
+		</section>
+	</item>
+	<item name="Grids">
+		<section name="Grids" link="PreshelpPrinting_with_Grids.htm">
+		</section>
+	</item>
+	<item name="Group Selection">
+		<section name="Group Selection" link="PreshelpGroup_Selection.htm">
+		</section>
+	</item>
+	<item name="Grouping Items">
+		<section name="Grouping Items" link="PreshelpSelecting_Grouping_and_Locking_O.htm">
+		</section>
+	</item>
+	<item name="Handles">
+		<section name="Handles" link="PreshelpHandles.htm">
+		</section>
+	</item>
+	<item name="Horizontal Pages">
+		<section name="Horizontal Pages" link="PreshelpHorizontal_Pages.htm">
+		</section>
+	</item>
+	<item name="Import Design">
+		<section name="Import Design" link="PreshelpImport_Design.htm">
+		</section>
+	</item>
+	<item name="Importing a Design">
+		<section name="Importing a Design" link="PreshelpImporting_a_Design.htm">
+		</section>
+	</item>
+	<item name="Importing Palettes">
+		<section name="Importing Palettes" link="PreshelpImporting_Palettes.htm">
+		</section>
+	</item>
+	<item name="Insert Design">
+		<section name="Insert Design" link="PreshelpInsert_Design.htm">
+		</section>
+	</item>
+	<item name="Insert Logo">
+		<section name="Insert Logo" link="PreshelpInsert_Logo.htm">
+		</section>
+	</item>
+	<item name="Insert Palette">
+		<section name="Insert Palette" link="PreshelpInsert_Palette.htm">
+		</section>
+	</item>
+	<item name="Insert Specification">
+		<section name="Insert Specification" link="PreshelpInsert_Specification.htm">
+		</section>
+	</item>
+	<item name="Insert Text">
+		<section name="Insert Text" link="PreshelpInsert_Text.htm">
+		</section>
+	</item>
+	<item name="Inserting a Colour Palette">
+		<section name="Inserting a Colour Palette" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Inserting a Logo">
+		<section name="Inserting a Logo" link="PreshelpInserting_a_Logo.htm">
+		</section>
+	</item>
+	<item name="Inserting a Plan for Presentations">
+		<section name="Inserting a Plan for Presentations" link="PreshelpInserting_a_Plan_for_Presentatio.htm">
+		</section>
+	</item>
+	<item name="Inserting Customised Text">
+		<section name="Inserting Customised Text" link="PreshelpInserting_Customised_Text.htm">
+		</section>
+	</item>
+	<item name="Inserting Specification Details">
+		<section name="Inserting Specification Details" link="PreshelpInserting_Specification_Details.htm">
+		</section>
+	</item>
+	<item name="Inserting the 'Current' Design">
+		<section name="Inserting the 'Current' Design" link="PreshelpInserting_the_Current_Design.htm">
+		</section>
+	</item>
+	<item name="Inserting the Design in Cloth Mode (Jacquard  Dobby only)">
+		<section name="Inserting the Design in Cloth Mode (Jacquard  Dobby only)" link="PreshelpInserting_the_Design_in_Cloth_Mo.htm">
+		</section>
+	</item>
+	<item name="Inserting the Design in Weave Mode (Jacquard  Dobby only)">
+		<section name="Inserting the Design in Weave Mode (Jacquard  Dobby only)" link="PreshelpInserting_the_Design_in_Weave_Mo.htm">
+		</section>
+	</item>
+	<item name="Invert">
+		<section name="Invert" link="PreshelpInvert.htm">
+		</section>
+	</item>
+	<item name="Justification">
+		<section name="Justification" link="PreshelpJustification.htm">
+		</section>
+	</item>
+	<item name="Keeping Within the Working Area">
+		<section name="Keeping Within the Working Area" link="PreshelpKeeping_Within_the_Working_Area.htm">
+		</section>
+	</item>
+	<item name="Keyboard Shortcuts">
+		<section name="Keyboard Shortcuts" link="PreshelpKeyboard_Shortcuts.htm">
+		</section>
+	</item>
+	<item name="Legend">
+		<section name="Legend" link="PreshelpLegend.htm">
+		</section>
+	</item>
+	<item name="Legend Location">
+		<section name="Legend Location" link="PreshelpLegend_Location.htm">
+		</section>
+	</item>
+	<item name="Legend Text">
+		<section name="Legend Text" link="PreshelpLegend_Text.htm">
+		</section>
+	</item>
+	<item name="Loading/Saving Design-Specific Layouts">
+		<section name="Loading/Saving Design-Specific Layouts" link="PreshelpSavingLoading_DesignSpecific_Lay.htm">
+		</section>
+	</item>
+	<item name="Loading/Saving Templates">
+		<section name="Loading/Saving Templates" link="PreshelpSavingLoading_Templates.htm">
+		</section>
+	</item>
+	<item name="Lock Selected Items">
+		<section name="Lock Selected Items" link="PreshelpLock_Selected_Items.htm">
+		</section>
+	</item>
+	<item name="Lock to Design">
+		<section name="Lock to Design" link="PreshelpLock_to_Design.htm">
+		</section>
+	</item>
+	<item name="Lock to Size">
+		<section name="Lock to Size" link="PreshelpLock_to_Size.htm">
+		</section>
+	</item>
+	<item name="Locking Items">
+		<section name="Locking Items" link="PreshelpSelecting_Grouping_and_Locking_O.htm">
+		</section>
+	</item>
+	<item name="Logo">
+		<section name="Logo" link="PreshelpLogo.htm">
+		</section>
+	</item>
+	<item name="Logo - inserting in layouts">
+		<section name="Logo - inserting in layouts" link="PreshelpInserting_a_Logo.htm">
+		</section>
+	</item>
+	<item name="Logo File Search">
+		<section name="Logo File Search" link="PreshelpLogo_File_Search.htm">
+		</section>
+	</item>
+	<item name="Logo Filename">
+		<section name="Logo Filename" link="PreshelpLogo_Filename.htm">
+		</section>
+	</item>
+	<item name="Logo Location">
+		<section name="Logo Location" link="PreshelpLogo_Location.htm">
+		</section>
+	</item>
+	<item name="Logo Scale">
+		<section name="Logo Scale" link="PreshelpLogo_Scale.htm">
+		</section>
+	</item>
+	<item name="Margins">
+		<section name="Margins" link="PreshelpShowing_Margins.htm">
+		</section>
+	</item>
+	<item name="Moving Objects around the Page(s)">
+		<section name="Moving Objects around the Page(s)" link="PreshelpMoving_Objects_around_the_Pages.htm">
+		</section>
+	</item>
+	<item name="No">
+		<section name="No" link="PreshelpNo.htm">
+		</section>
+	</item>
+	<item name="Number Ends">
+		<section name="Number Ends" link="PreshelpNumber_Ends.htm">
+		</section>
+	</item>
+	<item name="Number of Copies">
+		<section name="Number of Copies" link="PreshelpNumber_of_Copies.htm">
+		</section>
+	</item>
+	<item name="OK">
+		<section name="OK" link="PreshelpOK.htm">
+		</section>
+	</item>
+	<item name="OK to Frame Plan">
+		<section name="OK to Frame Plan" link="PreshelpOK_to_Frame_Plan.htm">
+		</section>
+	</item>
+	<item name="OK to Palette">
+		<section name="OK to Palette" link="PreshelpOK_to_Palette.htm">
+		</section>
+	</item>
+	<item name="OK to Print">
+		<section name="OK to Print" link="PreshelpOK_to_Print.htm">
+		</section>
+	</item>
+	<item name="OK to Setup">
+		<section name="OK to Setup" link="PreshelpOK_to_Setup.htm">
+		</section>
+	</item>
+	<item name="Opening Design Files">
+		<section name="Opening Design Files" link="PreshelpFinding_and_Opening_Design_Files.htm">
+		</section>
+	</item>
+	<item name="Orientation">
+		<section name="Orientation" link="PreshelpOrientation.htm">
+		</section>
+	</item>
+	<item name="Overlapping Objects">
+		<section name="Overlapping Objects" link="PreshelpOverlapping_Objects.htm">
+		</section>
+	</item>
+	<item name="Override Value">
+		<section name="Override Value" link="PreshelpOverride_Value.htm">
+		</section>
+	</item>
+	<item name="Page">
+		<section name="Page Outlines" link="PreshelpPage_Outlines.htm">
+		</section>
+	</item>
+	<item name="Page Number Selection">
+		<section name="Page Number Selection" link="PreshelpSelecting_Number_of_Pages.htm">
+		</section>
+	</item>
+	<item name="Page Outlines">
+		<section name="Page Outlines" link="PreshelpShowing_Page_Outlines.htm">
+		</section>
+	</item>
+	<item name="Palettes">
+		<section name="Palettes" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+		<item name="Numbers">
+			<section name="Palette Numbers" link="PreshelpPalette_Numbers.htm">
+			</section>
+		</item>
+		<item name="Information">
+			<section name="Palette Information" link="PreshelpInserting_a_Colour_Palette.htm">
+			</section>
+		</item>
+		<item name="Location">
+			<section name="Palette Location" link="PreshelpPalette_Location.htm">
+			</section>
+		</item>
+		<item name="Colors">
+			<section name="Palette Colours" link="PreshelpPalette_Colours.htm">
+			</section>
+		</item>
+		<item name="Text">
+			<section name="Palette Options" link="PreshelpPalette_Options.htm">
+			</section>
+		</item>
+		<item name="Style">
+			<section name="Palette Style" link="PreshelpPalette_Style.htm">
+			</section>
+		</item>
+		<item name="Blocks">
+			<section name="Palette Blocks" link="Palette_Blocks.htm">
+			</section>
+		</item>
+		<item name="Swatch Text">
+			<section name="Palette Swatch Text" link="Palette_Swatch_Text.htm">
+			</section>
+		</item>
+		<item name="Loading and Saving">
+			<section name="Loading and Saving Palettes" link="Loading_and_Saving_Palettes.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Paper Orientation (Portrait/Landscape) Selection">
+		<section name="Paper Orientation (Portrait/Landscape) Selection" link="PreshelpSelecting_Paper_Size.htm">
+		</section>
+	</item>
+	<item name="Paper Size Selection">
+		<section name="Paper Size Selection" link="PreshelpSelecting_Paper_Size.htm">
+		</section>
+	</item>
+	<item name="Pre-Determined Co-ordinates">
+		<section name="Pre-Determined Co-ordinates" link="PreshelpPreDetermined_Coordinates.htm">
+		</section>
+	</item>
+	<item name="Pre-Determined Text Co-ordinates">
+		<section name="Pre-Determined Text Co-ordinates" link="PreshelpPreDetermined_Text_Coordinates.htm">
+		</section>
+	</item>
+	<item name="Preview">
+		<section name="Preview" link="PreshelpPreview.htm">
+		</section>
+	</item>
+	<item name="Print Grid">
+		<section name="Print Grid" link="PreshelpPrint_Grid.htm">
+		</section>
+	</item>
+	<item name="Print Layout">
+		<section name="Print Layout" link="PreshelpPrint_Layout.htm">
+		</section>
+	</item>
+	<item name="Print Legend">
+		<section name="Print Legend" link="PreshelpPrint_Legend.htm">
+		</section>
+	</item>
+	<item name="Print Logo">
+		<section name="Print Logo" link="PreshelpPrint_Logo.htm">
+		</section>
+	</item>
+	<item name="Print Palette">
+		<section name="Print Palette" link="PreshelpPrint_Palette.htm">
+		</section>
+	</item>
+	<item name="Print Range">
+		<section name="Print Range" link="PreshelpPrint_Range.htm">
+		</section>
+	</item>
+	<item name="Print Specifications">
+		<section name="Print Specifications" link="PreshelpPrint_Specifications.htm">
+		</section>
+	</item>
+	<item name="Print Text">
+		<section name="Print Text" link="PreshelpPrint_Text.htm">
+		</section>
+	</item>
+	<item name="Printed Scale">
+		<section name="Printed Scale" link="PreshelpPrinted_Scale.htm">
+		</section>
+	</item>
+	<item name="Printer Defaults">
+		<section name="Printer Defaults" link="PreshelpSetting_Printer_Defaults.htm">
+		</section>
+	</item>
+	<item name="Printer Name">
+		<section name="Printer Name" link="PreshelpPrinter_Name.htm">
+		</section>
+	</item>
+	<item name="Printer Selection">
+		<section name="Printer Selection" link="PreshelpSelecting_a_Printer.htm">
+		</section>
+	</item>
+	<item name="Printing Frame Plans for Production Purposes">
+		<section name="Printing Frame Plans for Production Purposes" link="PreshelpPrinting_Frame_Plans_for_Product.htm">
+		</section>
+	</item>
+	<item name="Printing Layouts">
+		<section name="Printing Layouts" link="PreshelpPrinting_Layouts.htm">
+		</section>
+	</item>
+	<item name="Printing Layouts - See Also">
+		<section name="Printing Layouts - See Also" link="PreshelpPrinting_Layouts__See_Also.htm">
+		</section>
+	</item>
+	<item name="Printing Rulers">
+		<section name="Printing Rulers" link="PreshelpPrinting_Rulers.htm">
+		</section>
+	</item>
+	<item name="Printing Rulers - See Also">
+		<section name="Printing Rulers - See Also" link="PreshelpPrinting_Rulers__See_Also.htm">
+		</section>
+	</item>
+	<item name="Printing Sharp Text">
+		<section name="Printing Sharp Text" link="PreshelpPrinting_Sharp_Text.htm">
+		</section>
+	</item>
+	<item name="Project To Base Defaults On">
+		<section name="Project To Base Defaults On" link="PreshelpProject_To_Base_Defaults_On.htm">
+		</section>
+	</item>
+	<item name="Projects">
+		<section name="Projects" link="PreshelpWorking_with_Projects.htm">
+		</section>
+	</item>
+	<item name="Properties">
+		<section name="Properties" link="PreshelpProperties.htm">
+		</section>
+	</item>
+	<item name="Quality - Adjusting">
+		<section name="Quality - Adjusting" link="PreshelpAdjusting_the_Quality.htm">
+		</section>
+	</item>
+	<item name="Templates">
+		<section name="Quick Layouts - Understanding" link="PreshelpUnderstanding_Template_Layouts_2017.htm">
+		</section>
+	</item>
+	<item name="Repeats">
+		<section name="Repeats" link="PreshelpRepeats.htm">
+		</section>
+	</item>
+	<item name="Repeats - Displaying">
+		<section name="Repeats - Displaying" link="PreshelpExpanding_Designs_in_Repeat.htm">
+		</section>
+	</item>
+	<item name="Reset">
+		<section name="Reset" link="PreshelpReset.htm">
+		</section>
+	</item>
+	<item name="Reset All">
+		<section name="Reset All" link="PreshelpReset_All.htm">
+		</section>
+	</item>
+	<item name="Reset Override">
+		<section name="Reset Override" link="PreshelpReset_Override.htm">
+		</section>
+	</item>
+	<item name="Reset to 1 x 1">
+		<section name="Reset to 1 x 1" link="PreshelpReset_to_1_x_1.htm">
+		</section>
+	</item>
+	<item name="Resizing Objects">
+		<section name="Resizing Objects" link="PreshelpScaling_Resizing_Objects.htm">
+		</section>
+	</item>
+	<item name="RGB Values">
+		<section name="RGB Values" link="PreshelpRGB_Values.htm">
+		</section>
+	</item>
+	<item name="Ruler Properties">
+		<section name="Ruler Properties" link="PreshelpRuler_Properties.htm">
+		</section>
+	</item>
+	<item name="Ruler Start Position">
+		<section name="Ruler Start Position" link="PreshelpRuler_Start_Position.htm">
+		</section>
+	</item>
+	<item name="Rulers">
+		<section name="Rulers" link="PreshelpPrinting_Rulers.htm">
+		</section>
+		<section name="Rulers" link="PreshelpRulers.htm">
+		</section>
+	</item>
+	<item name="Save Layout">
+		<section name="Save Layout" link="PreshelpSave_Layout.htm">
+		</section>
+	</item>
+	<item name="Saving Layouts as Bitmaps">
+		<section name="Saving Layouts as Bitmaps" link="PreshelpSaving_Layouts_as_Bitmaps.htm">
+		</section>
+	</item>
+	<item name="Saving Layouts in Folders">
+		<section name="Saving Layouts in Folders" link="PreshelpSaving_Layouts_in_Folders.htm">
+		</section>
+	</item>
+	<item name="Saving Palettes">
+		<section name="Saving Palettes" link="PreshelpSaving_Palettes.htm">
+		</section>
+	</item>
+	<item name="Saving/Loading Design-Specific Layouts">
+		<section name="Saving/Loading Design-Specific Layouts" link="PreshelpSavingLoading_DesignSpecific_Lay.htm">
+		</section>
+	</item>
+	<item name="Saving/Loading Templates">
+		<section name="Saving/Loading Templates" link="PreshelpSavingLoading_Templates.htm">
+		</section>
+	</item>
+	<item name="Saving/Loading Templates - see also">
+		<section name="Saving/Loading Templates - see also" link="PreshelpSavingLoading_Templates__see_als.htm">
+		</section>
+	</item>
+	<item name="Scale">
+		<section name="Scale" link="PreshelpScale.htm">
+		</section>
+	</item>
+	<item name="Scale and Size">
+		<section name="Scale and Size" link="PreshelpScale_and_Size.htm">
+		</section>
+	</item>
+	<item name="Scaling (Resizing) Objects">
+		<section name="Scaling (Resizing) Objects" link="PreshelpScaling_Resizing_Objects.htm">
+		</section>
+	</item>
+	<item name="Scaling (Resizing) Objects - See Also">
+		<section name="Scaling (Resizing) Objects - See Also" link="PreshelpScaling_Resizing_Objects__See_Al.htm">
+		</section>
+	</item>
+	<item name="Screen Refreshing">
+		<section name="Screen Refreshing" link="PreshelpEasily_Resolved_Problems.htm">
+		</section>
+	</item>
+	<item name="Select All">
+		<section name="Select All" link="PreshelpSelect_All.htm">
+		</section>
+	</item>
+	<item name="Select, Move and Resize">
+		<section name="Select, Move and Resize" link="PreshelpSelect_Move_and_Resize.htm">
+		</section>
+	</item>
+	<item name="Selecting">
+		<section name="Selecting" link="PreshelpSelecting_Grouping_and_Locking_O.htm">
+		</section>
+	</item>
+	<item name="Selecting a Printer">
+		<section name="Selecting a Printer" link="PreshelpSelecting_a_Printer.htm">
+		</section>
+	</item>
+	<item name="Selecting a Quick Layout">
+		<section name="Selecting a Quick Layout" link="Preshelp_Standard_Templates_List.htm">
+		</section>
+	</item>
+	<item name="Selecting Number of Pages">
+		<section name="Selecting Number of Pages" link="PreshelpSelecting_Number_of_Pages.htm">
+		</section>
+	</item>
+	<item name="Selecting Paper Size">
+		<section name="Selecting Paper Size" link="PreshelpSelecting_Paper_Size.htm">
+		</section>
+	</item>
+	<item name="Selecting:Grouping and Locking Objects">
+		<section name="Selecting:Grouping and Locking Objects" link="PreshelpSelecting_Grouping_and_Locking_O.htm">
+		</section>
+	</item>
+	<item name="Send Back">
+		<section name="Send to Back" link="PreshelpSend_to_Back.htm">
+		</section>
+	</item>
+	<item name="Send Backwards">
+		<section name="Send Backwards" link="PreshelpOverlapping_Objects.htm">
+		</section>
+		<section name="Send Backwards" link="PreshelpSend_Backwards.htm">
+		</section>
+	</item>
+	<item name="Send to Back">
+		<section name="Send to Back" link="PreshelpOverlapping_Objects.htm">
+		</section>
+	</item>
+	<item name="Setting">
+		<section name="Setting" link="PreshelpAdjusting_the_Quality.htm">
+		</section>
+	</item>
+	<item name="Setting Printer Defaults">
+		<section name="Setting Printer Defaults" link="PreshelpSetting_Printer_Defaults.htm">
+		</section>
+	</item>
+	<item name="Sharp Text">
+		<section name="Sharp Text" link="PreshelpPrinting_Sharp_Text.htm">
+		</section>
+	</item>
+	<item name="Show Texture">
+		<section name="Show Texture" link="PreshelpShow_Texture.htm">
+		</section>
+	</item>
+	<item name="Showing Margins">
+		<section name="Showing Margins" link="PreshelpShowing_Margins.htm">
+		</section>
+	</item>
+	<item name="Showing Page Outlines">
+		<section name="Showing Page Outlines" link="PreshelpShowing_Page_Outlines.htm">
+		</section>
+	</item>
+	<item name="Size">
+		<section name="Size" link="PreshelpSize.htm">
+		</section>
+	</item>
+	<item name="Space Evenly Horizontally">
+		<section name="Space Evenly Horizontally" link="PreshelpSpace_Evenly_Horizontally.htm">
+		</section>
+	</item>
+	<item name="Space Evenly in Both Directions">
+		<section name="Space Evenly in Both Directions" link="PreshelpSpace_Evenly_in_Both_Directions.htm">
+		</section>
+	</item>
+	<item name="Space Evenly Vertically">
+		<section name="Space Evenly Vertically" link="PreshelpSpace_Evenly_Vertically.htm">
+		</section>
+	</item>
+	<item name="Spacing Objects">
+		<section name="Spacing Objects" link="PreshelpSpacing_Objects.htm">
+		</section>
+	</item>
+	<item name="Spec Location">
+		<section name="Spec Location" link="PreshelpSpec_Location.htm">
+		</section>
+	</item>
+	<item name="Specification Details">
+		<section name="Specification Details" link="PreshelpInserting_Specification_Details.htm">
+		</section>
+	</item>
+	<item name="Specifications">
+		<section name="Specifications" link="PreshelpSpecifications.htm">
+		</section>
+	</item>
+	<item name="Status Bar">
+		<section name="Status Bar" link="PreshelpUnderstanding_the_Status_Bar.htm">
+		</section>
+	</item>
+	<item name="Swatch Shape">
+		<section name="Swatch Shape" link="PreshelpSwatch_Shape.htm">
+		</section>
+	</item>
+	<item name="Swatch Size">
+		<section name="Swatch Size" link="PreshelpSwatch_Size.htm">
+		</section>
+	</item>
+	<item name="Swatch Style">
+		<section name="Swatch Style" link="PreshelpSwatch_Style.htm">
+		</section>
+	</item>
+	<item name="Quick Layout Properties">
+		<section name="Template Layouts - Creating" link="Preshelp_Quick_Layout_Properties.htm">
+		</section>
+		<item name="Design Properties">
+			<section name="Quick Design Properties" link="Quick_Design_Properties.htm">
+			</section>
+		</item>
+		<item name="Title Properties">
+			<section name="Quick Title Properties" link="Quick_Title_Properties.htm">
+			</section>
+		</item>
+		<item name="Spec Properties">
+			<section name="Quick Spec Properties" link="Quick_Spec_Properties.htm">
+			</section>
+		</item>
+		<item name="Palette Properties">
+			<section name="Quick Palette Properties" link="Quick_Palette_Properties.htm">
+			</section>
+		</item>
+		<item name="Legend Properties">
+			<section name="Quick Legend Properties" link="Quick_Legend_Properties.htm">
+			</section>
+		</item>
+		<item name="Logo Properties">
+			<section name="Quick Logo Properties" link="Quick_Logo_Properties.htm">
+			</section>
+		</item>
+		<item name="Text Properties">
+			<section name="Quick Text Properties" link="Quick_Text_Properties.htm">
+			</section>
+		</item>
+		<item name="Watermark Properties">
+			<section name="Quick Watermark Properties" link="Quick_Watermark_Properties.htm">
+			</section>
+		</item>
+		<item name="Pages Properties">
+			<section name="Quick Pages Properties" link="Quick_Pages_Properties.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Text">
+		<section name="Text" link="PreshelpInserting_Customised_Text.htm">
+		</section>
+		<section name="Text" link="PreshelpText.htm">
+		</section>
+	</item>
+	<item name="Text Box">
+		<section name="Text Box" link="PreshelpText_Box.htm">
+		</section>
+	</item>
+	<item name="Text Location">
+		<section name="Text Location" link="PreshelpText_Location.htm">
+		</section>
+	</item>
+	<item name="Texture File Name">
+		<section name="Texture File Name" link="PreshelpTexture_File_Name.htm">
+		</section>
+	</item>
+	<item name="Texture File Size">
+		<section name="Texture File Size" link="PreshelpTexture_File_Size.htm">
+		</section>
+	</item>
+	<item name="Texturing Designs (Carpet Designs only)">
+		<section name="Texturing Designs (Carpet Designs only)" link="PreshelpTexturing_Designs_Carpet_Designs.htm">
+		</section>
+	</item>
+	<item name="The Current Design">
+		<section name="The Current Design" link="PreshelpThe_Current_Design.htm">
+		</section>
+	</item>
+	<item name="The Default Scale">
+		<section name="The Default Scale" link="PreshelpThe_Default_Scale.htm">
+		</section>
+	</item>
+	<item name="Threshold">
+		<section name="Threshold" link="PreshelpThreshold.htm">
+		</section>
+	</item>
+	<item name="Toolbar">
+		<section name="Toolbar" link="PreshelpUsing_the_Toolbar.htm">
+		</section>
+	</item>
+	<item name="Toolbox">
+		<section name="Toolbox" link="PreshelpUsing_the_Toolbox.htm">
+		</section>
+	</item>
+	<item name="Transparency">
+		<section name="Transparency" link="PreshelpTransparency.htm">
+		</section>
+	</item>
+	<item name="Transparent - Making Colours">
+		<section name="Transparent - Making Colours" link="PreshelpAdjusting_the_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Troubleshooting">
+		<section name="Troubleshooting" link="PreshelpEasily_Resolved_Problems.htm">
+		</section>
+	</item>
+	<item name="True Type Font">
+		<section name="True Type Font" link="PreshelpTrue_Type_Font.htm">
+		</section>
+	</item>
+	<item name="Tuft Count (Carpet Designer only)">
+		<section name="Tuft Count (Carpet Designer only)" link="PreshelpTuft_Count_Carpet_Designer_only.htm">
+		</section>
+	</item>
+	<item name="Tuft Count - Display">
+		<section name="Tuft Count - Display" link="PreshelpInserting_a_Colour_Palette.htm">
+		</section>
+	</item>
+	<item name="Types of File that can be Opened">
+		<section name="Types of File that can be Opened" link="PreshelpTypes_of_File_that_can_be_Opened.htm">
+		</section>
+	</item>
+	<item name="Understanding Quick Layouts">
+		<section name="Understanding Quick Layouts" link="PreshelpUnderstanding_Template_Layouts_2017.htm">
+		</section>
+	</item>
+	<item name="Understanding the Concept of Folders">
+		<section name="Understanding the Concept of Folders" link="PreshelpUnderstanding_the_Concept_of_Fol.htm">
+		</section>
+	</item>
+	<item name="Understanding the Status Bar">
+		<section name="Understanding the Status Bar" link="PreshelpUnderstanding_the_Status_Bar.htm">
+		</section>
+	</item>
+	<item name="Understanding Working Boundaries">
+		<section name="Understanding Working Boundaries" link="PreshelpUnderstanding_Working_Boundaries.htm">
+		</section>
+	</item>
+	<item name="Ungroup Selection">
+		<section name="Ungroup Selection" link="PreshelpUngroup_Selection.htm">
+		</section>
+	</item>
+	<item name="Unlock Selected Items">
+		<section name="Unlock Selected Items" link="PreshelpUnlock_Selected_Items.htm">
+		</section>
+	</item>
+	<item name="Using the Drop-Down Menus">
+		<section name="Using the Drop-Down Menus" link="PreshelpUsing_the_DropDown_Menus.htm">
+		</section>
+	</item>
+	<item name="Using the Toolbar">
+		<section name="Using the Toolbar" link="PreshelpUsing_the_Toolbar.htm">
+		</section>
+	</item>
+	<item name="Using the Toolbox">
+		<section name="Using the Toolbox" link="PreshelpUsing_the_Toolbox.htm">
+		</section>
+	</item>
+	<item name="Vertical Pages">
+		<section name="Vertical Pages" link="PreshelpVertical_Pages.htm">
+		</section>
+	</item>
+	<item name="Weave Mode Insertion (Jacquard  Dobby Only)">
+		<section name="Weave Mode Insertion (Jacquard  Dobby Only)" link="PreshelpInserting_the_Design_in_Weave_Mo.htm">
+		</section>
+	</item>
+	<item name="Working Boundaries">
+		<section name="Working Boundaries" link="PreshelpWorking_Boundaries.htm">
+		</section>
+	</item>
+	<item name="Working with Projects">
+		<section name="Working with Projects" link="PreshelpWorking_with_Projects.htm">
+		</section>
+	</item>
+	<item name="Ruler Colour">
+		<section name="Ruler Colour" link="Ruler_Colour.htm">
+		</section>
+	</item>
+	<item name="Print Preferences">
+		<section name="Print Preferences" link="Print Preferences.htm">
+		</section>
+	</item>
+	<item name="Standard Template List">
+		<section name="Standard Template List" link="Preshelp_Standard_Templates_List.htm">
+		</section>
+	</item>
+	<item name="Design Properties">
+		<section name="Design Object Properties" link="Design_Object_Properties.htm">
+		</section>
+		<item name="Size">
+			<section name="Design Size Properties" link="Design_Size_Properties.htm">
+			</section>
+		</item>
+		<item name="Scale">
+			<section name="Design Scale Properties" link="Design_Scale_Properties.htm">
+			</section>
+		</item>
+		<item name="Repeats">
+			<section name="Design Scale Properties" link="Design_Scale_Properties.htm">
+			</section>
+		</item>
+		<item name="Setting">
+			<section name="Design Setting Properties" link="Design_Setting_Properties.htm">
+			</section>
+		</item>
+		<item name="Edge">
+			<section name="Design Edge Properties" link="Design_Edge_Properties.htm">
+			</section>
+		</item>
+		<item name="Color">
+			<section name="Design Color Properties" link="Design_Color_Properties.htm">
+			</section>
+		</item>
+		<item name="Grid">
+			<section name="Design Grid Properties" link="Design_Grid_Properties.htm">
+			</section>
+		</item>
+		<item name="Rulers">
+			<section name="Design Rulers Properties" link="Design_Rulers_Properties.htm">
+			</section>
+		</item>
+		<item name="Texture">
+			<section name="Design Texture Properties" link="Design_Texture_Properties.htm">
+			</section>
+		</item>
+		<item name="Watermark">
+			<section name="Design Watermark Properties" link="Design_Watermark_Properties.htm">
+			</section>
+		</item>
+	</item>
+</index>

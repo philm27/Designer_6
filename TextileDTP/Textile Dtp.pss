@@ -1,0 +1,104 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\Textile_Dtp.htm
+SSLayoutType=32
+ServerProjectName=Textile Dtp
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\Textile_Dtp.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\Textile_Dtp.chm
+SSLayoutType=1
+CreateProjectTime=19:25, May 13, 2021
+CreateProjectUser=Philm3
+SupportMas_MPJ=1
+Enable Result Dialog=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\Textile_Dtp.chm
+ResultStatus=0
+BuildTimeHi=30885925
+BuildTimeLow=-2100186438
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\Textile_Dtp.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\Textile_Dtp.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\Textile_Dtp.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\Textile_Dtp.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\Textile_Dtp.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\Textile_Dtp.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\Textile_Dtp.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\Textile_Dtp.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\Textile_Dtp.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[PreSingleSource]
+Html Help Project=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.hhp
+Table Of Content=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.hhc
+Index=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.hhk
+Topic Index=c:\Apso_CAD\Help\TextileDTP\RHTopicKeyword$.hhk
+See Also Index=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.hha
+Browse Sequence=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.brs
+Glossary=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.glo
+Topic Properties=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trs
+Active Folders=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trf
+Baggage Files=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trb
+Skin List=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trk
+Active Layout Names=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trl
+Template Files=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trt
+Project TOC List=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trtocl
+Project Index List=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.tridxl
+Project Glossary List=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trglol
+Project CSS List=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trcss
+Project Variable Set List=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.trvset
+External URL Settings=c:\Apso_CAD\Help\TextileDTP\SearchOptions.xml
+Screen Template File Details=c:\Apso_CAD\Help\TextileDTP\Textile Dtp.sctfdl
+CPSwfToHTML5Map=c:\Apso_CAD\Help\TextileDTP\__cpSwf2HTML5ZipMap
+Default Topic=c:\Apso_CAD\Help\TextileDTP\PreshelpApso_Presentation_Designer_Help_.htm
+Build Tags0=10345;
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=c:\Apso_CAD\Help\TextileDTP\!Language!\en_US\RoboHHRE.lng
+Stop List=c:\Apso_CAD\Help\TextileDTP\!Language!\en_US\Textile Dtp.stp

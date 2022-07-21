@@ -1,0 +1,101 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+P {
+	font-family: Verdana;
+	font-size: 9.0pt;
+	color: #000000;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+H1 {
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 24.0pt;
+	background-color: #487CB7;
+	text-align: center;
+	color: #ffffff;
+}
+BODY {
+	font-family: Verdana;
+	font-size: 9.0pt;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-color: transparent;
+	background-image: url(CAD_help.jpg);
+	color: #000000;
+}
+A.expandspot {
+	cursor: hand;
+	color: #008000;
+	font-style: normal;
+}
+SPAN.expandtext {
+	color: #ff0000;
+	font-weight: normal;
+	font-style: italic;
+}
+A.dropspot {
+	font-style: italic;
+	cursor: hand;
+	color: #008000;
+}
+A.glossterm {
+	cursor: hand;
+	color: #800000;
+	font-style: normal;
+}
+SPAN.glosstext {
+	color: #0000ff;
+	font-weight: normal;
+	font-style: italic;
+}
+P.Listing {
+	color: #000000;
+	padding-bottom: 1.0pt;
+	padding-top: 1.0pt;
+	margin-bottom: 0.0pt;
+	margin-top: -14.0pt;
+	line-height: 10.0pt;
+	list-style-type: disc;
+	text-align: left;
+	font-size: 9.0pt;
+	font-family: Verdana;
+}
+table.SimpleGridBlue {
+	padding: 0px;
+	x-border-spacing: 0px;
+	x-row-pat-1: 1;
+	x-row-pat-1-name: t1Row;
+	x-row-pat-count: 2;
+	x-row-pat-2: 1;
+	x-row-pat-2-name: t2Row;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #4F81BD;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #4F81BD;
+}
+table.SimpleGridBlue td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+table.SimpleGridBlue tr.t1Row td {
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #4F81BD;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #4F81BD;
+}
+table.SimpleGridBlue tr.t2Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #4F81BD;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #4F81BD;
+}

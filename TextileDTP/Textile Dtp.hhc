@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties framename="right" font="Verdana,8" windowstyles="8388615">
+	</properties>
+	<item name="Apso Textile DTP Help Files" link="PreshelpApso_Presentation_Designer_Help_.htm">
+	</item>
+	<item name="Folders">
+		<item name="Understanding the Concept of Folders" link="PreshelpUnderstanding_the_Concept_of_Fol.htm">
+		</item>
+		<item name="Creating Folders" link="PreshelpCreating_Folders.htm">
+		</item>
+		<item name="Finding  Loading Layout Files (.LYT's) within Folders" link="PreshelpFinding__Loading_Layout_Files_LY.htm">
+		</item>
+		<item name="Finding and Opening Design Files" link="PreshelpFinding_and_Opening_Design_Files.htm">
+		</item>
+		<item name="Types of File that can be Opened" link="PreshelpTypes_of_File_that_can_be_Opened.htm">
+		</item>
+		<item name="Saving Layouts in Folders" link="PreshelpSaving_Layouts_in_Folders.htm">
+		</item>
+	</item>
+	<item name="Screen Layout, Tools and Menus">
+		<item name="Toolbox">
+			<item name="Using the Toolbox" link="PreshelpUsing_the_Toolbox.htm">
+			</item>
+		</item>
+		<item name="Toolbar">
+			<item name="Using the Toolbar" link="PreshelpUsing_the_Toolbar.htm">
+			</item>
+		</item>
+		<item name="Status Bar">
+			<item name="Understanding the Status Bar" link="PreshelpUnderstanding_the_Status_Bar.htm">
+			</item>
+		</item>
+		<item name="Working Area">
+			<item name="Understanding Working Boundaries" link="PreshelpUnderstanding_Working_Boundaries.htm">
+			</item>
+		</item>
+		<item name="Menus">
+			<item name="Using Menus" link="PreshelpUsing_the_DropDown_Menus.htm">
+			</item>
+		</item>
+	</item>
+	<item name="The Blank Page">
+		<item name="Setting Up the Page(s)">
+			<item name="Selecting a Printer" link="PreshelpSelecting_a_Printer.htm">
+			</item>
+			<item name="Selecting Paper Size" link="PreshelpSelecting_Paper_Size.htm">
+			</item>
+			<item name="Selecting Number of Pages" link="PreshelpSelecting_Number_of_Pages.htm">
+			</item>
+		</item>
+		<item name="Page Guidelines">
+			<item name="Showing Margins" link="PreshelpShowing_Margins.htm">
+			</item>
+			<item name="Showing Page Outlines" link="PreshelpShowing_Page_Outlines.htm">
+			</item>
+			<item name="Keeping Within the Working Area" link="PreshelpKeeping_Within_the_Working_Area.htm">
+			</item>
+			<item name="Confirming Actions" link="PreshelpConfirming_Actions.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Projects">
+		<item name="Working with Projects" link="PreshelpWorking_with_Projects.htm">
+		</item>
+	</item>
+	<item name="Creating Layouts">
+		<item name="Introduction">
+			<item name="Creating Layouts" link="PreshelpCreating_DesignSpecific_Layouts.htm">
+			</item>
+			<item name="Saving/Loading Layouts" link="PreshelpSavingLoading_DesignSpecific_Lay.htm">
+			</item>
+		</item>
+		<item name="Quick Layouts">
+			<item name="Quick Layout Properties" link="Preshelp_Quick_Layout_Properties.htm">
+			</item>
+			<item name="Quick Design Properties" link="Quick_Design_Properties.htm">
+			</item>
+			<item name="Quick Title Properties" link="Quick_Title_Properties.htm">
+			</item>
+			<item name="Quick Spec Properties" link="Quick_Spec_Properties.htm">
+			</item>
+			<item name="Quick Palette Properties" link="Quick_Palette_Properties.htm">
+			</item>
+			<item name="Quick Legend Properties" link="Quick_Legend_Properties.htm">
+			</item>
+			<item name="Quick Logo Properties" link="Quick_Logo_Properties.htm">
+			</item>
+			<item name="Quick Text Properties" link="Quick_Text_Properties.htm">
+			</item>
+			<item name="Quick Watermark Properties" link="Quick_Watermark_Properties.htm">
+			</item>
+			<item name="Quick Pages Properties" link="Quick_Pages_Properties.htm">
+			</item>
+		</item>
+		<item name="Templates">
+			<item name="Understanding Template Layouts" link="PreshelpUnderstanding_Template_Layouts_2017.htm">
+			</item>
+			<item name="Saving/Loading Templates" link="PreshelpSavingLoading_Templates.htm">
+			</item>
+			<item name="Standard Templates List" link="Preshelp_Standard_Templates_List.htm">
+			</item>
+		</item>
+		<item name="Cloning Layout">
+			<item name="Clone Layout" link="Cloning_Layout.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Design Objects">
+		<item name="Inserting a Design">
+			<item name="The Current Design" link="PreshelpThe_Current_Design.htm">
+			</item>
+			<item name="Inserting the 'Current' Design" link="PreshelpInserting_the_Current_Design.htm">
+			</item>
+			<item name="Inserting the Design in Weave Mode (Jacquard  Dobby only)" link="PreshelpInserting_the_Design_in_Weave_Mo.htm">
+			</item>
+			<item name="Inserting the Design in Cloth Mode (Jacquard  Dobby only)" link="PreshelpInserting_the_Design_in_Cloth_Mo.htm">
+			</item>
+			<item name="Importing a Design" link="PreshelpImporting_a_Design.htm">
+			</item>
+			<item name="Importing a Project" link="Importing_a_Project.htm">
+			</item>
+			<item name="Import from History List" link="Import_from_History_List.htm">
+			</item>
+			<item name="Copy and Paste Design Objects" link="Paste_Design_Object.htm">
+			</item>
+		</item>
+		<item name="Design Properties" link="Design_Object_Properties.htm">
+			<item name="Design Size Properties" link="Design_Size_Properties.htm">
+			</item>
+			<item name="Design Setting Properties" link="Design_Setting_Properties.htm">
+			</item>
+			<item name="Design Scale Properties" link="Design_Scale_Properties.htm">
+			</item>
+			<item name="Design Grid Properties" link="Design_Grid_Properties.htm">
+			</item>
+			<item name="Design Rulers Properties" link="Design_Rulers_Properties.htm">
+			</item>
+			<item name="Design Edge Properties" link="Design_Edge_Properties.htm">
+			</item>
+			<item name="Design Color Properties" link="Design_Color_Properties.htm">
+			</item>
+			<item name="Design Texture Properties" link="Design_Texture_Properties.htm">
+			</item>
+			<item name="Design Watermark Properties" link="Design_Watermark_Properties.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Palettes">
+		<item name="Inserting a Color Palette" link="PreshelpInserting_a_Colour_Palette.htm">
+		</item>
+		<item name="Adjusting the Palette" link="PreshelpAdjusting_the_Colour_Palette.htm">
+		</item>
+		<item name="Loading and Saving Palettes" link="Loading_and_Saving_Palettes.htm">
+		</item>
+		<item name="Palette Properties">
+			<item name="Style" link="PreshelpPalette_Style.htm">
+			</item>
+			<item name="Text" link="PreshelpPalette_Options.htm">
+			</item>
+			<item name="Swatch Text" link="Palette_Swatch_Text.htm">
+			</item>
+			<item name="Blocks" link="Palette_Blocks.htm">
+			</item>
+			<item name="Warp Weft Blocks" link="Palette_Blocks_in_Jacquard.htm">
+			</item>
+			<item name="Color Selector" link="Color_Selector.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Shade Library">
+		<item name="Introduction" link="Shade_Library_Introduction.htm">
+		</item>
+		<item name="Color Tab" link="Shade_Library_Color_Page.htm">
+		</item>
+		<item name="Range Tab" link="Shade_Library_Range_Page.htm">
+		</item>
+	</item>
+	<item name="Preferences">
+		<item name="General" link="General.htm">
+		</item>
+		<item name="Grids" link="Grids.htm">
+		</item>
+		<item name="Shade Library" link="Shade_Library.htm">
+		</item>
+		<item name="Undo" link="Undo.htm">
+		</item>
+	</item>
+	<item name="Text">
+		<item name="Inserting Specification Details" link="PreshelpInserting_Specification_Details.htm">
+		</item>
+		<item name="Inserting Customised Text" link="PreshelpInserting_Customised_Text.htm">
+		</item>
+	</item>
+	<item name="Logo">
+		<item name="Inserting a Logo" link="PreshelpInserting_a_Logo.htm">
+		</item>
+	</item>
+	<item name="Frame Plans (Carpet Designer only)">
+		<item name="Inserting a Frame Plan" link="PreshelpInserting_a_Plan_for_Presentatio.htm">
+		</item>
+		<item name="Frame Information" link="Frame_Information.htm">
+		</item>
+	</item>
+	<item name="Tools">
+		<item name="Manipulating Objects">
+			<item name="Selecting, Grouping and Locking Objects" link="PreshelpSelecting_Grouping_and_Locking_O.htm">
+			</item>
+			<item name="Re-sizing Objects" link="PreshelpScaling_Resizing_Objects.htm">
+			</item>
+			<item name="The Default Scale" link="PreshelpThe_Default_Scale.htm">
+			</item>
+			<item name="Cropping Designs" link="PreshelpCropping_Designs.htm">
+			</item>
+			<item name="Expanding Designs in Repeat" link="PreshelpExpanding_Designs_in_Repeat.htm">
+			</item>
+			<item name="Texturing Designs (Carpet Designs only)" link="PreshelpTexturing_Designs_Carpet_Designs.htm">
+			</item>
+			<item name="Cut, Copy Paste" link="Cut,_Copy_Paste.htm">
+			</item>
+		</item>
+		<item name="Arranging Objects">
+			<item name="Moving Objects around the Page(s)" link="PreshelpMoving_Objects_around_the_Pages.htm">
+			</item>
+			<item name="Aligning Objects" link="PreshelpAligning_Objects.htm">
+			</item>
+			<item name="Make Same Width or Height" link="Make_Same_Width_or_Height.htm">
+			</item>
+			<item name="Spacing Objects" link="PreshelpSpacing_Objects.htm">
+			</item>
+			<item name="Overlapping Objects" link="PreshelpOverlapping_Objects.htm">
+			</item>
+		</item>
+		<item name="Deleting Objects">
+			<item name="Deleting Selective Objects" link="PreshelpDeleting_Selective_Objects.htm">
+			</item>
+			<item name="Clearing the Complete Layout" link="PreshelpClearing_the_Complete_Layout.htm">
+			</item>
+		</item>
+		<item name="Preparing Production Papers">
+			<item name="Printing with Grids" link="PreshelpPrinting_with_Grids.htm">
+			</item>
+			<item name="Printing Rulers" link="PreshelpPrinting_Rulers.htm">
+			</item>
+			<item name="Adjusting the Quality" link="PreshelpAdjusting_the_Quality.htm">
+			</item>
+		</item>
+		<item name="Keyboard Shortcuts">
+			<item name="Keyboard Shortcuts" link="PreshelpKeyboard_Shortcuts.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Printing">
+		<item name="Printing Layouts" link="PreshelpPrinting_Layouts.htm">
+		</item>
+		<item name="Quick Print" link="Quick_Print.htm">
+		</item>
+		<item name="Print Preferences" link="Print Preferences.htm">
+		</item>
+		<item name="Setting Printer Defaults" link="PreshelpSetting_Printer_Defaults.htm">
+		</item>
+		<item name="Printing Sharp Text" link="PreshelpPrinting_Sharp_Text.htm">
+		</item>
+		<item name="Aborting a Print" link="PreshelpAborting_a_Print.htm">
+		</item>
+	</item>
+	<item name="Extra Print Options">
+		<item name="Extra Print Options" link="Extra_Print_Options.htm">
+		</item>
+	</item>
+	<item name="Interacting with Other Software">
+		<item name="Saving Layouts as Bitmaps" link="PreshelpSaving_Layouts_as_Bitmaps.htm">
+		</item>
+	</item>
+	<item name="Problem Solving">
+		<item name="Easily Resolved Problems" link="PreshelpEasily_Resolved_Problems.htm">
+		</item>
+	</item>
+	<item name="Getting in Touch">
+		<item name="Customer Care" link="CarpetCustomer_Care.htm">
+		</item>
+	</item>
+</toc>

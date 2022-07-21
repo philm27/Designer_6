@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<windows>
+		<window>
+			<name>NewWindow1</name>
+			<caption>Textile DTP Help</caption>
+			<tocfile></tocfile>
+			<indexfile></indexfile>
+			<defaultfile></defaultfile>
+			<homefile>PresHelpWelcome.htm</homefile>
+			<jump1filename>http://www.apso.com</jump1filename>
+			<jump1text>apso.com</jump1text>
+			<jump2filename>http://www.cre8tiv.com</jump2filename>
+			<jump2text>cre8tiv.com</jump2text>
+			<flags>136480</flags>
+			<navpanewidth>0</navpanewidth>
+			<buttons>798846</buttons>
+			<windowplacement>
+				<left>5</left>
+				<top>5</top>
+				<right>811</right>
+				<bottom>679</bottom>
+			</windowplacement>
+			<windowstyle>0</windowstyle>
+			<windowstyleex>0</windowstyleex>
+			<expandedstate>0</expandedstate>
+			<defaulttab>0</defaulttab>
+			<tabposition>0</tabposition>
+			<showwindow>0</showwindow>
+		</window>
+	</windows>
+</rhpml>

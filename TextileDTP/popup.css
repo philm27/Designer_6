@@ -1,0 +1,46 @@
+﻿/*Created with Adobe RoboHelp 2017.*/
+P {
+	font-family: Verdana;
+	font-size: 10.0pt;
+	background-color: #ffffff;
+	margin-top: 5pt;
+	margin-bottom: 5pt;
+}
+H1 {
+	font-family: Verdana;
+	font-size: 10.0pt;
+	background-color: #ffffff;
+}
+BODY {
+	background-color: #ffffff;
+}
+A.expandspot {
+	cursor: hand;
+	color: #008000;
+	font-style: normal;
+}
+SPAN.expandtext {
+	color: #ff0000;
+	font-weight: normal;
+	font-style: italic;
+}
+A.dropspot {
+	font-style: italic;
+	cursor: hand;
+	color: #008000;
+}
+A.glossterm {
+	cursor: hand;
+	color: #800000;
+	font-style: normal;
+}
+SPAN.glosstext {
+	color: #0000ff;
+	font-weight: normal;
+	font-style: italic;
+}
+ol,
+ul {
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
